@@ -1,0 +1,4456 @@
+site	codon	WT_nt	Variant_nt	WT_AA	Variant_AA	classification	Clinvar_clinical_significance
+1	1	A	C	M	L	Start-loss	Pathogenic
+1	1	A	T	M	L	Start-loss	NA
+1	1	A	G	M	V	Start-loss	Pathogenic
+2	1	T	A	M	K	Start-loss	NA
+2	1	T	C	M	T	Start-loss	NA
+2	1	T	G	M	R	Start-loss	NA
+3	1	G	A	M	I	Start-loss	NA
+3	1	G	C	M	I	Start-loss	NA
+3	1	G	T	M	I	Start-loss	NA
+4	2	C	A	R	R	Synonymous	Likely benign
+4	2	C	T	R	W	Missense	Uncertain significance
+4	2	C	G	R	G	Missense	NA
+5	2	G	A	R	Q	Missense	Uncertain significance
+5	2	G	C	R	P	Missense	NA
+5	2	G	T	R	L	Missense	Uncertain significance
+6	2	G	A	R	R	Synonymous	NA
+6	2	G	C	R	R	Synonymous	NA
+6	2	G	T	R	R	Synonymous	NA
+7	3	C	A	L	I	Missense	NA
+7	3	C	T	L	F	Missense	NA
+7	3	C	G	L	V	Missense	NA
+8	3	T	A	L	H	Missense	NA
+8	3	T	C	L	P	Missense	NA
+8	3	T	G	L	R	Missense	NA
+9	3	C	A	L	L	Synonymous	NA
+9	3	C	T	L	L	Synonymous	Likely benign
+9	3	C	G	L	L	Synonymous	Likely benign
+10	4	A	C	T	P	Missense	NA
+10	4	A	T	T	S	Missense	NA
+10	4	A	G	T	A	Missense	NA
+11	4	C	A	T	N	Missense	NA
+11	4	C	T	T	I	Missense	NA
+11	4	C	G	T	S	Missense	Uncertain significance
+12	4	C	A	T	T	Synonymous	NA
+12	4	C	T	T	T	Synonymous	NA
+12	4	C	G	T	T	Synonymous	NA
+13	5	C	A	R	S	Missense	NA
+13	5	C	T	R	C	Missense	Uncertain significance
+13	5	C	G	R	G	Missense	NA
+14	5	G	A	R	H	Missense	NA
+14	5	G	C	R	P	Missense	NA
+14	5	G	T	R	L	Missense	NA
+15	5	C	A	R	R	Synonymous	Likely benign
+15	5	C	T	R	R	Synonymous	NA
+15	5	C	G	R	R	Synonymous	NA
+16	6	T	A	C	S	Missense	NA
+16	6	T	C	C	R	Missense	Uncertain significance
+16	6	T	G	C	G	Missense	NA
+17	6	G	A	C	Y	Missense	NA
+17	6	G	C	C	S	Missense	NA
+17	6	G	T	C	F	Missense	NA
+18	6	C	A	C	*	Nonsense	NA
+18	6	C	T	C	C	Synonymous	Likely benign
+18	6	C	G	C	W	Missense	NA
+19	7	C	A	Q	K	Missense	NA
+19	7	C	T	Q	*	Nonsense	Likely pathogenic
+19	7	C	G	Q	E	Missense	NA
+20	7	A	C	Q	P	Missense	NA
+20	7	A	T	Q	L	Missense	NA
+20	7	A	G	Q	R	Missense	NA
+21	7	G	A	Q	Q	Synonymous	NA
+21	7	G	C	Q	H	Missense	NA
+21	7	G	T	Q	H	Missense	NA
+22	8	G	A	A	T	Missense	Uncertain significance
+22	8	G	C	A	P	Missense	NA
+22	8	G	T	A	S	Missense	NA
+23	8	C	A	A	D	Missense	NA
+23	8	C	T	A	V	Missense	NA
+23	8	C	G	A	G	Missense	NA
+24	8	T	A	A	A	Synonymous	NA
+24	8	T	C	A	A	Synonymous	NA
+24	8	T	G	A	A	Synonymous	NA
+25	9	G	A	A	T	Missense	NA
+25	9	G	C	A	P	Missense	NA
+25	9	G	T	A	S	Missense	NA
+26	9	C	A	A	D	Missense	NA
+26	9	C	T	A	V	Missense	Uncertain significance
+26	9	C	G	A	G	Missense	NA
+27	9	C	A	A	A	Synonymous	NA
+27	9	C	T	A	A	Synonymous	NA
+27	9	C	G	A	A	Synonymous	NA
+28	10	C	A	L	M	Missense	NA
+28	10	C	T	L	L	Synonymous	NA
+28	10	C	G	L	V	Missense	NA
+29	10	T	A	L	Q	Missense	NA
+29	10	T	C	L	P	Missense	NA
+29	10	T	G	L	R	Missense	NA
+30	10	G	A	L	L	Synonymous	NA
+30	10	G	C	L	L	Synonymous	NA
+30	10	G	T	L	L	Synonymous	NA
+31	11	G	A	A	T	Missense	NA
+31	11	G	C	A	P	Missense	NA
+31	11	G	T	A	S	Missense	NA
+32	11	C	A	A	E	Missense	NA
+32	11	C	T	A	V	Missense	Uncertain significance
+32	11	C	G	A	G	Missense	NA
+33	11	G	A	A	A	Synonymous	NA
+33	11	G	C	A	A	Synonymous	Likely benign
+33	11	G	T	A	A	Synonymous	NA
+34	12	G	A	A	T	Missense	NA
+34	12	G	C	A	P	Missense	NA
+34	12	G	T	A	S	Missense	NA
+35	12	C	A	A	D	Missense	NA
+35	12	C	T	A	V	Missense	NA
+35	12	C	G	A	G	Missense	NA
+36	12	C	A	A	A	Synonymous	NA
+36	12	C	T	A	A	Synonymous	NA
+36	12	C	G	A	A	Synonymous	NA
+37	13	G	A	A	T	Missense	Uncertain significance
+37	13	G	C	A	P	Missense	NA
+37	13	G	T	A	S	Missense	NA
+38	13	C	A	A	D	Missense	NA
+38	13	C	T	A	V	Missense	NA
+38	13	C	G	A	G	Missense	NA
+39	13	C	A	A	A	Synonymous	NA
+39	13	C	T	A	A	Synonymous	NA
+39	13	C	G	A	A	Synonymous	NA
+40	14	A	C	I	L	Missense	NA
+40	14	A	T	I	F	Missense	NA
+40	14	A	G	I	V	Missense	NA
+41	14	T	A	I	N	Missense	NA
+41	14	T	C	I	T	Missense	NA
+41	14	T	G	I	S	Missense	NA
+42	14	C	A	I	I	Synonymous	NA
+42	14	C	T	I	I	Synonymous	NA
+42	14	C	G	I	M	Missense	NA
+43	15	A	C	T	P	Missense	Uncertain significance
+43	15	A	T	T	S	Missense	NA
+43	15	A	G	T	A	Missense	NA
+44	15	C	A	T	N	Missense	NA
+44	15	C	T	T	I	Missense	Uncertain significance
+44	15	C	G	T	S	Missense	NA
+45	15	C	A	T	T	Synonymous	NA
+45	15	C	T	T	T	Synonymous	Likely benign
+45	15	C	G	T	T	Synonymous	Likely benign
+46	16	C	A	L	I	Missense	NA
+46	16	C	T	L	F	Missense	NA
+46	16	C	G	L	V	Missense	NA
+47	16	T	A	L	H	Missense	NA
+47	16	T	C	L	P	Missense	NA
+47	16	T	G	L	R	Missense	NA
+48	16	C	A	L	L	Synonymous	NA
+48	16	C	T	L	L	Synonymous	Likely benign
+48	16	C	G	L	L	Synonymous	NA
+49	17	A	C	N	H	Missense	NA
+49	17	A	T	N	Y	Missense	NA
+49	17	A	G	N	D	Missense	NA
+50	17	A	C	N	T	Missense	NA
+50	17	A	T	N	I	Missense	NA
+50	17	A	G	N	S	Missense	NA
+51	17	C	A	N	K	Missense	NA
+51	17	C	T	N	N	Synonymous	NA
+51	17	C	G	N	K	Missense	NA
+52	18	C	A	L	I	Missense	NA
+52	18	C	T	L	F	Missense	Uncertain significance
+52	18	C	G	L	V	Missense	NA
+53	18	T	A	L	H	Missense	NA
+53	18	T	C	L	P	Missense	NA
+53	18	T	G	L	R	Missense	NA
+54	18	T	A	L	L	Synonymous	Conflicting interpretations of pathogenicity
+54	18	T	C	L	L	Synonymous	NA
+54	18	T	G	L	L	Synonymous	NA
+55	19	C	A	L	M	Missense	NA
+55	19	C	T	L	L	Synonymous	NA
+55	19	C	G	L	V	Missense	NA
+56	19	T	A	L	Q	Missense	NA
+56	19	T	C	L	P	Missense	NA
+56	19	T	G	L	R	Missense	NA
+57	19	G	A	L	L	Synonymous	Uncertain significance
+57	19	G	C	L	L	Synonymous	NA
+57	19	G	T	L	L	Synonymous	NA
+58	20	G	A	V	I	Missense	NA
+58	20	G	C	V	L	Missense	NA
+58	20	G	T	V	F	Missense	NA
+59	20	T	A	V	D	Missense	NA
+59	20	T	C	V	A	Missense	Uncertain significance
+59	20	T	G	V	G	Missense	NA
+60	20	C	A	V	V	Synonymous	NA
+60	20	C	T	V	V	Synonymous	Likely benign
+60	20	C	G	V	V	Synonymous	Likely benign
+61	21	C	A	L	I	Missense	NA
+61	21	C	T	L	F	Missense	Uncertain significance
+61	21	C	G	L	V	Missense	NA
+62	21	T	A	L	H	Missense	NA
+62	21	T	C	L	P	Missense	NA
+62	21	T	G	L	R	Missense	NA
+63	21	C	A	L	L	Synonymous	NA
+63	21	C	T	L	L	Synonymous	NA
+63	21	C	G	L	L	Synonymous	NA
+64	22	T	A	F	I	Missense	NA
+64	22	T	C	F	L	Missense	NA
+64	22	T	G	F	V	Missense	NA
+65	22	T	A	F	Y	Missense	NA
+65	22	T	C	F	S	Missense	NA
+65	22	T	G	F	C	Missense	NA
+66	22	C	A	F	L	Missense	NA
+66	22	C	T	F	F	Synonymous	Likely benign
+66	22	C	G	F	L	Missense	NA
+67	23	T	A	Y	N	Missense	NA
+67	23	T	C	Y	H	Missense	NA
+67	23	T	G	Y	D	Missense	NA
+68	23	A	C	Y	S	Missense	NA
+68	23	A	T	Y	F	Missense	NA
+68	23	A	G	Y	C	Missense	Uncertain significance
+69	23	T	A	Y	*	Nonsense	NA
+69	23	T	C	Y	Y	Synonymous	Likely benign
+69	23	T	G	Y	*	Nonsense	NA
+70	24	G	A	V	I	Missense	NA
+70	24	G	C	V	L	Missense	NA
+70	24	G	T	V	F	Missense	NA
+71	24	T	A	V	D	Missense	NA
+71	24	T	C	V	A	Missense	NA
+71	24	T	G	V	G	Missense	NA
+72	24	C	A	V	V	Synonymous	NA
+72	24	C	T	V	V	Synonymous	NA
+72	24	C	G	V	V	Synonymous	NA
+73	25	T	A	S	T	Missense	NA
+73	25	T	C	S	P	Missense	NA
+73	25	T	G	S	A	Missense	NA
+74	25	C	A	S	*	Nonsense	no interpretation for the single variant
+74	25	C	T	S	L	Missense	NA
+74	25	C	G	S	W	Missense	NA
+75	25	G	A	S	S	Synonymous	Likely benign
+75	25	G	C	S	S	Synonymous	NA
+75	25	G	T	S	S	Synonymous	Likely benign
+76	26	T	A	W	R	Missense	NA
+76	26	T	C	W	R	Missense	NA
+76	26	T	G	W	G	Missense	NA
+77	26	G	A	W	*	Nonsense	Pathogenic/Likely pathogenic
+77	26	G	C	W	S	Missense	NA
+77	26	G	T	W	L	Missense	Uncertain significance
+78	26	G	A	W	*	Nonsense	NA
+78	26	G	C	W	C	Missense	NA
+78	26	G	T	W	C	Missense	NA
+79	27	C	A	L	M	Missense	NA
+79	27	C	T	L	L	Synonymous	Likely benign
+79	27	C	G	L	V	Missense	NA
+80	27	T	A	L	Q	Missense	NA
+80	27	T	C	L	P	Missense	NA
+80	27	T	G	L	R	Missense	NA
+81	27	G	A	L	L	Synonymous	NA
+81	27	G	C	L	L	Synonymous	NA
+81	27	G	T	L	L	Synonymous	NA
+82	28	C	A	Q	K	Missense	NA
+82	28	C	T	Q	*	Nonsense	NA
+82	28	C	G	Q	E	Missense	Uncertain significance
+83	28	A	C	Q	P	Missense	NA
+83	28	A	T	Q	L	Missense	NA
+83	28	A	G	Q	R	Missense	Uncertain significance
+84	28	G	A	Q	Q	Synonymous	NA
+84	28	G	C	Q	H	Missense	NA
+84	28	G	T	Q	H	Missense	NA
+85	29	C	A	H	N	Missense	Uncertain significance
+85	29	C	T	H	Y	Missense	Uncertain significance
+85	29	C	G	H	D	Missense	NA
+86	29	A	C	H	P	Missense	NA
+86	29	A	T	H	L	Missense	NA
+86	29	A	G	H	R	Missense	Uncertain significance
+87	29	C	A	H	Q	Missense	NA
+87	29	C	T	H	H	Synonymous	NA
+87	29	C	G	H	Q	Missense	NA
+88	30	C	A	Q	K	Missense	NA
+88	30	C	T	Q	*	Nonsense	NA
+88	30	C	G	Q	E	Missense	NA
+89	30	A	C	Q	P	Missense	NA
+89	30	A	T	Q	L	Missense	NA
+89	30	A	G	Q	R	Missense	NA
+90	30	G	A	Q	Q	Synonymous	NA
+90	30	G	C	Q	H	Missense	NA
+90	30	G	T	Q	H	Missense	NA
+91	31	C	A	P	T	Missense	NA
+91	31	C	T	P	S	Missense	Uncertain significance
+91	31	C	G	P	A	Missense	NA
+92	31	C	A	P	H	Missense	NA
+92	31	C	T	P	L	Missense	NA
+92	31	C	G	P	R	Missense	NA
+93	31	T	A	P	P	Synonymous	NA
+93	31	T	C	P	P	Synonymous	NA
+93	31	T	G	P	P	Synonymous	NA
+94	32	A	C	R	R	Synonymous	NA
+94	32	A	T	R	W	Missense	NA
+94	32	A	G	R	G	Missense	NA
+95	32	G	A	R	K	Missense	NA
+95	32	G	C	R	T	Missense	NA
+95	32	G	T	R	M	Missense	NA
+96	32	G	A	R	R	Synonymous	NA
+96	32	G	C	R	S	Missense	NA
+96	32	G	T	R	S	Missense	NA
+97	33	A	C	N	H	Missense	NA
+97	33	A	T	N	Y	Missense	NA
+97	33	A	G	N	D	Missense	Uncertain significance
+98	33	A	C	N	T	Missense	NA
+98	33	A	T	N	I	Missense	NA
+98	33	A	G	N	S	Missense	NA
+99	33	T	A	N	K	Missense	NA
+99	33	T	C	N	N	Synonymous	NA
+99	33	T	G	N	K	Missense	NA
+100	34	T	A	S	T	Missense	Uncertain significance
+100	34	T	C	S	P	Missense	NA
+100	34	T	G	S	A	Missense	NA
+101	34	C	A	S	Y	Missense	NA
+101	34	C	T	S	F	Missense	Uncertain significance
+101	34	C	G	S	C	Missense	NA
+102	34	C	A	S	S	Synonymous	NA
+102	34	C	T	S	S	Synonymous	NA
+102	34	C	G	S	S	Synonymous	NA
+103	35	C	A	R	R	Synonymous	NA
+103	35	C	T	R	W	Missense	Uncertain significance
+103	35	C	G	R	G	Missense	NA
+104	35	G	A	R	Q	Missense	Uncertain significance
+104	35	G	C	R	P	Missense	NA
+104	35	G	T	R	L	Missense	NA
+105	35	G	A	R	R	Synonymous	NA
+105	35	G	C	R	R	Synonymous	NA
+105	35	G	T	R	R	Synonymous	NA
+106	36	G	A	A	T	Missense	NA
+106	36	G	C	A	P	Missense	NA
+106	36	G	T	A	S	Missense	Uncertain significance
+107	36	C	A	A	D	Missense	NA
+107	36	C	T	A	V	Missense	NA
+107	36	C	G	A	G	Missense	NA
+108	36	C	A	A	A	Synonymous	NA
+108	36	C	T	A	A	Synonymous	Likely benign
+108	36	C	G	A	A	Synonymous	NA
+109	37	C	A	R	R	Synonymous	NA
+109	37	C	T	R	W	Missense	NA
+109	37	C	G	R	G	Missense	NA
+110	37	G	A	R	Q	Missense	Uncertain significance
+110	37	G	C	R	P	Missense	NA
+110	37	G	T	R	L	Missense	NA
+111	37	G	A	R	R	Synonymous	Likely benign
+111	37	G	C	R	R	Synonymous	NA
+111	37	G	T	R	R	Synonymous	NA
+112	38	G	A	G	R	Missense	NA
+112	38	G	C	G	R	Missense	NA
+112	38	G	T	G	W	Missense	NA
+113	38	G	A	G	E	Missense	Uncertain significance
+113	38	G	C	G	A	Missense	NA
+113	38	G	T	G	V	Missense	NA
+114	38	G	A	G	G	Synonymous	Likely benign
+114	38	G	C	G	G	Synonymous	NA
+114	38	G	T	G	G	Synonymous	Likely benign
+115	39	C	A	P	T	Missense	NA
+115	39	C	T	P	S	Missense	Uncertain significance
+115	39	C	G	P	A	Missense	NA
+116	39	C	A	P	H	Missense	NA
+116	39	C	T	P	L	Missense	NA
+116	39	C	G	P	R	Missense	NA
+117	39	C	A	P	P	Synonymous	NA
+117	39	C	T	P	P	Synonymous	NA
+117	39	C	G	P	P	Synonymous	Likely benign
+118	40	C	A	R	S	Missense	Uncertain significance
+118	40	C	T	R	C	Missense	NA
+118	40	C	G	R	G	Missense	NA
+119	40	G	A	R	H	Missense	Uncertain significance
+119	40	G	C	R	P	Missense	NA
+119	40	G	T	R	L	Missense	NA
+120	40	T	A	R	R	Synonymous	NA
+120	40	T	C	R	R	Synonymous	NA
+120	40	T	G	R	R	Synonymous	NA
+121	41	C	A	R	S	Missense	Uncertain significance
+121	41	C	T	R	C	Missense	NA
+121	41	C	G	R	G	Missense	NA
+122	41	G	A	R	H	Missense	Uncertain significance
+122	41	G	C	R	P	Missense	NA
+122	41	G	T	R	L	Missense	Uncertain significance
+123	41	T	A	R	R	Synonymous	NA
+123	41	T	C	R	R	Synonymous	NA
+123	41	T	G	R	R	Synonymous	NA
+124	42	G	A	A	T	Missense	NA
+124	42	G	C	A	P	Missense	NA
+124	42	G	T	A	S	Missense	NA
+125	42	C	A	A	D	Missense	NA
+125	42	C	T	A	V	Missense	NA
+125	42	C	G	A	G	Missense	Uncertain significance
+126	42	C	A	A	A	Synonymous	NA
+126	42	C	T	A	A	Synonymous	NA
+126	42	C	G	A	A	Synonymous	Likely benign
+127	43	T	A	S	T	Missense	NA
+127	43	T	C	S	P	Missense	NA
+127	43	T	G	S	A	Missense	NA
+128	43	C	A	S	Y	Missense	NA
+128	43	C	T	S	F	Missense	NA
+128	43	C	G	S	C	Missense	Uncertain significance
+129	43	T	A	S	S	Synonymous	NA
+129	43	T	C	S	S	Synonymous	NA
+129	43	T	G	S	S	Synonymous	NA
+130	44	G	A	A	T	Missense	NA
+130	44	G	C	A	P	Missense	NA
+130	44	G	T	A	S	Missense	NA
+131	44	C	A	A	D	Missense	NA
+131	44	C	T	A	V	Missense	NA
+131	44	C	G	A	G	Missense	NA
+132	44	T	A	A	A	Synonymous	NA
+132	44	T	C	A	A	Synonymous	NA
+132	44	T	G	A	A	Synonymous	NA
+133	45	G	A	A	T	Missense	NA
+133	45	G	C	A	P	Missense	NA
+133	45	G	T	A	S	Missense	NA
+134	45	C	A	A	D	Missense	NA
+134	45	C	T	A	V	Missense	NA
+134	45	C	G	A	G	Missense	NA
+135	45	C	A	A	A	Synonymous	Likely benign
+135	45	C	T	A	A	Synonymous	Benign
+135	45	C	G	A	A	Synonymous	Likely benign
+136	46	G	A	G	S	Missense	NA
+136	46	G	C	G	R	Missense	NA
+136	46	G	T	G	C	Missense	NA
+137	46	G	A	G	D	Missense	NA
+137	46	G	C	G	A	Missense	NA
+137	46	G	T	G	V	Missense	NA
+138	46	C	A	G	G	Synonymous	NA
+138	46	C	T	G	G	Synonymous	NA
+138	46	C	G	G	G	Synonymous	NA
+139	47	C	A	P	T	Missense	NA
+139	47	C	T	P	S	Missense	NA
+139	47	C	G	P	A	Missense	NA
+140	47	C	A	P	H	Missense	NA
+140	47	C	T	P	L	Missense	NA
+140	47	C	G	P	R	Missense	NA
+141	47	C	A	P	P	Synonymous	NA
+141	47	C	T	P	P	Synonymous	NA
+141	47	C	G	P	P	Synonymous	NA
+142	48	C	A	R	S	Missense	Uncertain significance
+142	48	C	T	R	C	Missense	NA
+142	48	C	G	R	G	Missense	NA
+143	48	G	A	R	H	Missense	NA
+143	48	G	C	R	P	Missense	NA
+143	48	G	T	R	L	Missense	NA
+144	48	T	A	R	R	Synonymous	NA
+144	48	T	C	R	R	Synonymous	NA
+144	48	T	G	R	R	Synonymous	NA
+145	49	G	A	V	I	Missense	NA
+145	49	G	C	V	L	Missense	NA
+145	49	G	T	V	F	Missense	NA
+146	49	T	A	V	D	Missense	NA
+146	49	T	C	V	A	Missense	NA
+146	49	T	G	V	G	Missense	NA
+147	49	C	A	V	V	Synonymous	NA
+147	49	C	T	V	V	Synonymous	NA
+147	49	C	G	V	V	Synonymous	NA
+148	50	A	C	T	P	Missense	NA
+148	50	A	T	T	S	Missense	NA
+148	50	A	G	T	A	Missense	NA
+149	50	C	A	T	N	Missense	NA
+149	50	C	T	T	I	Missense	NA
+149	50	C	G	T	S	Missense	NA
+150	50	C	A	T	T	Synonymous	NA
+150	50	C	T	T	T	Synonymous	NA
+150	50	C	G	T	T	Synonymous	NA
+151	51	G	A	V	I	Missense	Uncertain significance
+151	51	G	C	V	L	Missense	Uncertain significance
+151	51	G	T	V	F	Missense	Pathogenic
+152	51	T	A	V	D	Missense	NA
+152	51	T	C	V	A	Missense	NA
+152	51	T	G	V	G	Missense	NA
+153	51	C	A	V	V	Synonymous	NA
+153	51	C	T	V	V	Synonymous	NA
+153	51	C	G	V	V	Synonymous	NA
+154	52	C	A	L	M	Missense	NA
+154	52	C	T	L	L	Synonymous	NA
+154	52	C	G	L	V	Missense	NA
+155	52	T	A	L	Q	Missense	Uncertain significance
+155	52	T	C	L	P	Missense	NA
+155	52	T	G	L	R	Missense	NA
+156	52	G	A	L	L	Synonymous	NA
+156	52	G	C	L	L	Synonymous	NA
+156	52	G	T	L	L	Synonymous	NA
+157	53	G	A	V	M	Missense	Uncertain significance
+157	53	G	C	V	L	Missense	NA
+157	53	G	T	V	L	Missense	NA
+158	53	T	A	V	E	Missense	NA
+158	53	T	C	V	A	Missense	NA
+158	53	T	G	V	G	Missense	NA
+159	53	G	A	V	V	Synonymous	NA
+159	53	G	C	V	V	Synonymous	NA
+159	53	G	T	V	V	Synonymous	NA
+160	54	C	A	R	R	Synonymous	NA
+160	54	C	T	R	W	Missense	Pathogenic/Likely pathogenic
+160	54	C	G	R	G	Missense	Likely pathogenic
+161	54	G	A	R	Q	Missense	Likely pathogenic
+161	54	G	C	R	P	Missense	NA
+161	54	G	T	R	L	Missense	NA
+162	54	G	A	R	R	Synonymous	Likely benign
+162	54	G	C	R	R	Synonymous	NA
+162	54	G	T	R	R	Synonymous	NA
+163	55	G	A	E	K	Missense	Uncertain significance
+163	55	G	C	E	Q	Missense	NA
+163	55	G	T	E	*	Nonsense	NA
+164	55	A	C	E	A	Missense	NA
+164	55	A	T	E	V	Missense	NA
+164	55	A	G	E	G	Missense	NA
+165	55	G	A	E	E	Synonymous	NA
+165	55	G	C	E	D	Missense	NA
+165	55	G	T	E	D	Missense	NA
+166	56	T	A	F	I	Missense	NA
+166	56	T	C	F	L	Missense	NA
+166	56	T	G	F	V	Missense	NA
+167	56	T	A	F	Y	Missense	NA
+167	56	T	C	F	S	Missense	NA
+167	56	T	G	F	C	Missense	NA
+168	56	C	A	F	L	Missense	NA
+168	56	C	T	F	F	Synonymous	Likely benign
+168	56	C	G	F	L	Missense	NA
+169	57	G	A	E	K	Missense	Uncertain significance
+169	57	G	C	E	Q	Missense	NA
+169	57	G	T	E	*	Nonsense	Pathogenic
+170	57	A	C	E	A	Missense	NA
+170	57	A	T	E	V	Missense	NA
+170	57	A	G	E	G	Missense	NA
+171	57	G	A	E	E	Synonymous	NA
+171	57	G	C	E	D	Missense	NA
+171	57	G	T	E	D	Missense	NA
+172	58	G	A	A	T	Missense	Uncertain significance
+172	58	G	C	A	P	Missense	NA
+172	58	G	T	A	S	Missense	NA
+173	58	C	A	A	E	Missense	NA
+173	58	C	T	A	V	Missense	NA
+173	58	C	G	A	G	Missense	NA
+174	58	A	C	A	A	Synonymous	NA
+174	58	A	T	A	A	Synonymous	NA
+174	58	A	G	A	A	Synonymous	NA
+175	59	T	A	F	I	Missense	NA
+175	59	T	C	F	L	Missense	NA
+175	59	T	G	F	V	Missense	NA
+176	59	T	A	F	Y	Missense	NA
+176	59	T	C	F	S	Missense	NA
+176	59	T	G	F	C	Missense	NA
+177	59	T	A	F	L	Missense	NA
+177	59	T	C	F	F	Synonymous	Likely benign
+177	59	T	G	F	L	Missense	NA
+178	60	G	A	D	N	Missense	NA
+178	60	G	C	D	H	Missense	NA
+178	60	G	T	D	Y	Missense	Uncertain significance
+179	60	A	C	D	A	Missense	NA
+179	60	A	T	D	V	Missense	NA
+179	60	A	G	D	G	Missense	NA
+180	60	C	A	D	E	Missense	NA
+180	60	C	T	D	D	Synonymous	NA
+180	60	C	G	D	E	Missense	Uncertain significance
+181	61	A	C	N	H	Missense	NA
+181	61	A	T	N	Y	Missense	NA
+181	61	A	G	N	D	Missense	NA
+182	61	A	C	N	T	Missense	Uncertain significance
+182	61	A	T	N	I	Missense	NA
+182	61	A	G	N	S	Missense	NA
+183	61	C	A	N	K	Missense	NA
+183	61	C	T	N	N	Synonymous	NA
+183	61	C	G	N	K	Missense	Uncertain significance
+184	62	G	A	A	T	Missense	NA
+184	62	G	C	A	P	Missense	NA
+184	62	G	T	A	S	Missense	NA
+185	62	C	A	A	E	Missense	NA
+185	62	C	T	A	V	Missense	Uncertain significance
+185	62	C	G	A	G	Missense	NA
+186	62	G	A	A	A	Synonymous	Likely benign
+186	62	G	C	A	A	Synonymous	Likely benign
+186	62	G	T	A	A	Synonymous	Likely benign
+187	63	G	A	V	M	Missense	Uncertain significance
+187	63	G	C	V	L	Missense	NA
+187	63	G	T	V	L	Missense	NA
+188	63	T	A	V	E	Missense	NA
+188	63	T	C	V	A	Missense	Uncertain significance
+188	63	T	G	V	G	Missense	NA
+189	63	G	A	V	V	Synonymous	NA
+189	63	G	C	V	V	Synonymous	NA
+189	63	G	T	V	V	Synonymous	NA
+190	64	C	A	P	T	Missense	NA
+190	64	C	T	P	S	Missense	NA
+190	64	C	G	P	A	Missense	NA
+191	64	C	A	P	H	Missense	NA
+191	64	C	T	P	L	Missense	NA
+191	64	C	G	P	R	Missense	NA
+192	64	C	A	P	P	Synonymous	NA
+192	64	C	T	P	P	Synonymous	Benign
+192	64	C	G	P	P	Synonymous	Likely benign
+193	65	G	A	E	K	Missense	NA
+193	65	G	C	E	Q	Missense	NA
+193	65	G	T	E	*	Nonsense	NA
+194	65	A	C	E	A	Missense	NA
+194	65	A	T	E	V	Missense	NA
+194	65	A	G	E	G	Missense	NA
+195	65	G	A	E	E	Synonymous	NA
+195	65	G	C	E	D	Missense	NA
+195	65	G	T	E	D	Missense	NA
+196	66	C	A	L	M	Missense	NA
+196	66	C	T	L	L	Synonymous	NA
+196	66	C	G	L	V	Missense	NA
+197	66	T	A	L	Q	Missense	NA
+197	66	T	C	L	P	Missense	NA
+197	66	T	G	L	R	Missense	NA
+198	66	G	A	L	L	Synonymous	Likely benign
+198	66	G	C	L	L	Synonymous	NA
+198	66	G	T	L	L	Synonymous	NA
+199	67	G	A	V	I	Missense	NA
+199	67	G	C	V	L	Missense	NA
+199	67	G	T	V	L	Missense	NA
+200	67	T	A	V	E	Missense	NA
+200	67	T	C	V	A	Missense	NA
+200	67	T	G	V	G	Missense	NA
+201	67	A	C	V	V	Synonymous	NA
+201	67	A	T	V	V	Synonymous	NA
+201	67	A	G	V	V	Synonymous	Likely benign
+202	68	G	A	D	N	Missense	NA
+202	68	G	C	D	H	Missense	NA
+202	68	G	T	D	Y	Missense	NA
+203	68	A	C	D	A	Missense	Uncertain significance
+203	68	A	T	D	V	Missense	NA
+203	68	A	G	D	G	Missense	NA
+204	68	C	A	D	E	Missense	NA
+204	68	C	T	D	D	Synonymous	NA
+204	68	C	G	D	E	Missense	NA
+205	69	T	A	S	T	Missense	NA
+205	69	T	C	S	P	Missense	Uncertain significance
+205	69	T	G	S	A	Missense	Uncertain significance
+206	69	C	A	S	Y	Missense	NA
+206	69	C	T	S	F	Missense	Uncertain significance
+206	69	C	G	S	C	Missense	NA
+207	69	C	A	S	S	Synonymous	NA
+207	69	C	T	S	S	Synonymous	NA
+207	69	C	G	S	S	Synonymous	NA
+208	70	T	A	F	I	Missense	NA
+208	70	T	C	F	L	Missense	NA
+208	70	T	G	F	V	Missense	NA
+209	70	T	A	F	Y	Missense	NA
+209	70	T	C	F	S	Missense	NA
+209	70	T	G	F	C	Missense	NA
+210	70	C	A	F	L	Missense	NA
+210	70	C	T	F	F	Synonymous	Likely benign
+210	70	C	G	F	L	Missense	NA
+211	71	C	A	L	M	Missense	Uncertain significance
+211	71	C	T	L	L	Synonymous	Likely benign
+211	71	C	G	L	V	Missense	NA
+212	71	T	A	L	Q	Missense	NA
+212	71	T	C	L	P	Missense	NA
+212	71	T	G	L	R	Missense	NA
+213	71	G	A	L	L	Synonymous	NA
+213	71	G	C	L	L	Synonymous	NA
+213	71	G	T	L	L	Synonymous	NA
+214	72	C	A	Q	K	Missense	NA
+214	72	C	T	Q	*	Nonsense	Likely pathogenic
+214	72	C	G	Q	E	Missense	NA
+215	72	A	C	Q	P	Missense	NA
+215	72	A	T	Q	L	Missense	NA
+215	72	A	G	Q	R	Missense	NA
+216	72	G	A	Q	Q	Synonymous	NA
+216	72	G	C	Q	H	Missense	NA
+216	72	G	T	Q	H	Missense	NA
+217	73	C	A	Q	K	Missense	NA
+217	73	C	T	Q	*	Nonsense	NA
+217	73	C	G	Q	E	Missense	NA
+218	73	A	C	Q	P	Missense	NA
+218	73	A	T	Q	L	Missense	NA
+218	73	A	G	Q	R	Missense	Uncertain significance
+219	73	A	C	Q	H	Missense	NA
+219	73	A	T	Q	H	Missense	NA
+219	73	A	G	Q	Q	Synonymous	NA
+220	74	G	A	D	N	Missense	NA
+220	74	G	C	D	H	Missense	NA
+220	74	G	T	D	Y	Missense	NA
+221	74	A	C	D	A	Missense	NA
+221	74	A	T	D	V	Missense	NA
+221	74	A	G	D	G	Missense	NA
+222	74	C	A	D	E	Missense	NA
+222	74	C	T	D	D	Synonymous	NA
+222	74	C	G	D	E	Missense	NA
+223	75	C	A	P	T	Missense	NA
+223	75	C	T	P	S	Missense	NA
+223	75	C	G	P	A	Missense	Uncertain significance
+224	75	C	A	P	Q	Missense	NA
+224	75	C	T	P	L	Missense	NA
+224	75	C	G	P	R	Missense	NA
+225	75	A	C	P	P	Synonymous	NA
+225	75	A	T	P	P	Synonymous	NA
+225	75	A	G	P	P	Synonymous	NA
+226	76	G	A	A	T	Missense	NA
+226	76	G	C	A	P	Missense	NA
+226	76	G	T	A	S	Missense	NA
+227	76	C	A	A	D	Missense	NA
+227	76	C	T	A	V	Missense	NA
+227	76	C	G	A	G	Missense	NA
+228	76	C	A	A	A	Synonymous	NA
+228	76	C	T	A	A	Synonymous	Likely benign
+228	76	C	G	A	A	Synonymous	NA
+229	77	C	A	Q	K	Missense	NA
+229	77	C	T	Q	*	Nonsense	Pathogenic/Likely pathogenic
+229	77	C	G	Q	E	Missense	NA
+230	77	A	C	Q	P	Missense	NA
+230	77	A	T	Q	L	Missense	NA
+230	77	A	G	Q	R	Missense	Uncertain significance
+231	77	G	A	Q	Q	Synonymous	NA
+231	77	G	C	Q	H	Missense	NA
+231	77	G	T	Q	H	Missense	NA
+232	78	C	A	P	T	Missense	NA
+232	78	C	T	P	S	Missense	Uncertain significance
+232	78	C	G	P	A	Missense	NA
+233	78	C	A	P	H	Missense	NA
+233	78	C	T	P	L	Missense	NA
+233	78	C	G	P	R	Missense	NA
+234	78	C	A	P	P	Synonymous	NA
+234	78	C	T	P	P	Synonymous	NA
+234	78	C	G	P	P	Synonymous	NA
+235	79	G	A	V	M	Missense	Conflicting interpretations of pathogenicity
+235	79	G	C	V	L	Missense	Uncertain significance
+235	79	G	T	V	L	Missense	NA
+236	79	T	A	V	E	Missense	NA
+236	79	T	C	V	A	Missense	Uncertain significance
+236	79	T	G	V	G	Missense	NA
+237	79	G	A	V	V	Synonymous	Likely benign
+237	79	G	C	V	V	Synonymous	NA
+237	79	G	T	V	V	Synonymous	NA
+238	80	G	A	V	M	Missense	NA
+238	80	G	C	V	L	Missense	NA
+238	80	G	T	V	L	Missense	NA
+239	80	T	A	V	E	Missense	NA
+239	80	T	C	V	A	Missense	NA
+239	80	T	G	V	G	Missense	NA
+240	80	G	A	V	V	Synonymous	NA
+240	80	G	C	V	V	Synonymous	Likely benign
+240	80	G	T	V	V	Synonymous	NA
+241	81	G	A	V	M	Missense	NA
+241	81	G	C	V	L	Missense	NA
+241	81	G	T	V	L	Missense	NA
+242	81	T	A	V	E	Missense	NA
+242	81	T	C	V	A	Missense	NA
+242	81	T	G	V	G	Missense	NA
+243	81	G	A	V	V	Synonymous	NA
+243	81	G	C	V	V	Synonymous	NA
+243	81	G	T	V	V	Synonymous	NA
+244	82	G	A	A	T	Missense	NA
+244	82	G	C	A	P	Missense	NA
+244	82	G	T	A	S	Missense	NA
+245	82	C	A	A	E	Missense	NA
+245	82	C	T	A	V	Missense	Uncertain significance
+245	82	C	G	A	G	Missense	NA
+246	82	A	C	A	A	Synonymous	NA
+246	82	A	T	A	A	Synonymous	Likely benign
+246	82	A	G	A	A	Synonymous	NA
+247	83	G	A	A	T	Missense	NA
+247	83	G	C	A	P	Missense	NA
+247	83	G	T	A	S	Missense	NA
+248	83	C	A	A	D	Missense	NA
+248	83	C	T	A	V	Missense	NA
+248	83	C	G	A	G	Missense	NA
+249	83	C	A	A	A	Synonymous	NA
+249	83	C	T	A	A	Synonymous	Benign/Likely benign
+249	83	C	G	A	A	Synonymous	NA
+250	84	G	A	D	N	Missense	NA
+250	84	G	C	D	H	Missense	NA
+250	84	G	T	D	Y	Missense	NA
+251	84	A	C	D	A	Missense	NA
+251	84	A	T	D	V	Missense	NA
+251	84	A	G	D	G	Missense	Uncertain significance
+252	84	C	A	D	E	Missense	NA
+252	84	C	T	D	D	Synonymous	Likely benign
+252	84	C	G	D	E	Missense	NA
+253	85	A	C	T	P	Missense	NA
+253	85	A	T	T	S	Missense	NA
+253	85	A	G	T	A	Missense	NA
+254	85	C	A	T	K	Missense	NA
+254	85	C	T	T	M	Missense	NA
+254	85	C	G	T	R	Missense	NA
+255	85	G	A	T	T	Synonymous	NA
+255	85	G	C	T	T	Synonymous	Likely benign
+255	85	G	T	T	T	Synonymous	NA
+256	86	C	A	L	I	Missense	NA
+256	86	C	T	L	F	Missense	NA
+256	86	C	G	L	V	Missense	NA
+257	86	T	A	L	H	Missense	NA
+257	86	T	C	L	P	Missense	NA
+257	86	T	G	L	R	Missense	NA
+258	86	C	A	L	L	Synonymous	NA
+258	86	C	T	L	L	Synonymous	NA
+258	86	C	G	L	L	Synonymous	NA
+259	87	C	A	P	T	Missense	NA
+259	87	C	T	P	S	Missense	NA
+259	87	C	G	P	A	Missense	NA
+260	87	C	A	P	H	Missense	NA
+260	87	C	T	P	L	Missense	NA
+260	87	C	G	P	R	Missense	NA
+261	87	C	A	P	P	Synonymous	NA
+261	87	C	T	P	P	Synonymous	NA
+261	87	C	G	P	P	Synonymous	NA
+262	88	T	A	Y	N	Missense	NA
+262	88	T	C	Y	H	Missense	NA
+262	88	T	G	Y	D	Missense	NA
+263	88	A	C	Y	S	Missense	NA
+263	88	A	T	Y	F	Missense	NA
+263	88	A	G	Y	C	Missense	NA
+264	88	C	A	Y	*	Nonsense	Pathogenic
+264	88	C	T	Y	Y	Synonymous	Likely benign
+264	88	C	G	Y	*	Nonsense	Pathogenic
+265	89	C	A	P	T	Missense	NA
+265	89	C	T	P	S	Missense	NA
+265	89	C	G	P	A	Missense	NA
+266	89	C	A	P	Q	Missense	NA
+266	89	C	T	P	L	Missense	Pathogenic/Likely pathogenic
+266	89	C	G	P	R	Missense	NA
+267	89	G	A	P	P	Synonymous	Likely benign
+267	89	G	C	P	P	Synonymous	NA
+267	89	G	T	P	P	Synonymous	NA
+268	90	C	A	P	T	Missense	NA
+268	90	C	T	P	S	Missense	NA
+268	90	C	G	P	A	Missense	NA
+269	90	C	A	P	H	Missense	NA
+269	90	C	T	P	L	Missense	NA
+269	90	C	G	P	R	Missense	NA
+270	90	C	A	P	P	Synonymous	Likely benign
+270	90	C	T	P	P	Synonymous	Likely benign
+270	90	C	G	P	P	Synonymous	NA
+271	91	C	A	L	M	Missense	NA
+271	91	C	T	L	L	Synonymous	NA
+271	91	C	G	L	V	Missense	NA
+272	91	T	A	L	Q	Missense	Uncertain significance
+272	91	T	C	L	P	Missense	NA
+272	91	T	G	L	R	Missense	NA
+273	91	G	A	L	L	Synonymous	Likely benign
+273	91	G	C	L	L	Synonymous	NA
+273	91	G	T	L	L	Synonymous	NA
+274	92	G	A	A	T	Missense	NA
+274	92	G	C	A	P	Missense	NA
+274	92	G	T	A	S	Missense	Uncertain significance
+275	92	C	A	A	D	Missense	NA
+275	92	C	T	A	V	Missense	NA
+275	92	C	G	A	G	Missense	NA
+276	92	C	A	A	A	Synonymous	NA
+276	92	C	T	A	A	Synonymous	NA
+276	92	C	G	A	A	Synonymous	NA
+277	93	C	A	L	M	Missense	NA
+277	93	C	T	L	L	Synonymous	NA
+277	93	C	G	L	V	Missense	NA
+278	93	T	A	L	Q	Missense	NA
+278	93	T	C	L	P	Missense	NA
+278	93	T	G	L	R	Missense	NA
+279	93	G	A	L	L	Synonymous	NA
+279	93	G	C	L	L	Synonymous	NA
+279	93	G	T	L	L	Synonymous	NA
+280	94	C	A	P	T	Missense	NA
+280	94	C	T	P	S	Missense	Uncertain significance
+280	94	C	G	P	A	Missense	NA
+281	94	C	A	P	H	Missense	Uncertain significance
+281	94	C	T	P	L	Missense	NA
+281	94	C	G	P	R	Missense	NA
+282	94	C	A	P	P	Synonymous	NA
+282	94	C	T	P	P	Synonymous	Conflicting interpretations of pathogenicity
+282	94	C	G	P	P	Synonymous	NA
+283	95	C	A	R	S	Missense	NA
+283	95	C	T	R	C	Missense	Uncertain significance
+283	95	C	G	R	G	Missense	NA
+284	95	G	A	R	H	Missense	NA
+284	95	G	C	R	P	Missense	NA
+284	95	G	T	R	L	Missense	NA
+285	95	C	A	R	R	Synonymous	NA
+285	95	C	T	R	R	Synonymous	NA
+285	95	C	G	R	R	Synonymous	NA
+286	96	A	C	I	L	Missense	NA
+286	96	A	T	I	F	Missense	NA
+286	96	A	G	I	V	Missense	NA
+287	96	T	A	I	N	Missense	NA
+287	96	T	C	I	T	Missense	NA
+287	96	T	G	I	S	Missense	NA
+288	96	C	A	I	I	Synonymous	NA
+288	96	C	T	I	I	Synonymous	NA
+288	96	C	G	I	M	Missense	NA
+289	97	C	A	P	T	Missense	NA
+289	97	C	T	P	S	Missense	NA
+289	97	C	G	P	A	Missense	NA
+290	97	C	A	P	H	Missense	NA
+290	97	C	T	P	L	Missense	NA
+290	97	C	G	P	R	Missense	NA
+291	97	C	A	P	P	Synonymous	NA
+291	97	C	T	P	P	Synonymous	Conflicting interpretations of pathogenicity
+291	97	C	G	P	P	Synonymous	NA
+292	98	A	C	N	H	Missense	NA
+292	98	A	T	N	Y	Missense	Uncertain significance
+292	98	A	G	N	D	Missense	NA
+293	98	A	C	N	T	Missense	NA
+293	98	A	T	N	I	Missense	NA
+293	98	A	G	N	S	Missense	Uncertain significance
+294	98	C	A	N	K	Missense	NA
+294	98	C	T	N	N	Synonymous	NA
+294	98	C	G	N	K	Missense	NA
+295	99	G	A	V	M	Missense	Uncertain significance
+295	99	G	C	V	L	Missense	NA
+295	99	G	T	V	L	Missense	NA
+296	99	T	A	V	E	Missense	NA
+296	99	T	C	V	A	Missense	NA
+296	99	T	G	V	G	Missense	NA
+297	99	G	A	V	V	Synonymous	NA
+297	99	G	C	V	V	Synonymous	NA
+297	99	G	T	V	V	Synonymous	NA
+298	100	C	A	R	S	Missense	NA
+298	100	C	T	R	C	Missense	Uncertain significance
+298	100	C	G	R	G	Missense	NA
+299	100	G	A	R	H	Missense	Uncertain significance
+299	100	G	C	R	P	Missense	Uncertain significance
+299	100	G	T	R	L	Missense	NA
+300	100	T	A	R	R	Synonymous	NA
+300	100	T	C	R	R	Synonymous	NA
+300	100	T	G	R	R	Synonymous	NA
+301	101	C	A	L	M	Missense	NA
+301	101	C	T	L	L	Synonymous	NA
+301	101	C	G	L	V	Missense	NA
+302	101	T	A	L	Q	Missense	NA
+302	101	T	C	L	P	Missense	NA
+302	101	T	G	L	R	Missense	NA
+303	101	G	A	L	L	Synonymous	NA
+303	101	G	C	L	L	Synonymous	NA
+303	101	G	T	L	L	Synonymous	NA
+304	102	G	A	A	T	Missense	NA
+304	102	G	C	A	P	Missense	NA
+304	102	G	T	A	S	Missense	NA
+305	102	C	A	A	E	Missense	Uncertain significance
+305	102	C	T	A	V	Missense	NA
+305	102	C	G	A	G	Missense	NA
+306	102	G	A	A	A	Synonymous	NA
+306	102	G	C	A	A	Synonymous	NA
+306	102	G	T	A	A	Synonymous	NA
+307	103	C	A	L	M	Missense	NA
+307	103	C	T	L	L	Synonymous	NA
+307	103	C	G	L	V	Missense	NA
+308	103	T	A	L	Q	Missense	NA
+308	103	T	C	L	P	Missense	NA
+308	103	T	G	L	R	Missense	NA
+309	103	G	A	L	L	Synonymous	NA
+309	103	G	C	L	L	Synonymous	NA
+309	103	G	T	L	L	Synonymous	NA
+310	104	C	A	L	I	Missense	NA
+310	104	C	T	L	F	Missense	NA
+310	104	C	G	L	V	Missense	NA
+311	104	T	A	L	H	Missense	NA
+311	104	T	C	L	P	Missense	NA
+311	104	T	G	L	R	Missense	NA
+312	104	C	A	L	L	Synonymous	NA
+312	104	C	T	L	L	Synonymous	Likely benign
+312	104	C	G	L	L	Synonymous	NA
+313	105	C	A	Q	K	Missense	NA
+313	105	C	T	Q	*	Nonsense	Pathogenic/Likely pathogenic
+313	105	C	G	Q	E	Missense	Uncertain significance
+314	105	A	C	Q	P	Missense	NA
+314	105	A	T	Q	L	Missense	NA
+314	105	A	G	Q	R	Missense	NA
+315	105	G	A	Q	Q	Synonymous	NA
+315	105	G	C	Q	H	Missense	NA
+315	105	G	T	Q	H	Missense	Uncertain significance
+316	106	C	A	P	T	Missense	NA
+316	106	C	T	P	S	Missense	Uncertain significance
+316	106	C	G	P	A	Missense	NA
+317	106	C	A	P	H	Missense	NA
+317	106	C	T	P	L	Missense	NA
+317	106	C	G	P	R	Missense	NA
+318	106	C	A	P	P	Synonymous	Likely benign
+318	106	C	T	P	P	Synonymous	NA
+318	106	C	G	P	P	Synonymous	NA
+319	107	G	A	A	T	Missense	NA
+319	107	G	C	A	P	Missense	NA
+319	107	G	T	A	S	Missense	Uncertain significance
+320	107	C	A	A	D	Missense	NA
+320	107	C	T	A	V	Missense	NA
+320	107	C	G	A	G	Missense	NA
+321	107	C	A	A	A	Synonymous	NA
+321	107	C	T	A	A	Synonymous	Likely benign
+321	107	C	G	A	A	Synonymous	NA
+322	108	C	A	L	M	Missense	NA
+322	108	C	T	L	L	Synonymous	NA
+322	108	C	G	L	V	Missense	NA
+323	108	T	A	L	Q	Missense	NA
+323	108	T	C	L	P	Missense	Conflicting interpretations of pathogenicity
+323	108	T	G	L	R	Missense	NA
+324	108	G	A	L	L	Synonymous	Uncertain significance
+324	108	G	C	L	L	Synonymous	NA
+324	108	G	T	L	L	Synonymous	NA
+325	109	G	A	D	N	Missense	NA
+325	109	G	C	D	H	Missense	NA
+325	109	G	T	D	Y	Missense	NA
+326	109	A	C	D	A	Missense	NA
+326	109	A	T	D	V	Missense	NA
+326	109	A	G	D	G	Missense	NA
+327	109	C	A	D	E	Missense	NA
+327	109	C	T	D	D	Synonymous	NA
+327	109	C	G	D	E	Missense	NA
+328	110	C	A	R	R	Synonymous	NA
+328	110	C	T	R	W	Missense	Uncertain significance
+328	110	C	G	R	G	Missense	NA
+329	110	G	A	R	Q	Missense	NA
+329	110	G	C	R	P	Missense	Uncertain significance
+329	110	G	T	R	L	Missense	NA
+330	110	G	A	R	R	Synonymous	NA
+330	110	G	C	R	R	Synonymous	NA
+330	110	G	T	R	R	Synonymous	Likely benign
+331	111	C	A	P	T	Missense	NA
+331	111	C	T	P	S	Missense	NA
+331	111	C	G	P	A	Missense	NA
+332	111	C	A	P	Q	Missense	NA
+332	111	C	T	P	L	Missense	NA
+332	111	C	G	P	R	Missense	NA
+333	111	A	C	P	P	Synonymous	Likely benign
+333	111	A	T	P	P	Synonymous	NA
+333	111	A	G	P	P	Synonymous	NA
+334	112	G	A	A	T	Missense	NA
+334	112	G	C	A	P	Missense	NA
+334	112	G	T	A	S	Missense	NA
+335	112	C	A	A	D	Missense	NA
+335	112	C	T	A	V	Missense	NA
+335	112	C	G	A	G	Missense	NA
+336	112	C	A	A	A	Synonymous	NA
+336	112	C	T	A	A	Synonymous	Conflicting interpretations of pathogenicity
+336	112	C	G	A	A	Synonymous	Likely benign
+337	113	G	A	A	T	Missense	NA
+337	113	G	C	A	P	Missense	NA
+337	113	G	T	A	S	Missense	NA
+338	113	C	A	A	E	Missense	NA
+338	113	C	T	A	V	Missense	NA
+338	113	C	G	A	G	Missense	NA
+339	113	A	C	A	A	Synonymous	NA
+339	113	A	T	A	A	Synonymous	NA
+339	113	A	G	A	A	Synonymous	NA
+340	114	G	A	A	T	Missense	NA
+340	114	G	C	A	P	Missense	NA
+340	114	G	T	A	S	Missense	NA
+341	114	C	A	A	D	Missense	NA
+341	114	C	T	A	V	Missense	NA
+341	114	C	G	A	G	Missense	Conflicting interpretations of pathogenicity
+342	114	C	A	A	A	Synonymous	NA
+342	114	C	T	A	A	Synonymous	NA
+342	114	C	G	A	A	Synonymous	NA
+343	115	T	A	S	T	Missense	NA
+343	115	T	C	S	P	Missense	NA
+343	115	T	G	S	A	Missense	NA
+344	115	C	A	S	*	Nonsense	NA
+344	115	C	T	S	L	Missense	Uncertain significance
+344	115	C	G	S	W	Missense	Uncertain significance
+345	115	G	A	S	S	Synonymous	Likely benign
+345	115	G	C	S	S	Synonymous	NA
+345	115	G	T	S	S	Synonymous	NA
+346	116	C	A	R	S	Missense	NA
+346	116	C	T	R	C	Missense	Uncertain significance
+346	116	C	G	R	G	Missense	NA
+347	116	G	A	R	H	Missense	Uncertain significance
+347	116	G	C	R	P	Missense	NA
+347	116	G	T	R	L	Missense	Uncertain significance
+348	116	C	A	R	R	Synonymous	NA
+348	116	C	T	R	R	Synonymous	NA
+348	116	C	G	R	R	Synonymous	Likely benign
+349	117	C	A	P	T	Missense	NA
+349	117	C	T	P	S	Missense	Uncertain significance
+349	117	C	G	P	A	Missense	NA
+350	117	C	A	P	Q	Missense	NA
+350	117	C	T	P	L	Missense	Uncertain significance
+350	117	C	G	P	R	Missense	NA
+351	117	G	A	P	P	Synonymous	Likely benign
+351	117	G	C	P	P	Synonymous	NA
+351	117	G	T	P	P	Synonymous	NA
+352	118	G	A	E	K	Missense	NA
+352	118	G	C	E	Q	Missense	NA
+352	118	G	T	E	*	Nonsense	NA
+353	118	A	C	E	A	Missense	NA
+353	118	A	T	E	V	Missense	NA
+353	118	A	G	E	G	Missense	NA
+354	118	G	A	E	E	Synonymous	NA
+354	118	G	C	E	D	Missense	NA
+354	118	G	T	E	D	Missense	NA
+355	119	A	C	T	P	Missense	NA
+355	119	A	T	T	S	Missense	NA
+355	119	A	G	T	A	Missense	NA
+356	119	C	A	T	N	Missense	NA
+356	119	C	T	T	I	Missense	NA
+356	119	C	G	T	S	Missense	NA
+357	119	C	A	T	T	Synonymous	NA
+357	119	C	T	T	T	Synonymous	NA
+357	119	C	G	T	T	Synonymous	Likely benign
+358	120	T	A	Y	N	Missense	NA
+358	120	T	C	Y	H	Missense	NA
+358	120	T	G	Y	D	Missense	NA
+359	120	A	C	Y	S	Missense	NA
+359	120	A	T	Y	F	Missense	NA
+359	120	A	G	Y	C	Missense	NA
+360	120	C	A	Y	*	Nonsense	NA
+360	120	C	T	Y	Y	Synonymous	Likely benign
+360	120	C	G	Y	*	Nonsense	NA
+361	121	G	A	V	M	Missense	NA
+361	121	G	C	V	L	Missense	NA
+361	121	G	T	V	L	Missense	NA
+362	121	T	A	V	E	Missense	NA
+362	121	T	C	V	A	Missense	NA
+362	121	T	G	V	G	Missense	NA
+363	121	G	A	V	V	Synonymous	NA
+363	121	G	C	V	V	Synonymous	NA
+363	121	G	T	V	V	Synonymous	NA
+364	122	G	A	A	T	Missense	Uncertain significance
+364	122	G	C	A	P	Missense	NA
+364	122	G	T	A	S	Missense	NA
+365	122	C	A	A	D	Missense	NA
+365	122	C	T	A	V	Missense	NA
+365	122	C	G	A	G	Missense	NA
+366	122	C	A	A	A	Synonymous	NA
+366	122	C	T	A	A	Synonymous	NA
+366	122	C	G	A	A	Synonymous	NA
+367	123	A	C	T	P	Missense	NA
+367	123	A	T	T	S	Missense	NA
+367	123	A	G	T	A	Missense	NA
+368	123	C	A	T	N	Missense	NA
+368	123	C	T	T	I	Missense	NA
+368	123	C	G	T	S	Missense	NA
+369	123	C	A	T	T	Synonymous	NA
+369	123	C	T	T	T	Synonymous	NA
+369	123	C	G	T	T	Synonymous	NA
+370	124	G	A	E	K	Missense	NA
+370	124	G	C	E	Q	Missense	NA
+370	124	G	T	E	*	Nonsense	NA
+371	124	A	C	E	A	Missense	NA
+371	124	A	T	E	V	Missense	NA
+371	124	A	G	E	G	Missense	Uncertain significance
+372	124	G	A	E	E	Synonymous	NA
+372	124	G	C	E	D	Missense	Uncertain significance
+372	124	G	T	E	D	Missense	NA
+373	125	T	A	F	I	Missense	NA
+373	125	T	C	F	L	Missense	NA
+373	125	T	G	F	V	Missense	NA
+374	125	T	A	F	Y	Missense	NA
+374	125	T	C	F	S	Missense	Uncertain significance
+374	125	T	G	F	C	Missense	NA
+375	125	T	A	F	L	Missense	NA
+375	125	T	C	F	F	Synonymous	Likely benign
+375	125	T	G	F	L	Missense	NA
+376	126	G	A	V	M	Missense	NA
+376	126	G	C	V	L	Missense	NA
+376	126	G	T	V	L	Missense	NA
+377	126	T	A	V	E	Missense	NA
+377	126	T	C	V	A	Missense	NA
+377	126	T	G	V	G	Missense	NA
+378	126	G	A	V	V	Synonymous	NA
+378	126	G	C	V	V	Synonymous	NA
+378	126	G	T	V	V	Synonymous	NA
+379	127	G	A	A	T	Missense	Uncertain significance
+379	127	G	C	A	P	Missense	NA
+379	127	G	T	A	S	Missense	NA
+380	127	C	A	A	D	Missense	NA
+380	127	C	T	A	V	Missense	NA
+380	127	C	G	A	G	Missense	NA
+381	127	C	A	A	A	Synonymous	NA
+381	127	C	T	A	A	Synonymous	NA
+381	127	C	G	A	A	Synonymous	NA
+382	128	C	A	L	I	Missense	NA
+382	128	C	T	L	L	Synonymous	NA
+382	128	C	G	L	V	Missense	NA
+383	128	T	A	L	Q	Missense	NA
+383	128	T	C	L	P	Missense	NA
+383	128	T	G	L	R	Missense	NA
+384	128	A	C	L	L	Synonymous	NA
+384	128	A	T	L	L	Synonymous	NA
+384	128	A	G	L	L	Synonymous	NA
+385	129	G	A	V	I	Missense	NA
+385	129	G	C	V	L	Missense	Uncertain significance
+385	129	G	T	V	L	Missense	NA
+386	129	T	A	V	E	Missense	Uncertain significance
+386	129	T	C	V	A	Missense	NA
+386	129	T	G	V	G	Missense	NA
+387	129	A	C	V	V	Synonymous	NA
+387	129	A	T	V	V	Synonymous	NA
+387	129	A	G	V	V	Synonymous	Likely benign
+388	130	C	A	P	T	Missense	NA
+388	130	C	T	P	S	Missense	NA
+388	130	C	G	P	A	Missense	NA
+389	130	C	A	P	H	Missense	NA
+389	130	C	T	P	L	Missense	NA
+389	130	C	G	P	R	Missense	NA
+390	130	T	A	P	P	Synonymous	NA
+390	130	T	C	P	P	Synonymous	Likely benign
+390	130	T	G	P	P	Synonymous	NA
+391	131	G	A	D	N	Missense	NA
+391	131	G	C	D	H	Missense	NA
+391	131	G	T	D	Y	Missense	NA
+392	131	A	C	D	A	Missense	NA
+392	131	A	T	D	V	Missense	NA
+392	131	A	G	D	G	Missense	NA
+393	131	T	A	D	E	Missense	NA
+393	131	T	C	D	D	Synonymous	NA
+393	131	T	G	D	E	Missense	NA
+394	132	G	A	G	R	Missense	Uncertain significance
+394	132	G	C	G	R	Missense	Uncertain significance
+394	132	G	T	G	W	Missense	NA
+395	132	G	A	G	E	Missense	Uncertain significance
+395	132	G	C	G	A	Missense	Uncertain significance
+395	132	G	T	G	V	Missense	NA
+396	132	G	A	G	G	Synonymous	Likely benign
+396	132	G	C	G	G	Synonymous	NA
+396	132	G	T	G	G	Synonymous	NA
+397	133	G	A	A	T	Missense	NA
+397	133	G	C	A	P	Missense	NA
+397	133	G	T	A	S	Missense	Uncertain significance
+398	133	C	A	A	E	Missense	NA
+398	133	C	T	A	V	Missense	NA
+398	133	C	G	A	G	Missense	NA
+399	133	G	A	A	A	Synonymous	NA
+399	133	G	C	A	A	Synonymous	NA
+399	133	G	T	A	A	Synonymous	Likely benign
+400	134	C	A	R	R	Synonymous	NA
+400	134	C	T	R	W	Missense	Uncertain significance
+400	134	C	G	R	G	Missense	NA
+401	134	G	A	R	Q	Missense	NA
+401	134	G	C	R	P	Missense	Uncertain significance
+401	134	G	T	R	L	Missense	NA
+402	134	G	A	R	R	Synonymous	NA
+402	134	G	C	R	R	Synonymous	NA
+402	134	G	T	R	R	Synonymous	NA
+403	135	G	A	A	T	Missense	Uncertain significance
+403	135	G	C	A	P	Missense	NA
+403	135	G	T	A	S	Missense	Uncertain significance
+404	135	C	A	A	D	Missense	Uncertain significance
+404	135	C	T	A	V	Missense	Uncertain significance
+404	135	C	G	A	G	Missense	NA
+405	135	T	A	A	A	Synonymous	NA
+405	135	T	C	A	A	Synonymous	NA
+405	135	T	G	A	A	Synonymous	NA
+406	136	G	A	E	K	Missense	NA
+406	136	G	C	E	Q	Missense	NA
+406	136	G	T	E	*	Nonsense	NA
+407	136	A	C	E	A	Missense	NA
+407	136	A	T	E	V	Missense	NA
+407	136	A	G	E	G	Missense	NA
+408	136	G	A	E	E	Synonymous	NA
+408	136	G	C	E	D	Missense	NA
+408	136	G	T	E	D	Missense	NA
+409	137	G	A	A	T	Missense	NA
+409	137	G	C	A	P	Missense	NA
+409	137	G	T	A	S	Missense	NA
+410	137	C	A	A	E	Missense	NA
+410	137	C	T	A	V	Missense	NA
+410	137	C	G	A	G	Missense	NA
+411	137	A	C	A	A	Synonymous	Likely benign
+411	137	A	T	A	A	Synonymous	NA
+411	137	A	G	A	A	Synonymous	NA
+412	138	C	A	P	T	Missense	NA
+412	138	C	T	P	S	Missense	NA
+412	138	C	G	P	A	Missense	NA
+413	138	C	A	P	H	Missense	NA
+413	138	C	T	P	L	Missense	Uncertain significance
+413	138	C	G	P	R	Missense	NA
+414	138	T	A	P	P	Synonymous	NA
+414	138	T	C	P	P	Synonymous	Likely benign
+414	138	T	G	P	P	Synonymous	NA
+415	139	G	A	G	S	Missense	NA
+415	139	G	C	G	R	Missense	NA
+415	139	G	T	G	C	Missense	NA
+416	139	G	A	G	D	Missense	NA
+416	139	G	C	G	A	Missense	NA
+416	139	G	T	G	V	Missense	NA
+417	139	C	A	G	G	Synonymous	NA
+417	139	C	T	G	G	Synonymous	NA
+417	139	C	G	G	G	Synonymous	NA
+418	140	C	A	L	M	Missense	NA
+418	140	C	T	L	L	Synonymous	NA
+418	140	C	G	L	V	Missense	NA
+419	140	T	A	L	Q	Missense	NA
+419	140	T	C	L	P	Missense	NA
+419	140	T	G	L	R	Missense	NA
+420	140	G	A	L	L	Synonymous	Likely benign
+420	140	G	C	L	L	Synonymous	NA
+420	140	G	T	L	L	Synonymous	NA
+421	141	C	A	L	M	Missense	NA
+421	141	C	T	L	L	Synonymous	NA
+421	141	C	G	L	V	Missense	NA
+422	141	T	A	L	Q	Missense	NA
+422	141	T	C	L	P	Missense	NA
+422	141	T	G	L	R	Missense	NA
+423	141	G	A	L	L	Synonymous	NA
+423	141	G	C	L	L	Synonymous	Likely benign
+423	141	G	T	L	L	Synonymous	NA
+424	142	G	A	E	K	Missense	Uncertain significance
+424	142	G	C	E	Q	Missense	NA
+424	142	G	T	E	*	Nonsense	NA
+425	142	A	C	E	A	Missense	NA
+425	142	A	T	E	V	Missense	NA
+425	142	A	G	E	G	Missense	NA
+426	142	G	A	E	E	Synonymous	NA
+426	142	G	C	E	D	Missense	NA
+426	142	G	T	E	D	Missense	Uncertain significance
+427	143	C	A	R	S	Missense	Benign/Likely benign
+427	143	C	T	R	C	Missense	Uncertain significance
+427	143	C	G	R	G	Missense	NA
+428	143	G	A	R	H	Missense	Uncertain significance
+428	143	G	C	R	P	Missense	Uncertain significance
+428	143	G	T	R	L	Missense	Uncertain significance
+429	143	C	A	R	R	Synonymous	NA
+429	143	C	T	R	R	Synonymous	NA
+429	143	C	G	R	R	Synonymous	NA
+430	144	A	C	M	L	Missense	NA
+430	144	A	T	M	L	Missense	NA
+430	144	A	G	M	V	Missense	Uncertain significance
+431	144	T	A	M	K	Missense	NA
+431	144	T	C	M	T	Missense	NA
+431	144	T	G	M	R	Missense	Uncertain significance
+432	144	G	A	M	I	Missense	NA
+432	144	G	C	M	I	Missense	NA
+432	144	G	T	M	I	Missense	NA
+433	145	G	A	V	M	Missense	Uncertain significance
+433	145	G	C	V	L	Missense	NA
+433	145	G	T	V	L	Missense	NA
+434	145	T	A	V	E	Missense	NA
+434	145	T	C	V	A	Missense	NA
+434	145	T	G	V	G	Missense	Uncertain significance
+435	145	G	A	V	V	Synonymous	Likely benign
+435	145	G	C	V	V	Synonymous	NA
+435	145	G	T	V	V	Synonymous	NA
+436	146	G	A	E	K	Missense	Uncertain significance
+436	146	G	C	E	Q	Missense	NA
+436	146	G	T	E	*	Nonsense	NA
+437	146	A	C	E	A	Missense	NA
+437	146	A	T	E	V	Missense	NA
+437	146	A	G	E	G	Missense	NA
+438	146	G	A	E	E	Synonymous	Likely benign
+438	146	G	C	E	D	Missense	NA
+438	146	G	T	E	D	Missense	NA
+439	147	G	A	A	T	Missense	NA
+439	147	G	C	A	P	Missense	NA
+439	147	G	T	A	S	Missense	NA
+440	147	C	A	A	E	Missense	NA
+440	147	C	T	A	V	Missense	NA
+440	147	C	G	A	G	Missense	NA
+441	147	G	A	A	A	Synonymous	Likely benign
+441	147	G	C	A	A	Synonymous	NA
+441	147	G	T	A	A	Synonymous	Likely benign
+442	148	C	A	L	I	Missense	Uncertain significance
+442	148	C	T	L	F	Missense	NA
+442	148	C	G	L	V	Missense	NA
+443	148	T	A	L	H	Missense	NA
+443	148	T	C	L	P	Missense	NA
+443	148	T	G	L	R	Missense	NA
+444	148	C	A	L	L	Synonymous	NA
+444	148	C	T	L	L	Synonymous	Likely benign
+444	148	C	G	L	L	Synonymous	NA
+445	149	C	A	R	S	Missense	NA
+445	149	C	T	R	C	Missense	NA
+445	149	C	G	R	G	Missense	NA
+446	149	G	A	R	H	Missense	Uncertain significance
+446	149	G	C	R	P	Missense	NA
+446	149	G	T	R	L	Missense	NA
+447	149	C	A	R	R	Synonymous	NA
+447	149	C	T	R	R	Synonymous	NA
+447	149	C	G	R	R	Synonymous	NA
+448	150	G	A	A	T	Missense	Uncertain significance
+448	150	G	C	A	P	Missense	NA
+448	150	G	T	A	S	Missense	NA
+449	150	C	A	A	E	Missense	NA
+449	150	C	T	A	V	Missense	NA
+449	150	C	G	A	G	Missense	NA
+450	150	A	C	A	A	Synonymous	NA
+450	150	A	T	A	A	Synonymous	NA
+450	150	A	G	A	A	Synonymous	NA
+451	151	G	A	G	R	Missense	NA
+451	151	G	C	G	R	Missense	NA
+451	151	G	T	G	*	Nonsense	NA
+452	151	G	A	G	E	Missense	NA
+452	151	G	C	G	A	Missense	Uncertain significance
+452	151	G	T	G	V	Missense	NA
+453	151	A	C	G	G	Synonymous	NA
+453	151	A	T	G	G	Synonymous	NA
+453	151	A	G	G	G	Synonymous	NA
+454	152	A	C	S	R	Missense	NA
+454	152	A	T	S	C	Missense	NA
+454	152	A	G	S	G	Missense	NA
+455	152	G	A	S	N	Missense	NA
+455	152	G	C	S	T	Missense	NA
+455	152	G	T	S	I	Missense	NA
+456	152	C	A	S	R	Missense	NA
+456	152	C	T	S	S	Synonymous	Likely benign
+456	152	C	G	S	R	Missense	Conflicting interpretations of pathogenicity
+457	153	G	A	A	T	Missense	NA
+457	153	G	C	A	P	Missense	NA
+457	153	G	T	A	S	Missense	NA
+458	153	C	A	A	E	Missense	NA
+458	153	C	T	A	V	Missense	NA
+458	153	C	G	A	G	Missense	NA
+459	153	A	C	A	A	Synonymous	NA
+459	153	A	T	A	A	Synonymous	NA
+459	153	A	G	A	A	Synonymous	NA
+460	154	C	A	R	S	Missense	NA
+460	154	C	T	R	C	Missense	NA
+460	154	C	G	R	G	Missense	NA
+461	154	G	A	R	H	Missense	NA
+461	154	G	C	R	P	Missense	NA
+461	154	G	T	R	L	Missense	NA
+462	154	T	A	R	R	Synonymous	NA
+462	154	T	C	R	R	Synonymous	NA
+462	154	T	G	R	R	Synonymous	NA
+463	155	C	A	L	M	Missense	NA
+463	155	C	T	L	L	Synonymous	NA
+463	155	C	G	L	V	Missense	NA
+464	155	T	A	L	Q	Missense	NA
+464	155	T	C	L	P	Missense	NA
+464	155	T	G	L	R	Missense	NA
+465	155	G	A	L	L	Synonymous	NA
+465	155	G	C	L	L	Synonymous	NA
+465	155	G	T	L	L	Synonymous	NA
+466	156	G	A	V	M	Missense	Uncertain significance
+466	156	G	C	V	L	Missense	NA
+466	156	G	T	V	L	Missense	NA
+467	156	T	A	V	E	Missense	NA
+467	156	T	C	V	A	Missense	NA
+467	156	T	G	V	G	Missense	NA
+468	156	G	A	V	V	Synonymous	NA
+468	156	G	C	V	V	Synonymous	NA
+468	156	G	T	V	V	Synonymous	NA
+469	157	G	A	A	T	Missense	NA
+469	157	G	C	A	P	Missense	NA
+469	157	G	T	A	S	Missense	NA
+470	157	C	A	A	D	Missense	NA
+470	157	C	T	A	V	Missense	NA
+470	157	C	G	A	G	Missense	Uncertain significance
+471	157	C	A	A	A	Synonymous	Likely benign
+471	157	C	T	A	A	Synonymous	Likely benign
+471	157	C	G	A	A	Synonymous	NA
+472	158	G	A	A	T	Missense	Uncertain significance
+472	158	G	C	A	P	Missense	NA
+472	158	G	T	A	S	Missense	NA
+473	158	C	A	A	D	Missense	NA
+473	158	C	T	A	V	Missense	NA
+473	158	C	G	A	G	Missense	NA
+474	158	C	A	A	A	Synonymous	Likely benign
+474	158	C	T	A	A	Synonymous	NA
+474	158	C	G	A	A	Synonymous	Likely benign
+475	159	C	A	P	T	Missense	NA
+475	159	C	T	P	S	Missense	NA
+475	159	C	G	P	A	Missense	NA
+476	159	C	A	P	Q	Missense	NA
+476	159	C	T	P	L	Missense	NA
+476	159	C	G	P	R	Missense	NA
+477	159	G	A	P	P	Synonymous	Likely benign
+477	159	G	C	P	P	Synonymous	NA
+477	159	G	T	P	P	Synonymous	NA
+478	160	G	A	V	I	Missense	NA
+478	160	G	C	V	L	Missense	NA
+478	160	G	T	V	F	Missense	Uncertain significance
+479	160	T	A	V	D	Missense	NA
+479	160	T	C	V	A	Missense	NA
+479	160	T	G	V	G	Missense	NA
+480	160	T	A	V	V	Synonymous	NA
+480	160	T	C	V	V	Synonymous	NA
+480	160	T	G	V	V	Synonymous	NA
+481	161	G	A	A	T	Missense	NA
+481	161	G	C	A	P	Missense	NA
+481	161	G	T	A	S	Missense	NA
+482	161	C	A	A	D	Missense	NA
+482	161	C	T	A	V	Missense	Uncertain significance
+482	161	C	G	A	G	Missense	NA
+483	161	C	A	A	A	Synonymous	NA
+483	161	C	T	A	A	Synonymous	Conflicting interpretations of pathogenicity
+483	161	C	G	A	A	Synonymous	NA
+484	162	A	C	T	P	Missense	NA
+484	162	A	T	T	S	Missense	NA
+484	162	A	G	T	A	Missense	NA
+485	162	C	A	T	K	Missense	NA
+485	162	C	T	T	M	Missense	Uncertain significance
+485	162	C	G	T	R	Missense	NA
+486	162	G	A	T	T	Synonymous	Likely benign
+486	162	G	C	T	T	Synonymous	NA
+486	162	G	T	T	T	Synonymous	NA
+487	163	G	A	A	T	Missense	Uncertain significance
+487	163	G	C	A	P	Missense	NA
+487	163	G	T	A	S	Missense	NA
+488	163	C	A	A	D	Missense	NA
+488	163	C	T	A	V	Missense	NA
+488	163	C	G	A	G	Missense	Uncertain significance
+489	163	C	A	A	A	Synonymous	NA
+489	163	C	T	A	A	Synonymous	NA
+489	163	C	G	A	A	Synonymous	NA
+490	164	A	C	N	H	Missense	NA
+490	164	A	T	N	Y	Missense	NA
+490	164	A	G	N	D	Missense	NA
+491	164	A	C	N	T	Missense	NA
+491	164	A	T	N	I	Missense	NA
+491	164	A	G	N	S	Missense	Uncertain significance
+492	164	C	A	N	K	Missense	NA
+492	164	C	T	N	N	Synonymous	NA
+492	164	C	G	N	K	Missense	NA
+493	165	C	A	P	T	Missense	NA
+493	165	C	T	P	S	Missense	Uncertain significance
+493	165	C	G	P	A	Missense	NA
+494	165	C	A	P	H	Missense	NA
+494	165	C	T	P	L	Missense	NA
+494	165	C	G	P	R	Missense	NA
+495	165	T	A	P	P	Synonymous	NA
+495	165	T	C	P	P	Synonymous	NA
+495	165	T	G	P	P	Synonymous	NA
+496	166	G	A	A	T	Missense	NA
+496	166	G	C	A	P	Missense	NA
+496	166	G	T	A	S	Missense	NA
+497	166	C	A	A	D	Missense	NA
+497	166	C	T	A	V	Missense	NA
+497	166	C	G	A	G	Missense	NA
+498	166	C	A	A	A	Synonymous	NA
+498	166	C	T	A	A	Synonymous	Likely benign
+498	166	C	G	A	A	Synonymous	NA
+499	167	A	C	R	R	Synonymous	NA
+499	167	A	T	R	W	Missense	NA
+499	167	A	G	R	G	Missense	NA
+500	167	G	A	R	K	Missense	NA
+500	167	G	C	R	T	Missense	NA
+500	167	G	T	R	M	Missense	NA
+501	167	G	A	R	R	Synonymous	Likely benign
+501	167	G	C	R	S	Missense	NA
+501	167	G	T	R	S	Missense	NA
+502	168	T	A	C	S	Missense	NA
+502	168	T	C	C	R	Missense	Uncertain significance
+502	168	T	G	C	G	Missense	NA
+503	168	G	A	C	Y	Missense	Likely pathogenic
+503	168	G	C	C	S	Missense	NA
+503	168	G	T	C	F	Missense	NA
+504	168	C	A	C	*	Nonsense	NA
+504	168	C	T	C	C	Synonymous	NA
+504	168	C	G	C	W	Missense	NA
+505	169	C	A	L	M	Missense	NA
+505	169	C	T	L	L	Synonymous	NA
+505	169	C	G	L	V	Missense	NA
+506	169	T	A	L	Q	Missense	NA
+506	169	T	C	L	P	Missense	NA
+506	169	T	G	L	R	Missense	NA
+507	169	G	A	L	L	Synonymous	NA
+507	169	G	C	L	L	Synonymous	NA
+507	169	G	T	L	L	Synonymous	NA
+508	170	G	A	A	T	Missense	NA
+508	170	G	C	A	P	Missense	NA
+508	170	G	T	A	S	Missense	NA
+509	170	C	A	A	D	Missense	NA
+509	170	C	T	A	V	Missense	NA
+509	170	C	G	A	G	Missense	NA
+510	170	C	A	A	A	Synonymous	NA
+510	170	C	T	A	A	Synonymous	NA
+510	170	C	G	A	A	Synonymous	NA
+511	171	C	A	L	M	Missense	NA
+511	171	C	T	L	L	Synonymous	Likely benign
+511	171	C	G	L	V	Missense	Uncertain significance
+512	171	T	A	L	Q	Missense	NA
+512	171	T	C	L	P	Missense	NA
+512	171	T	G	L	R	Missense	NA
+513	171	G	A	L	L	Synonymous	NA
+513	171	G	C	L	L	Synonymous	NA
+513	171	G	T	L	L	Synonymous	NA
+514	172	A	C	N	H	Missense	NA
+514	172	A	T	N	Y	Missense	NA
+514	172	A	G	N	D	Missense	NA
+515	172	A	C	N	T	Missense	NA
+515	172	A	T	N	I	Missense	NA
+515	172	A	G	N	S	Missense	NA
+516	172	C	A	N	K	Missense	Uncertain significance
+516	172	C	T	N	N	Synonymous	Likely benign
+516	172	C	G	N	K	Missense	NA
+517	173	G	A	V	I	Missense	Uncertain significance
+517	173	G	C	V	L	Missense	NA
+517	173	G	T	V	F	Missense	NA
+518	173	T	A	V	D	Missense	NA
+518	173	T	C	V	A	Missense	NA
+518	173	T	G	V	G	Missense	NA
+519	173	C	A	V	V	Synonymous	NA
+519	173	C	T	V	V	Synonymous	NA
+519	173	C	G	V	V	Synonymous	NA
+520	174	A	C	S	R	Missense	NA
+520	174	A	T	S	C	Missense	Benign/Likely benign
+520	174	A	G	S	G	Missense	NA
+521	174	G	A	S	N	Missense	NA
+521	174	G	C	S	T	Missense	NA
+521	174	G	T	S	I	Missense	NA
+522	174	C	A	S	R	Missense	NA
+522	174	C	T	S	S	Synonymous	Likely benign
+522	174	C	G	S	R	Missense	NA
+523	175	C	A	L	M	Missense	NA
+523	175	C	T	L	L	Synonymous	NA
+523	175	C	G	L	V	Missense	NA
+524	175	T	A	L	Q	Missense	NA
+524	175	T	C	L	P	Missense	Uncertain significance
+524	175	T	G	L	R	Missense	NA
+525	175	G	A	L	L	Synonymous	Likely benign
+525	175	G	C	L	L	Synonymous	NA
+525	175	G	T	L	L	Synonymous	Likely benign
+526	176	C	A	R	R	Synonymous	Likely benign
+526	176	C	T	R	*	Nonsense	Pathogenic/Likely pathogenic
+526	176	C	G	R	G	Missense	Likely pathogenic
+527	176	G	A	R	Q	Missense	Uncertain significance
+527	176	G	C	R	P	Missense	NA
+527	176	G	T	R	L	Missense	NA
+528	176	A	C	R	R	Synonymous	NA
+528	176	A	T	R	R	Synonymous	NA
+528	176	A	G	R	R	Synonymous	NA
+529	177	G	A	E	K	Missense	Uncertain significance
+529	177	G	C	E	Q	Missense	NA
+529	177	G	T	E	*	Nonsense	NA
+530	177	A	C	E	A	Missense	NA
+530	177	A	T	E	V	Missense	NA
+530	177	A	G	E	G	Missense	NA
+531	177	G	A	E	E	Synonymous	Conflicting interpretations of pathogenicity
+531	177	G	C	E	D	Missense	NA
+531	177	G	T	E	D	Missense	NA
+532	178	T	A	W	R	Missense	NA
+532	178	T	C	W	R	Missense	NA
+532	178	T	G	W	G	Missense	NA
+533	178	G	A	W	*	Nonsense	NA
+533	178	G	C	W	S	Missense	NA
+533	178	G	T	W	L	Missense	NA
+534	178	G	A	W	*	Nonsense	NA
+534	178	G	C	W	C	Missense	NA
+534	178	G	T	W	C	Missense	NA
+535	179	A	C	T	P	Missense	NA
+535	179	A	T	T	S	Missense	NA
+535	179	A	G	T	A	Missense	NA
+536	179	C	A	T	N	Missense	Uncertain significance
+536	179	C	T	T	I	Missense	NA
+536	179	C	G	T	S	Missense	NA
+537	179	C	A	T	T	Synonymous	NA
+537	179	C	T	T	T	Synonymous	Likely benign
+537	179	C	G	T	T	Synonymous	Likely benign
+538	180	G	A	A	T	Missense	NA
+538	180	G	C	A	P	Missense	NA
+538	180	G	T	A	S	Missense	NA
+539	180	C	A	A	D	Missense	Uncertain significance
+539	180	C	T	A	V	Missense	NA
+539	180	C	G	A	G	Missense	NA
+540	180	C	A	A	A	Synonymous	NA
+540	180	C	T	A	A	Synonymous	Likely benign
+540	180	C	G	A	A	Synonymous	NA
+541	181	C	A	R	S	Missense	Uncertain significance
+541	181	C	T	R	C	Missense	Uncertain significance
+541	181	C	G	R	G	Missense	NA
+542	181	G	A	R	H	Missense	NA
+542	181	G	C	R	P	Missense	NA
+542	181	G	T	R	L	Missense	NA
+543	181	C	A	R	R	Synonymous	NA
+543	181	C	T	R	R	Synonymous	NA
+543	181	C	G	R	R	Synonymous	NA
+544	182	T	A	Y	N	Missense	NA
+544	182	T	C	Y	H	Missense	Conflicting interpretations of pathogenicity
+544	182	T	G	Y	D	Missense	NA
+545	182	A	C	Y	S	Missense	Uncertain significance
+545	182	A	T	Y	F	Missense	NA
+545	182	A	G	Y	C	Missense	Pathogenic
+546	182	T	A	Y	*	Nonsense	NA
+546	182	T	C	Y	Y	Synonymous	NA
+546	182	T	G	Y	*	Nonsense	NA
+547	183	G	A	G	S	Missense	NA
+547	183	G	C	G	R	Missense	NA
+547	183	G	T	G	C	Missense	NA
+548	183	G	A	G	D	Missense	Uncertain significance
+548	183	G	C	G	A	Missense	NA
+548	183	G	T	G	V	Missense	NA
+549	183	C	A	G	G	Synonymous	NA
+549	183	C	T	G	G	Synonymous	Likely benign
+549	183	C	G	G	G	Synonymous	NA
+550	184	G	A	A	T	Missense	NA
+550	184	G	C	A	P	Missense	NA
+550	184	G	T	A	S	Missense	NA
+551	184	C	A	A	E	Missense	NA
+551	184	C	T	A	V	Missense	Uncertain significance
+551	184	C	G	A	G	Missense	NA
+552	184	A	C	A	A	Synonymous	NA
+552	184	A	T	A	A	Synonymous	NA
+552	184	A	G	A	A	Synonymous	NA
+553	185	G	A	A	T	Missense	NA
+553	185	G	C	A	P	Missense	NA
+553	185	G	T	A	S	Missense	NA
+554	185	C	A	A	D	Missense	NA
+554	185	C	T	A	V	Missense	Uncertain significance
+554	185	C	G	A	G	Missense	NA
+555	185	C	A	A	A	Synonymous	Likely benign
+555	185	C	T	A	A	Synonymous	Likely benign
+555	185	C	G	A	A	Synonymous	Likely benign
+556	186	C	A	P	T	Missense	NA
+556	186	C	T	P	S	Missense	NA
+556	186	C	G	P	A	Missense	Uncertain significance
+557	186	C	A	P	H	Missense	NA
+557	186	C	T	P	L	Missense	Uncertain significance
+557	186	C	G	P	R	Missense	NA
+558	186	C	A	P	P	Synonymous	Likely benign
+558	186	C	T	P	P	Synonymous	NA
+558	186	C	G	P	P	Synonymous	Likely benign
+559	187	G	A	A	T	Missense	NA
+559	187	G	C	A	P	Missense	NA
+559	187	G	T	A	S	Missense	NA
+560	187	C	A	A	D	Missense	NA
+560	187	C	T	A	V	Missense	NA
+560	187	C	G	A	G	Missense	NA
+561	187	C	A	A	A	Synonymous	NA
+561	187	C	T	A	A	Synonymous	Likely benign
+561	187	C	G	A	A	Synonymous	Likely benign
+562	188	G	A	A	T	Missense	Uncertain significance
+562	188	G	C	A	P	Missense	NA
+562	188	G	T	A	S	Missense	NA
+563	188	C	A	A	E	Missense	NA
+563	188	C	T	A	V	Missense	Uncertain significance
+563	188	C	G	A	G	Missense	NA
+564	188	G	A	A	A	Synonymous	NA
+564	188	G	C	A	A	Synonymous	NA
+564	188	G	T	A	A	Synonymous	NA
+565	189	C	A	P	T	Missense	NA
+565	189	C	T	P	S	Missense	NA
+565	189	C	G	P	A	Missense	NA
+566	189	C	A	P	H	Missense	NA
+566	189	C	T	P	L	Missense	NA
+566	189	C	G	P	R	Missense	NA
+567	189	C	A	P	P	Synonymous	NA
+567	189	C	T	P	P	Synonymous	Conflicting interpretations of pathogenicity
+567	189	C	G	P	P	Synonymous	NA
+568	190	C	A	R	S	Missense	NA
+568	190	C	T	R	C	Missense	Uncertain significance
+568	190	C	G	R	G	Missense	NA
+569	190	G	A	R	H	Missense	Uncertain significance
+569	190	G	C	R	P	Missense	Uncertain significance
+569	190	G	T	R	L	Missense	NA
+570	190	C	A	R	R	Synonymous	NA
+570	190	C	T	R	R	Synonymous	NA
+570	190	C	G	R	R	Synonymous	NA
+571	191	T	A	C	S	Missense	NA
+571	191	T	C	C	R	Missense	NA
+571	191	T	G	C	G	Missense	NA
+572	191	G	A	C	Y	Missense	NA
+572	191	G	C	C	S	Missense	NA
+572	191	G	T	C	F	Missense	NA
+573	191	C	A	C	*	Nonsense	NA
+573	191	C	T	C	C	Synonymous	Likely benign
+573	191	C	G	C	W	Missense	NA
+574	192	G	A	D	N	Missense	NA
+574	192	G	C	D	H	Missense	NA
+574	192	G	T	D	Y	Missense	NA
+575	192	A	C	D	A	Missense	NA
+575	192	A	T	D	V	Missense	NA
+575	192	A	G	D	G	Missense	NA
+576	192	C	A	D	E	Missense	NA
+576	192	C	T	D	D	Synonymous	Likely benign
+576	192	C	G	D	E	Missense	NA
+577	193	G	A	A	T	Missense	NA
+577	193	G	C	A	P	Missense	NA
+577	193	G	T	A	S	Missense	NA
+578	193	C	A	A	D	Missense	NA
+578	193	C	T	A	V	Missense	Uncertain significance
+578	193	C	G	A	G	Missense	NA
+579	193	C	A	A	A	Synonymous	NA
+579	193	C	T	A	A	Synonymous	NA
+579	193	C	G	A	A	Synonymous	NA
+580	194	C	A	L	M	Missense	NA
+580	194	C	T	L	L	Synonymous	NA
+580	194	C	G	L	V	Missense	NA
+581	194	T	A	L	Q	Missense	Uncertain significance
+581	194	T	C	L	P	Missense	NA
+581	194	T	G	L	R	Missense	NA
+582	194	G	A	L	L	Synonymous	Likely benign
+582	194	G	C	L	L	Synonymous	Likely benign
+582	194	G	T	L	L	Synonymous	Likely benign
+583	195	G	A	D	N	Missense	NA
+583	195	G	C	D	H	Missense	NA
+583	195	G	T	D	Y	Missense	Uncertain significance
+584	195	A	C	D	A	Missense	NA
+584	195	A	T	D	V	Missense	NA
+584	195	A	G	D	G	Missense	NA
+585	195	C	A	D	E	Missense	NA
+585	195	C	T	D	D	Synonymous	Benign
+585	195	C	G	D	E	Missense	NA
+586	196	G	A	G	R	Missense	Conflicting interpretations of pathogenicity
+586	196	G	C	G	R	Missense	Conflicting interpretations of pathogenicity
+586	196	G	T	G	*	Nonsense	NA
+587	196	G	A	G	E	Missense	Uncertain significance
+587	196	G	C	G	A	Missense	NA
+587	196	G	T	G	V	Missense	NA
+588	196	A	C	G	G	Synonymous	NA
+588	196	A	T	G	G	Synonymous	NA
+588	196	A	G	G	G	Synonymous	Likely benign
+589	197	G	A	D	N	Missense	NA
+589	197	G	C	D	H	Missense	NA
+589	197	G	T	D	Y	Missense	NA
+590	197	A	C	D	A	Missense	NA
+590	197	A	T	D	V	Missense	Uncertain significance
+590	197	A	G	D	G	Missense	NA
+591	197	T	A	D	E	Missense	NA
+591	197	T	C	D	D	Synonymous	NA
+591	197	T	G	D	E	Missense	NA
+592	198	G	A	A	T	Missense	Uncertain significance
+592	198	G	C	A	P	Missense	NA
+592	198	G	T	A	S	Missense	NA
+593	198	C	A	A	D	Missense	NA
+593	198	C	T	A	V	Missense	NA
+593	198	C	G	A	G	Missense	NA
+594	198	T	A	A	A	Synonymous	NA
+594	198	T	C	A	A	Synonymous	NA
+594	198	T	G	A	A	Synonymous	Likely benign
+595	199	G	A	V	M	Missense	NA
+595	199	G	C	V	L	Missense	NA
+595	199	G	T	V	L	Missense	NA
+596	199	T	A	V	E	Missense	NA
+596	199	T	C	V	A	Missense	NA
+596	199	T	G	V	G	Missense	NA
+597	199	G	A	V	V	Synonymous	NA
+597	199	G	C	V	V	Synonymous	NA
+597	199	G	T	V	V	Synonymous	Likely benign
+598	200	G	A	V	M	Missense	NA
+598	200	G	C	V	L	Missense	NA
+598	200	G	T	V	L	Missense	NA
+599	200	T	A	V	E	Missense	NA
+599	200	T	C	V	A	Missense	NA
+599	200	T	G	V	G	Missense	NA
+600	200	G	A	V	V	Synonymous	Likely benign
+600	200	G	C	V	V	Synonymous	NA
+600	200	G	T	V	V	Synonymous	Likely benign
+601	201	C	A	L	I	Missense	NA
+601	201	C	T	L	F	Missense	Uncertain significance
+601	201	C	G	L	V	Missense	NA
+602	201	T	A	L	H	Missense	NA
+602	201	T	C	L	P	Missense	NA
+602	201	T	G	L	R	Missense	NA
+603	201	C	A	L	L	Synonymous	NA
+603	201	C	T	L	L	Synonymous	Likely benign
+603	201	C	G	L	L	Synonymous	NA
+604	202	C	A	L	M	Missense	NA
+604	202	C	T	L	L	Synonymous	NA
+604	202	C	G	L	V	Missense	NA
+605	202	T	A	L	Q	Missense	NA
+605	202	T	C	L	P	Missense	Uncertain significance
+605	202	T	G	L	R	Missense	NA
+606	202	G	A	L	L	Synonymous	Conflicting interpretations of pathogenicity
+606	202	G	C	L	L	Synonymous	NA
+606	202	G	T	L	L	Synonymous	NA
+607	203	C	A	R	S	Missense	NA
+607	203	C	T	R	C	Missense	Uncertain significance
+607	203	C	G	R	G	Missense	NA
+608	203	G	A	R	H	Missense	Uncertain significance
+608	203	G	C	R	P	Missense	NA
+608	203	G	T	R	L	Missense	NA
+609	203	C	A	R	R	Synonymous	NA
+609	203	C	T	R	R	Synonymous	Likely benign
+609	203	C	G	R	R	Synonymous	NA
+610	204	G	A	A	T	Missense	Uncertain significance
+610	204	G	C	A	P	Missense	NA
+610	204	G	T	A	S	Missense	NA
+611	204	C	A	A	D	Missense	NA
+611	204	C	T	A	V	Missense	NA
+611	204	C	G	A	G	Missense	NA
+612	204	C	A	A	A	Synonymous	NA
+612	204	C	T	A	A	Synonymous	NA
+612	204	C	G	A	A	Synonymous	NA
+613	205	C	A	R	S	Missense	NA
+613	205	C	T	R	C	Missense	Uncertain significance
+613	205	C	G	R	G	Missense	Uncertain significance
+614	205	G	A	R	H	Missense	NA
+614	205	G	C	R	P	Missense	NA
+614	205	G	T	R	L	Missense	NA
+615	205	C	A	R	R	Synonymous	NA
+615	205	C	T	R	R	Synonymous	NA
+615	205	C	G	R	R	Synonymous	NA
+616	206	G	A	D	N	Missense	Uncertain significance
+616	206	G	C	D	H	Missense	NA
+616	206	G	T	D	Y	Missense	NA
+617	206	A	C	D	A	Missense	NA
+617	206	A	T	D	V	Missense	NA
+617	206	A	G	D	G	Missense	NA
+618	206	C	A	D	E	Missense	NA
+618	206	C	T	D	D	Synonymous	Likely benign
+618	206	C	G	D	E	Missense	NA
+619	207	C	A	L	I	Missense	NA
+619	207	C	T	L	F	Missense	NA
+619	207	C	G	L	V	Missense	NA
+620	207	T	A	L	H	Missense	NA
+620	207	T	C	L	P	Missense	NA
+620	207	T	G	L	R	Missense	NA
+621	207	C	A	L	L	Synonymous	NA
+621	207	C	T	L	L	Synonymous	Likely benign
+621	207	C	G	L	L	Synonymous	Likely benign
+622	208	T	A	F	I	Missense	NA
+622	208	T	C	F	L	Missense	NA
+622	208	T	G	F	V	Missense	NA
+623	208	T	A	F	Y	Missense	NA
+623	208	T	C	F	S	Missense	NA
+623	208	T	G	F	C	Missense	NA
+624	208	C	A	F	L	Missense	NA
+624	208	C	T	F	F	Synonymous	NA
+624	208	C	G	F	L	Missense	NA
+625	209	A	C	N	H	Missense	NA
+625	209	A	T	N	Y	Missense	NA
+625	209	A	G	N	D	Missense	NA
+626	209	A	C	N	T	Missense	NA
+626	209	A	T	N	I	Missense	NA
+626	209	A	G	N	S	Missense	NA
+627	209	C	A	N	K	Missense	NA
+627	209	C	T	N	N	Synonymous	NA
+627	209	C	G	N	K	Missense	NA
+628	210	C	A	L	I	Missense	NA
+628	210	C	T	L	F	Missense	Uncertain significance
+628	210	C	G	L	V	Missense	Uncertain significance
+629	210	T	A	L	H	Missense	NA
+629	210	T	C	L	P	Missense	NA
+629	210	T	G	L	R	Missense	NA
+630	210	C	A	L	L	Synonymous	NA
+630	210	C	T	L	L	Synonymous	NA
+630	210	C	G	L	L	Synonymous	NA
+631	211	T	A	S	T	Missense	NA
+631	211	T	C	S	P	Missense	NA
+631	211	T	G	S	A	Missense	NA
+632	211	C	A	S	*	Nonsense	NA
+632	211	C	T	S	L	Missense	Uncertain significance
+632	211	C	G	S	W	Missense	Uncertain significance
+633	211	G	A	S	S	Synonymous	Conflicting interpretations of pathogenicity
+633	211	G	C	S	S	Synonymous	NA
+633	211	G	T	S	S	Synonymous	NA
+634	212	G	A	A	T	Missense	NA
+634	212	G	C	A	P	Missense	NA
+634	212	G	T	A	S	Missense	NA
+635	212	C	A	A	E	Missense	NA
+635	212	C	T	A	V	Missense	Uncertain significance
+635	212	C	G	A	G	Missense	NA
+636	212	G	A	A	A	Synonymous	Benign/Likely benign
+636	212	G	C	A	A	Synonymous	NA
+636	212	G	T	A	A	Synonymous	NA
+637	213	C	A	P	T	Missense	NA
+637	213	C	T	P	S	Missense	NA
+637	213	C	G	P	A	Missense	NA
+638	213	C	A	P	H	Missense	NA
+638	213	C	T	P	L	Missense	NA
+638	213	C	G	P	R	Missense	NA
+639	213	C	A	P	P	Synonymous	NA
+639	213	C	T	P	P	Synonymous	Likely benign
+639	213	C	G	P	P	Synonymous	Likely benign
+640	214	C	A	L	M	Missense	NA
+640	214	C	T	L	L	Synonymous	NA
+640	214	C	G	L	V	Missense	Uncertain significance
+641	214	T	A	L	Q	Missense	NA
+641	214	T	C	L	P	Missense	NA
+641	214	T	G	L	R	Missense	Uncertain significance
+642	214	G	A	L	L	Synonymous	NA
+642	214	G	C	L	L	Synonymous	Likely benign
+642	214	G	T	L	L	Synonymous	NA
+643	215	G	A	A	T	Missense	NA
+643	215	G	C	A	P	Missense	NA
+643	215	G	T	A	S	Missense	NA
+644	215	C	A	A	D	Missense	NA
+644	215	C	T	A	V	Missense	NA
+644	215	C	G	A	G	Missense	NA
+645	215	C	A	A	A	Synonymous	NA
+645	215	C	T	A	A	Synonymous	NA
+645	215	C	G	A	A	Synonymous	NA
+646	216	C	A	R	R	Synonymous	NA
+646	216	C	T	R	W	Missense	Conflicting interpretations of pathogenicity
+646	216	C	G	R	G	Missense	NA
+647	216	G	A	R	Q	Missense	Uncertain significance
+647	216	G	C	R	P	Missense	NA
+647	216	G	T	R	L	Missense	NA
+648	216	G	A	R	R	Synonymous	Likely benign
+648	216	G	C	R	R	Synonymous	NA
+648	216	G	T	R	R	Synonymous	NA
+649	217	C	A	P	T	Missense	Uncertain significance
+649	217	C	T	P	S	Missense	NA
+649	217	C	G	P	A	Missense	NA
+650	217	C	A	P	Q	Missense	Uncertain significance
+650	217	C	T	P	L	Missense	NA
+650	217	C	G	P	R	Missense	NA
+651	217	G	A	P	P	Synonymous	Likely benign
+651	217	G	C	P	P	Synonymous	NA
+651	217	G	T	P	P	Synonymous	Likely benign
+652	218	G	A	V	M	Missense	NA
+652	218	G	C	V	L	Missense	NA
+652	218	G	T	V	L	Missense	NA
+653	218	T	A	V	E	Missense	NA
+653	218	T	C	V	A	Missense	NA
+653	218	T	G	V	G	Missense	NA
+654	218	G	A	V	V	Synonymous	Likely benign
+654	218	G	C	V	V	Synonymous	NA
+654	218	G	T	V	V	Synonymous	NA
+655	219	G	A	G	S	Missense	Uncertain significance
+655	219	G	C	G	R	Missense	NA
+655	219	G	T	G	C	Missense	NA
+656	219	G	A	G	D	Missense	NA
+656	219	G	C	G	A	Missense	NA
+656	219	G	T	G	V	Missense	NA
+657	219	C	A	G	G	Synonymous	NA
+657	219	C	T	G	G	Synonymous	NA
+657	219	C	G	G	G	Synonymous	NA
+658	220	A	C	T	P	Missense	Uncertain significance
+658	220	A	T	T	S	Missense	NA
+658	220	A	G	T	A	Missense	NA
+659	220	C	A	T	N	Missense	NA
+659	220	C	T	T	I	Missense	NA
+659	220	C	G	T	S	Missense	NA
+660	220	C	A	T	T	Synonymous	NA
+660	220	C	T	T	T	Synonymous	NA
+660	220	C	G	T	T	Synonymous	NA
+661	221	A	C	S	R	Missense	NA
+661	221	A	T	S	C	Missense	NA
+661	221	A	G	S	G	Missense	NA
+662	221	G	A	S	N	Missense	NA
+662	221	G	C	S	T	Missense	NA
+662	221	G	T	S	I	Missense	NA
+663	221	C	A	S	R	Missense	Pathogenic
+663	221	C	T	S	S	Synonymous	NA
+663	221	C	G	S	R	Missense	NA
+664	222	C	A	L	I	Missense	NA
+664	222	C	T	L	F	Missense	NA
+664	222	C	G	L	V	Missense	NA
+665	222	T	A	L	H	Missense	NA
+665	222	T	C	L	P	Missense	NA
+665	222	T	G	L	R	Missense	NA
+666	222	C	A	L	L	Synonymous	NA
+666	222	C	T	L	L	Synonymous	Likely benign
+666	222	C	G	L	L	Synonymous	NA
+667	223	T	A	F	I	Missense	NA
+667	223	T	C	F	L	Missense	NA
+667	223	T	G	F	V	Missense	Uncertain significance
+668	223	T	A	F	Y	Missense	NA
+668	223	T	C	F	S	Missense	NA
+668	223	T	G	F	C	Missense	NA
+669	223	T	A	F	L	Missense	NA
+669	223	T	C	F	F	Synonymous	NA
+669	223	T	G	F	L	Missense	NA
+670	224	C	A	L	M	Missense	NA
+670	224	C	T	L	L	Synonymous	NA
+670	224	C	G	L	V	Missense	NA
+671	224	T	A	L	Q	Missense	NA
+671	224	T	C	L	P	Missense	NA
+671	224	T	G	L	R	Missense	NA
+672	224	G	A	L	L	Synonymous	NA
+672	224	G	C	L	L	Synonymous	NA
+672	224	G	T	L	L	Synonymous	NA
+673	225	C	A	Q	K	Missense	Uncertain significance
+673	225	C	T	Q	*	Nonsense	NA
+673	225	C	G	Q	E	Missense	NA
+674	225	A	C	Q	P	Missense	Uncertain significance
+674	225	A	T	Q	L	Missense	NA
+674	225	A	G	Q	R	Missense	NA
+675	225	G	A	Q	Q	Synonymous	NA
+675	225	G	C	Q	H	Missense	NA
+675	225	G	T	Q	H	Missense	NA
+676	226	A	C	T	P	Missense	NA
+676	226	A	T	T	S	Missense	NA
+676	226	A	G	T	A	Missense	NA
+677	226	C	A	T	N	Missense	Uncertain significance
+677	226	C	T	T	I	Missense	NA
+677	226	C	G	T	S	Missense	NA
+678	226	C	A	T	T	Synonymous	NA
+678	226	C	T	T	T	Synonymous	NA
+678	226	C	G	T	T	Synonymous	Likely benign
+679	227	G	A	A	T	Missense	NA
+679	227	G	C	A	P	Missense	Uncertain significance
+679	227	G	T	A	S	Missense	NA
+680	227	C	A	A	D	Missense	NA
+680	227	C	T	A	V	Missense	NA
+680	227	C	G	A	G	Missense	NA
+681	227	C	A	A	A	Synonymous	NA
+681	227	C	T	A	A	Synonymous	NA
+681	227	C	G	A	A	Synonymous	NA
+682	228	C	A	L	I	Missense	NA
+682	228	C	T	L	F	Missense	Uncertain significance
+682	228	C	G	L	V	Missense	NA
+683	228	T	A	L	H	Missense	NA
+683	228	T	C	L	P	Missense	NA
+683	228	T	G	L	R	Missense	NA
+684	228	T	A	L	L	Synonymous	NA
+684	228	T	C	L	L	Synonymous	NA
+684	228	T	G	L	L	Synonymous	NA
+685	229	C	A	R	S	Missense	NA
+685	229	C	T	R	C	Missense	NA
+685	229	C	G	R	G	Missense	NA
+686	229	G	A	R	H	Missense	NA
+686	229	G	C	R	P	Missense	NA
+686	229	G	T	R	L	Missense	NA
+687	229	C	A	R	R	Synonymous	NA
+687	229	C	T	R	R	Synonymous	Likely benign
+687	229	C	G	R	R	Synonymous	NA
+688	230	G	A	G	S	Missense	Uncertain significance
+688	230	G	C	G	R	Missense	NA
+688	230	G	T	G	C	Missense	Uncertain significance
+689	230	G	A	G	D	Missense	NA
+689	230	G	C	G	A	Missense	NA
+689	230	G	T	G	V	Missense	NA
+690	230	C	A	G	G	Synonymous	NA
+690	230	C	T	G	G	Synonymous	NA
+690	230	C	G	G	G	Synonymous	NA
+691	231	T	A	W	R	Missense	NA
+691	231	T	C	W	R	Missense	NA
+691	231	T	G	W	G	Missense	NA
+692	231	G	A	W	*	Nonsense	Pathogenic
+692	231	G	C	W	S	Missense	NA
+692	231	G	T	W	L	Missense	NA
+693	231	G	A	W	*	Nonsense	NA
+693	231	G	C	W	C	Missense	Uncertain significance
+693	231	G	T	W	C	Missense	NA
+694	232	G	A	A	T	Missense	NA
+694	232	G	C	A	P	Missense	NA
+694	232	G	T	A	S	Missense	NA
+695	232	C	A	A	E	Missense	NA
+695	232	C	T	A	V	Missense	NA
+695	232	C	G	A	G	Missense	NA
+696	232	G	A	A	A	Synonymous	NA
+696	232	G	C	A	A	Synonymous	NA
+696	232	G	T	A	A	Synonymous	Conflicting interpretations of pathogenicity
+697	233	G	A	V	M	Missense	NA
+697	233	G	C	V	L	Missense	NA
+697	233	G	T	V	L	Missense	NA
+698	233	T	A	V	E	Missense	NA
+698	233	T	C	V	A	Missense	NA
+698	233	T	G	V	G	Missense	NA
+699	233	G	A	V	V	Synonymous	Conflicting interpretations of pathogenicity
+699	233	G	C	V	V	Synonymous	NA
+699	233	G	T	V	V	Synonymous	NA
+700	234	C	A	Q	K	Missense	NA
+700	234	C	T	Q	*	Nonsense	NA
+700	234	C	G	Q	E	Missense	NA
+701	234	A	C	Q	P	Missense	NA
+701	234	A	T	Q	L	Missense	NA
+701	234	A	G	Q	R	Missense	NA
+702	234	G	A	Q	Q	Synonymous	NA
+702	234	G	C	Q	H	Missense	NA
+702	234	G	T	Q	H	Missense	NA
+703	235	C	A	L	M	Missense	NA
+703	235	C	T	L	L	Synonymous	Conflicting interpretations of pathogenicity
+703	235	C	G	L	V	Missense	NA
+704	235	T	A	L	Q	Missense	NA
+704	235	T	C	L	P	Missense	NA
+704	235	T	G	L	R	Missense	NA
+705	235	G	A	L	L	Synonymous	NA
+705	235	G	C	L	L	Synonymous	NA
+705	235	G	T	L	L	Synonymous	NA
+706	236	C	A	L	M	Missense	NA
+706	236	C	T	L	L	Synonymous	NA
+706	236	C	G	L	V	Missense	Uncertain significance
+707	236	T	A	L	Q	Missense	NA
+707	236	T	C	L	P	Missense	Uncertain significance
+707	236	T	G	L	R	Missense	NA
+708	236	G	A	L	L	Synonymous	Likely benign
+708	236	G	C	L	L	Synonymous	NA
+708	236	G	T	L	L	Synonymous	NA
+709	237	G	A	D	N	Missense	NA
+709	237	G	C	D	H	Missense	NA
+709	237	G	T	D	Y	Missense	NA
+710	237	A	C	D	A	Missense	NA
+710	237	A	T	D	V	Missense	NA
+710	237	A	G	D	G	Missense	NA
+711	237	C	A	D	E	Missense	NA
+711	237	C	T	D	D	Synonymous	NA
+711	237	C	G	D	E	Missense	NA
+712	238	T	A	L	M	Missense	NA
+712	238	T	C	L	L	Synonymous	NA
+712	238	T	G	L	V	Missense	NA
+713	238	T	A	L	*	Nonsense	NA
+713	238	T	C	L	S	Missense	NA
+713	238	T	G	L	W	Missense	NA
+714	238	G	A	L	L	Synonymous	Likely benign
+714	238	G	C	L	F	Missense	NA
+714	238	G	T	L	F	Missense	NA
+715	239	A	C	T	P	Missense	NA
+715	239	A	T	T	S	Missense	NA
+715	239	A	G	T	A	Missense	NA
+716	239	C	A	T	N	Missense	NA
+716	239	C	T	T	I	Missense	NA
+716	239	C	G	T	S	Missense	NA
+717	239	C	A	T	T	Synonymous	NA
+717	239	C	T	T	T	Synonymous	Likely benign
+717	239	C	G	T	T	Synonymous	NA
+718	240	T	A	F	I	Missense	NA
+718	240	T	C	F	L	Missense	Uncertain significance
+718	240	T	G	F	V	Missense	NA
+719	240	T	A	F	Y	Missense	NA
+719	240	T	C	F	S	Missense	NA
+719	240	T	G	F	C	Missense	NA
+720	240	C	A	F	L	Missense	NA
+720	240	C	T	F	F	Synonymous	Likely benign
+720	240	C	G	F	L	Missense	NA
+721	241	G	A	A	T	Missense	Uncertain significance
+721	241	G	C	A	P	Missense	NA
+721	241	G	T	A	S	Missense	NA
+722	241	C	A	A	D	Missense	NA
+722	241	C	T	A	V	Missense	NA
+722	241	C	G	A	G	Missense	NA
+723	241	C	A	A	A	Synonymous	NA
+723	241	C	T	A	A	Synonymous	NA
+723	241	C	G	A	A	Synonymous	Likely benign
+724	242	G	A	A	T	Missense	NA
+724	242	G	C	A	P	Missense	NA
+724	242	G	T	A	S	Missense	NA
+725	242	C	A	A	E	Missense	NA
+725	242	C	T	A	V	Missense	Uncertain significance
+725	242	C	G	A	G	Missense	NA
+726	242	G	A	A	A	Synonymous	NA
+726	242	G	C	A	A	Synonymous	NA
+726	242	G	T	A	A	Synonymous	NA
+727	243	G	A	A	T	Missense	NA
+727	243	G	C	A	P	Missense	NA
+727	243	G	T	A	S	Missense	NA
+728	243	C	A	A	E	Missense	NA
+728	243	C	T	A	V	Missense	NA
+728	243	C	G	A	G	Missense	NA
+729	243	G	A	A	A	Synonymous	Conflicting interpretations of pathogenicity
+729	243	G	C	A	A	Synonymous	NA
+729	243	G	T	A	A	Synonymous	NA
+730	244	C	A	R	S	Missense	NA
+730	244	C	T	R	C	Missense	NA
+730	244	C	G	R	G	Missense	NA
+731	244	G	A	R	H	Missense	Conflicting interpretations of pathogenicity
+731	244	G	C	R	P	Missense	NA
+731	244	G	T	R	L	Missense	Uncertain significance
+732	244	C	A	R	R	Synonymous	NA
+732	244	C	T	R	R	Synonymous	NA
+732	244	C	G	R	R	Synonymous	NA
+733	245	C	A	Q	K	Missense	NA
+733	245	C	T	Q	*	Nonsense	NA
+733	245	C	G	Q	E	Missense	NA
+734	245	A	C	Q	P	Missense	NA
+734	245	A	T	Q	L	Missense	NA
+734	245	A	G	Q	R	Missense	NA
+735	245	G	A	Q	Q	Synonymous	NA
+735	245	G	C	Q	H	Missense	NA
+735	245	G	T	Q	H	Missense	NA
+736	246	C	A	P	T	Missense	Uncertain significance
+736	246	C	T	P	S	Missense	Uncertain significance
+736	246	C	G	P	A	Missense	NA
+737	246	C	A	P	H	Missense	NA
+737	246	C	T	P	L	Missense	NA
+737	246	C	G	P	R	Missense	NA
+738	246	C	A	P	P	Synonymous	NA
+738	246	C	T	P	P	Synonymous	Likely benign
+738	246	C	G	P	P	Synonymous	NA
+739	247	C	A	P	T	Missense	Uncertain significance
+739	247	C	T	P	S	Missense	Uncertain significance
+739	247	C	G	P	A	Missense	NA
+740	247	C	A	P	Q	Missense	Conflicting interpretations of pathogenicity
+740	247	C	T	P	L	Missense	NA
+740	247	C	G	P	R	Missense	Uncertain significance
+741	247	G	A	P	P	Synonymous	Likely benign
+741	247	G	C	P	P	Synonymous	NA
+741	247	G	T	P	P	Synonymous	NA
+742	248	C	A	L	M	Missense	NA
+742	248	C	T	L	L	Synonymous	NA
+742	248	C	G	L	V	Missense	NA
+743	248	T	A	L	Q	Missense	NA
+743	248	T	C	L	P	Missense	NA
+743	248	T	G	L	R	Missense	NA
+744	248	G	A	L	L	Synonymous	Likely benign
+744	248	G	C	L	L	Synonymous	NA
+744	248	G	T	L	L	Synonymous	NA
+745	249	G	A	A	T	Missense	Uncertain significance
+745	249	G	C	A	P	Missense	NA
+745	249	G	T	A	S	Missense	NA
+746	249	C	A	A	D	Missense	NA
+746	249	C	T	A	V	Missense	NA
+746	249	C	G	A	G	Missense	NA
+747	249	C	A	A	A	Synonymous	NA
+747	249	C	T	A	A	Synonymous	NA
+747	249	C	G	A	A	Synonymous	NA
+748	250	A	C	T	P	Missense	NA
+748	250	A	T	T	S	Missense	NA
+748	250	A	G	T	A	Missense	Uncertain significance
+749	250	C	A	T	K	Missense	NA
+749	250	C	T	T	M	Missense	NA
+749	250	C	G	T	R	Missense	Uncertain significance
+750	250	G	A	T	T	Synonymous	Likely benign
+750	250	G	C	T	T	Synonymous	NA
+750	250	G	T	T	T	Synonymous	Likely benign
+751	251	G	A	A	T	Missense	NA
+751	251	G	C	A	P	Missense	NA
+751	251	G	T	A	S	Missense	NA
+752	251	C	A	A	D	Missense	NA
+752	251	C	T	A	V	Missense	NA
+752	251	C	G	A	G	Missense	NA
+753	251	C	A	A	A	Synonymous	Likely benign
+753	251	C	T	A	A	Synonymous	NA
+753	251	C	G	A	A	Synonymous	NA
+754	252	C	A	H	N	Missense	NA
+754	252	C	T	H	Y	Missense	NA
+754	252	C	G	H	D	Missense	NA
+755	252	A	C	H	P	Missense	NA
+755	252	A	T	H	L	Missense	Uncertain significance
+755	252	A	G	H	R	Missense	NA
+756	252	C	A	H	Q	Missense	NA
+756	252	C	T	H	H	Synonymous	NA
+756	252	C	G	H	Q	Missense	NA
+757	253	G	A	A	T	Missense	NA
+757	253	G	C	A	P	Missense	NA
+757	253	G	T	A	S	Missense	Uncertain significance
+758	253	C	A	A	E	Missense	NA
+758	253	C	T	A	V	Missense	NA
+758	253	C	G	A	G	Missense	NA
+759	253	G	A	A	A	Synonymous	NA
+759	253	G	C	A	A	Synonymous	NA
+759	253	G	T	A	A	Synonymous	Likely benign
+760	254	C	A	R	S	Missense	NA
+760	254	C	T	R	C	Missense	Uncertain significance
+760	254	C	G	R	G	Missense	NA
+761	254	G	A	R	H	Missense	Uncertain significance
+761	254	G	C	R	P	Missense	NA
+761	254	G	T	R	L	Missense	NA
+762	254	C	A	R	R	Synonymous	NA
+762	254	C	T	R	R	Synonymous	NA
+762	254	C	G	R	R	Synonymous	NA
+763	255	T	A	W	R	Missense	Uncertain significance
+763	255	T	C	W	R	Missense	NA
+763	255	T	G	W	G	Missense	NA
+764	255	G	A	W	*	Nonsense	Pathogenic
+764	255	G	C	W	S	Missense	NA
+764	255	G	T	W	L	Missense	NA
+765	255	G	A	W	*	Nonsense	NA
+765	255	G	C	W	C	Missense	NA
+765	255	G	T	W	C	Missense	NA
+766	256	A	C	K	Q	Missense	NA
+766	256	A	T	K	*	Nonsense	NA
+766	256	A	G	K	E	Missense	NA
+767	256	A	C	K	T	Missense	NA
+767	256	A	T	K	M	Missense	NA
+767	256	A	G	K	R	Missense	NA
+768	256	G	A	K	K	Synonymous	NA
+768	256	G	C	K	N	Missense	NA
+768	256	G	T	K	N	Missense	NA
+769	257	G	A	A	T	Missense	NA
+769	257	G	C	A	P	Missense	NA
+769	257	G	T	A	S	Missense	NA
+770	257	C	A	A	D	Missense	NA
+770	257	C	T	A	V	Missense	NA
+770	257	C	G	A	G	Missense	NA
+771	257	T	A	A	A	Synonymous	NA
+771	257	T	C	A	A	Synonymous	Likely benign
+771	257	T	G	A	A	Synonymous	NA
+772	258	G	A	E	K	Missense	NA
+772	258	G	C	E	Q	Missense	NA
+772	258	G	T	E	*	Nonsense	NA
+773	258	A	C	E	A	Missense	NA
+773	258	A	T	E	V	Missense	NA
+773	258	A	G	E	G	Missense	NA
+774	258	G	A	E	E	Synonymous	Likely benign
+774	258	G	C	E	D	Missense	NA
+774	258	G	T	E	D	Missense	NA
+775	259	C	A	R	S	Missense	NA
+775	259	C	T	R	C	Missense	Uncertain significance
+775	259	C	G	R	G	Missense	NA
+776	259	G	A	R	H	Missense	NA
+776	259	G	C	R	P	Missense	NA
+776	259	G	T	R	L	Missense	NA
+777	259	C	A	R	R	Synonymous	NA
+777	259	C	T	R	R	Synonymous	Likely benign
+777	259	C	G	R	R	Synonymous	NA
+778	260	G	A	E	K	Missense	NA
+778	260	G	C	E	Q	Missense	NA
+778	260	G	T	E	*	Nonsense	Pathogenic/Likely pathogenic
+779	260	A	C	E	A	Missense	Uncertain significance
+779	260	A	T	E	V	Missense	NA
+779	260	A	G	E	G	Missense	NA
+780	260	G	A	E	E	Synonymous	Likely benign
+780	260	G	C	E	D	Missense	Uncertain significance
+780	260	G	T	E	D	Missense	NA
+781	261	G	A	G	R	Missense	Uncertain significance
+781	261	G	C	G	R	Missense	Uncertain significance
+781	261	G	T	G	*	Nonsense	NA
+782	261	G	A	G	E	Missense	NA
+782	261	G	C	G	A	Missense	NA
+782	261	G	T	G	V	Missense	NA
+783	261	A	C	G	G	Synonymous	NA
+783	261	A	T	G	G	Synonymous	NA
+783	261	A	G	G	G	Synonymous	NA
+784	262	C	A	R	S	Missense	NA
+784	262	C	T	R	C	Missense	NA
+784	262	C	G	R	G	Missense	NA
+785	262	G	A	R	H	Missense	NA
+785	262	G	C	R	P	Missense	NA
+785	262	G	T	R	L	Missense	NA
+786	262	C	A	R	R	Synonymous	NA
+786	262	C	T	R	R	Synonymous	Likely benign
+786	262	C	G	R	R	Synonymous	NA
+787	263	G	A	A	T	Missense	NA
+787	263	G	C	A	P	Missense	NA
+787	263	G	T	A	S	Missense	NA
+788	263	C	A	A	D	Missense	NA
+788	263	C	T	A	V	Missense	Uncertain significance
+788	263	C	G	A	G	Missense	NA
+789	263	T	A	A	A	Synonymous	NA
+789	263	T	C	A	A	Synonymous	NA
+789	263	T	G	A	A	Synonymous	NA
+790	264	C	A	R	R	Synonymous	NA
+790	264	C	T	R	W	Missense	NA
+790	264	C	G	R	G	Missense	Uncertain significance
+791	264	G	A	R	Q	Missense	NA
+791	264	G	C	R	P	Missense	Uncertain significance
+791	264	G	T	R	L	Missense	NA
+792	264	G	A	R	R	Synonymous	NA
+792	264	G	C	R	R	Synonymous	NA
+792	264	G	T	R	R	Synonymous	NA
+793	265	C	A	R	R	Synonymous	NA
+793	265	C	T	R	W	Missense	NA
+793	265	C	G	R	G	Missense	NA
+794	265	G	A	R	Q	Missense	Uncertain significance
+794	265	G	C	R	P	Missense	NA
+794	265	G	T	R	L	Missense	Uncertain significance
+795	265	G	A	R	R	Synonymous	Likely benign
+795	265	G	C	R	R	Synonymous	Likely benign
+795	265	G	T	R	R	Synonymous	NA
+796	266	G	A	A	T	Missense	NA
+796	266	G	C	A	P	Missense	NA
+796	266	G	T	A	S	Missense	NA
+797	266	C	A	A	E	Missense	NA
+797	266	C	T	A	V	Missense	Uncertain significance
+797	266	C	G	A	G	Missense	NA
+798	266	G	A	A	A	Synonymous	Uncertain significance
+798	266	G	C	A	A	Synonymous	NA
+798	266	G	T	A	A	Synonymous	NA
+799	267	G	A	A	T	Missense	NA
+799	267	G	C	A	P	Missense	NA
+799	267	G	T	A	S	Missense	NA
+800	267	C	A	A	E	Missense	NA
+800	267	C	T	A	V	Missense	NA
+800	267	C	G	A	G	Missense	NA
+801	267	G	A	A	A	Synonymous	Likely benign
+801	267	G	C	A	A	Synonymous	NA
+801	267	G	T	A	A	Synonymous	NA
+802	268	C	A	L	M	Missense	NA
+802	268	C	T	L	L	Synonymous	NA
+802	268	C	G	L	V	Missense	NA
+803	268	T	A	L	Q	Missense	NA
+803	268	T	C	L	P	Missense	NA
+803	268	T	G	L	R	Missense	Uncertain significance
+804	268	G	A	L	L	Synonymous	NA
+804	268	G	C	L	L	Synonymous	NA
+804	268	G	T	L	L	Synonymous	NA
+805	269	C	A	L	I	Missense	NA
+805	269	C	T	L	F	Missense	Uncertain significance
+805	269	C	G	L	V	Missense	NA
+806	269	T	A	L	H	Missense	NA
+806	269	T	C	L	P	Missense	NA
+806	269	T	G	L	R	Missense	NA
+807	269	C	A	L	L	Synonymous	NA
+807	269	C	T	L	L	Synonymous	Likely benign
+807	269	C	G	L	L	Synonymous	Likely benign
+808	270	C	A	R	S	Missense	NA
+808	270	C	T	R	C	Missense	NA
+808	270	C	G	R	G	Missense	NA
+809	270	G	A	R	H	Missense	Uncertain significance
+809	270	G	C	R	P	Missense	NA
+809	270	G	T	R	L	Missense	NA
+810	270	C	A	R	R	Synonymous	Likely benign
+810	270	C	T	R	R	Synonymous	NA
+810	270	C	G	R	R	Synonymous	NA
+811	271	G	A	A	T	Missense	Uncertain significance
+811	271	G	C	A	P	Missense	NA
+811	271	G	T	A	S	Missense	NA
+812	271	C	A	A	E	Missense	NA
+812	271	C	T	A	V	Missense	NA
+812	271	C	G	A	G	Missense	NA
+813	271	G	A	A	A	Synonymous	Likely benign
+813	271	G	C	A	A	Synonymous	NA
+813	271	G	T	A	A	Synonymous	Likely benign
+814	272	C	A	L	M	Missense	NA
+814	272	C	T	L	L	Synonymous	NA
+814	272	C	G	L	V	Missense	NA
+815	272	T	A	L	Q	Missense	NA
+815	272	T	C	L	P	Missense	NA
+815	272	T	G	L	R	Missense	NA
+816	272	G	A	L	L	Synonymous	NA
+816	272	G	C	L	L	Synonymous	NA
+816	272	G	T	L	L	Synonymous	NA
+817	273	G	A	G	S	Missense	NA
+817	273	G	C	G	R	Missense	NA
+817	273	G	T	G	C	Missense	NA
+818	273	G	A	G	D	Missense	NA
+818	273	G	C	G	A	Missense	NA
+818	273	G	T	G	V	Missense	NA
+819	273	C	A	G	G	Synonymous	NA
+819	273	C	T	G	G	Synonymous	Likely benign
+819	273	C	G	G	G	Synonymous	NA
+820	274	A	C	I	L	Missense	NA
+820	274	A	T	I	F	Missense	Uncertain significance
+820	274	A	G	I	V	Missense	NA
+821	274	T	A	I	N	Missense	NA
+821	274	T	C	I	T	Missense	NA
+821	274	T	G	I	S	Missense	NA
+822	274	C	A	I	I	Synonymous	NA
+822	274	C	T	I	I	Synonymous	NA
+822	274	C	G	I	M	Missense	Conflicting interpretations of pathogenicity
+823	275	C	A	R	S	Missense	NA
+823	275	C	T	R	C	Missense	Conflicting interpretations of pathogenicity
+823	275	C	G	R	G	Missense	NA
+824	275	G	A	R	H	Missense	NA
+824	275	G	C	R	P	Missense	NA
+824	275	G	T	R	L	Missense	NA
+825	275	C	A	R	R	Synonymous	NA
+825	275	C	T	R	R	Synonymous	Likely benign
+825	275	C	G	R	R	Synonymous	NA
+826	276	C	A	L	I	Missense	Pathogenic/Likely pathogenic
+826	276	C	T	L	L	Synonymous	Likely benign
+826	276	C	G	L	V	Missense	NA
+827	276	T	A	L	Q	Missense	NA
+827	276	T	C	L	P	Missense	NA
+827	276	T	G	L	R	Missense	NA
+828	276	A	C	L	L	Synonymous	NA
+828	276	A	T	L	L	Synonymous	NA
+828	276	A	G	L	L	Synonymous	Likely benign
+829	277	G	A	V	M	Missense	NA
+829	277	G	C	V	L	Missense	Uncertain significance
+829	277	G	T	V	L	Missense	NA
+830	277	T	A	V	E	Missense	NA
+830	277	T	C	V	A	Missense	NA
+830	277	T	G	V	G	Missense	NA
+831	277	G	A	V	V	Synonymous	NA
+831	277	G	C	V	V	Synonymous	NA
+831	277	G	T	V	V	Synonymous	NA
+832	278	A	C	S	R	Missense	NA
+832	278	A	T	S	C	Missense	NA
+832	278	A	G	S	G	Missense	Uncertain significance
+833	278	G	A	S	N	Missense	NA
+833	278	G	C	S	T	Missense	NA
+833	278	G	T	S	I	Missense	NA
+834	278	C	A	S	R	Missense	NA
+834	278	C	T	S	S	Synonymous	Likely benign
+834	278	C	G	S	R	Missense	NA
+835	279	T	A	W	R	Missense	NA
+835	279	T	C	W	R	Missense	Uncertain significance
+835	279	T	G	W	G	Missense	NA
+836	279	G	A	W	*	Nonsense	NA
+836	279	G	C	W	S	Missense	Uncertain significance
+836	279	G	T	W	L	Missense	NA
+837	279	G	A	W	*	Nonsense	NA
+837	279	G	C	W	C	Missense	NA
+837	279	G	T	W	C	Missense	NA
+838	280	G	A	E	K	Missense	Uncertain significance
+838	280	G	C	E	Q	Missense	NA
+838	280	G	T	E	*	Nonsense	NA
+839	280	A	C	E	A	Missense	NA
+839	280	A	T	E	V	Missense	NA
+839	280	A	G	E	G	Missense	NA
+840	280	A	C	E	D	Missense	NA
+840	280	A	T	E	D	Missense	NA
+840	280	A	G	E	E	Synonymous	NA
+841	281	G	A	G	S	Missense	NA
+841	281	G	C	G	R	Missense	NA
+841	281	G	T	G	C	Missense	NA
+842	281	G	A	G	D	Missense	NA
+842	281	G	C	G	A	Missense	NA
+842	281	G	T	G	V	Missense	NA
+843	281	C	A	G	G	Synonymous	NA
+843	281	C	T	G	G	Synonymous	NA
+843	281	C	G	G	G	Synonymous	NA
+844	282	G	A	G	R	Missense	Uncertain significance
+844	282	G	C	G	R	Missense	NA
+844	282	G	T	G	W	Missense	NA
+845	282	G	A	G	E	Missense	NA
+845	282	G	C	G	A	Missense	Uncertain significance
+845	282	G	T	G	V	Missense	NA
+846	282	G	A	G	G	Synonymous	NA
+846	282	G	C	G	G	Synonymous	Likely benign
+846	282	G	T	G	G	Synonymous	NA
+847	283	C	A	R	R	Synonymous	Likely benign
+847	283	C	T	R	W	Missense	NA
+847	283	C	G	R	G	Missense	NA
+848	283	G	A	R	Q	Missense	NA
+848	283	G	C	R	P	Missense	Uncertain significance
+848	283	G	T	R	L	Missense	NA
+849	283	G	A	R	R	Synonymous	Likely benign
+849	283	G	C	R	R	Synonymous	NA
+849	283	G	T	R	R	Synonymous	NA
+850	284	C	A	L	M	Missense	NA
+850	284	C	T	L	L	Synonymous	NA
+850	284	C	G	L	V	Missense	NA
+851	284	T	A	L	Q	Missense	NA
+851	284	T	C	L	P	Missense	Uncertain significance
+851	284	T	G	L	R	Missense	NA
+852	284	G	A	L	L	Synonymous	NA
+852	284	G	C	L	L	Synonymous	NA
+852	284	G	T	L	L	Synonymous	NA
+853	285	G	A	E	K	Missense	NA
+853	285	G	C	E	Q	Missense	NA
+853	285	G	T	E	*	Nonsense	NA
+854	285	A	C	E	A	Missense	Uncertain significance
+854	285	A	T	E	V	Missense	NA
+854	285	A	G	E	G	Missense	NA
+855	285	G	A	E	E	Synonymous	NA
+855	285	G	C	E	D	Missense	NA
+855	285	G	T	E	D	Missense	NA
+856	286	T	A	W	R	Missense	NA
+856	286	T	C	W	R	Missense	NA
+856	286	T	G	W	G	Missense	NA
+857	286	G	A	W	*	Nonsense	NA
+857	286	G	C	W	S	Missense	NA
+857	286	G	T	W	L	Missense	NA
+858	286	G	A	W	*	Nonsense	NA
+858	286	G	C	W	C	Missense	NA
+858	286	G	T	W	C	Missense	NA
+859	287	T	A	F	I	Missense	NA
+859	287	T	C	F	L	Missense	Uncertain significance
+859	287	T	G	F	V	Missense	NA
+860	287	T	A	F	Y	Missense	NA
+860	287	T	C	F	S	Missense	NA
+860	287	T	G	F	C	Missense	NA
+861	287	C	A	F	L	Missense	NA
+861	287	C	T	F	F	Synonymous	Likely benign
+861	287	C	G	F	L	Missense	NA
+862	288	G	A	G	S	Missense	NA
+862	288	G	C	G	R	Missense	NA
+862	288	G	T	G	C	Missense	NA
+863	288	G	A	G	D	Missense	NA
+863	288	G	C	G	A	Missense	NA
+863	288	G	T	G	V	Missense	Uncertain significance
+864	288	C	A	G	G	Synonymous	NA
+864	288	C	T	G	G	Synonymous	NA
+864	288	C	G	G	G	Synonymous	NA
+865	289	T	A	C	S	Missense	NA
+865	289	T	C	C	R	Missense	NA
+865	289	T	G	C	G	Missense	NA
+866	289	G	A	C	Y	Missense	NA
+866	289	G	C	C	S	Missense	NA
+866	289	G	T	C	F	Missense	NA
+867	289	C	A	C	*	Nonsense	NA
+867	289	C	T	C	C	Synonymous	NA
+867	289	C	G	C	W	Missense	NA
+868	290	A	C	N	H	Missense	NA
+868	290	A	T	N	Y	Missense	NA
+868	290	A	G	N	D	Missense	NA
+869	290	A	C	N	T	Missense	NA
+869	290	A	T	N	I	Missense	NA
+869	290	A	G	N	S	Missense	NA
+870	290	C	A	N	K	Missense	NA
+870	290	C	T	N	N	Synonymous	Likely benign
+870	290	C	G	N	K	Missense	NA
+871	291	A	C	K	Q	Missense	NA
+871	291	A	T	K	*	Nonsense	NA
+871	291	A	G	K	E	Missense	NA
+872	291	A	C	K	T	Missense	NA
+872	291	A	T	K	M	Missense	NA
+872	291	A	G	K	R	Missense	NA
+873	291	G	A	K	K	Synonymous	NA
+873	291	G	C	K	N	Missense	NA
+873	291	G	T	K	N	Missense	NA
+874	292	G	A	E	K	Missense	NA
+874	292	G	C	E	Q	Missense	NA
+874	292	G	T	E	*	Nonsense	NA
+875	292	A	C	E	A	Missense	NA
+875	292	A	T	E	V	Missense	NA
+875	292	A	G	E	G	Missense	NA
+876	292	G	A	E	E	Synonymous	NA
+876	292	G	C	E	D	Missense	NA
+876	292	G	T	E	D	Missense	NA
+877	293	A	C	T	P	Missense	NA
+877	293	A	T	T	S	Missense	NA
+877	293	A	G	T	A	Missense	Uncertain significance
+878	293	C	A	T	N	Missense	NA
+878	293	C	T	T	I	Missense	NA
+878	293	C	G	T	S	Missense	NA
+879	293	C	A	T	T	Synonymous	NA
+879	293	C	T	T	T	Synonymous	Likely benign
+879	293	C	G	T	T	Synonymous	NA
+880	294	A	C	T	P	Missense	NA
+880	294	A	T	T	S	Missense	NA
+880	294	A	G	T	A	Missense	NA
+881	294	C	A	T	K	Missense	Uncertain significance
+881	294	C	T	T	M	Missense	NA
+881	294	C	G	T	R	Missense	NA
+882	294	G	A	T	T	Synonymous	Likely benign
+882	294	G	C	T	T	Synonymous	Likely benign
+882	294	G	T	T	T	Synonymous	NA
+883	295	C	A	R	S	Missense	NA
+883	295	C	T	R	C	Missense	NA
+883	295	C	G	R	G	Missense	Likely pathogenic
+884	295	G	A	R	H	Missense	NA
+884	295	G	C	R	P	Missense	NA
+884	295	G	T	R	L	Missense	NA
+885	295	C	A	R	R	Synonymous	NA
+885	295	C	T	R	R	Synonymous	Conflicting interpretations of pathogenicity
+885	295	C	G	R	R	Synonymous	Likely benign
+886	296	T	A	C	S	Missense	NA
+886	296	T	C	C	R	Missense	NA
+886	296	T	G	C	G	Missense	NA
+887	296	G	A	C	Y	Missense	NA
+887	296	G	C	C	S	Missense	NA
+887	296	G	T	C	F	Missense	NA
+888	296	C	A	C	*	Nonsense	NA
+888	296	C	T	C	C	Synonymous	Likely benign
+888	296	C	G	C	W	Missense	NA
+889	297	T	A	F	I	Missense	NA
+889	297	T	C	F	L	Missense	NA
+889	297	T	G	F	V	Missense	NA
+890	297	T	A	F	Y	Missense	NA
+890	297	T	C	F	S	Missense	NA
+890	297	T	G	F	C	Missense	Uncertain significance
+891	297	C	A	F	L	Missense	NA
+891	297	C	T	F	F	Synonymous	Likely benign
+891	297	C	G	F	L	Missense	Uncertain significance
+892	298	G	A	G	R	Missense	Uncertain significance
+892	298	G	C	G	R	Missense	Uncertain significance
+892	298	G	T	G	*	Nonsense	Pathogenic
+893	298	G	A	G	E	Missense	NA
+893	298	G	C	G	A	Missense	Uncertain significance
+893	298	G	T	G	V	Missense	NA
+894	298	A	C	G	G	Synonymous	NA
+894	298	A	T	G	G	Synonymous	NA
+894	298	A	G	G	G	Synonymous	NA
+895	299	A	C	T	P	Missense	NA
+895	299	A	T	T	S	Missense	NA
+895	299	A	G	T	A	Missense	NA
+896	299	C	A	T	N	Missense	NA
+896	299	C	T	T	I	Missense	NA
+896	299	C	G	T	S	Missense	NA
+897	299	C	A	T	T	Synonymous	NA
+897	299	C	T	T	T	Synonymous	Likely benign
+897	299	C	G	T	T	Synonymous	NA
+898	300	G	A	V	M	Missense	Conflicting interpretations of pathogenicity
+898	300	G	C	V	L	Missense	NA
+898	300	G	T	V	L	Missense	NA
+899	300	T	A	V	E	Missense	NA
+899	300	T	C	V	A	Missense	Pathogenic/Likely pathogenic
+899	300	T	G	V	G	Missense	NA
+900	300	G	A	V	V	Synonymous	NA
+900	300	G	C	V	V	Synonymous	NA
+900	300	G	T	V	V	Synonymous	Likely benign
+901	301	G	A	V	M	Missense	NA
+901	301	G	C	V	L	Missense	NA
+901	301	G	T	V	L	Missense	NA
+902	301	T	A	V	E	Missense	NA
+902	301	T	C	V	A	Missense	NA
+902	301	T	G	V	G	Missense	NA
+903	301	G	A	V	V	Synonymous	NA
+903	301	G	C	V	V	Synonymous	NA
+903	301	G	T	V	V	Synonymous	NA
+904	302	G	A	G	S	Missense	Conflicting interpretations of pathogenicity
+904	302	G	C	G	R	Missense	NA
+904	302	G	T	G	C	Missense	NA
+905	302	G	A	G	D	Missense	NA
+905	302	G	C	G	A	Missense	NA
+905	302	G	T	G	V	Missense	NA
+906	302	C	A	G	G	Synonymous	NA
+906	302	C	T	G	G	Synonymous	Likely benign
+906	302	C	G	G	G	Synonymous	NA
+907	303	G	A	D	N	Missense	Uncertain significance
+907	303	G	C	D	H	Missense	NA
+907	303	G	T	D	Y	Missense	NA
+908	303	A	C	D	A	Missense	NA
+908	303	A	T	D	V	Missense	NA
+908	303	A	G	D	G	Missense	NA
+909	303	C	A	D	E	Missense	NA
+909	303	C	T	D	D	Synonymous	Likely benign
+909	303	C	G	D	E	Missense	NA
+910	304	A	C	T	P	Missense	NA
+910	304	A	T	T	S	Missense	NA
+910	304	A	G	T	A	Missense	NA
+911	304	C	A	T	K	Missense	NA
+911	304	C	T	T	M	Missense	Uncertain significance
+911	304	C	G	T	R	Missense	NA
+912	304	G	A	T	T	Synonymous	Likely benign
+912	304	G	C	T	T	Synonymous	NA
+912	304	G	T	T	T	Synonymous	NA
+913	305	C	A	P	T	Missense	Uncertain significance
+913	305	C	T	P	S	Missense	NA
+913	305	C	G	P	A	Missense	NA
+914	305	C	A	P	H	Missense	NA
+914	305	C	T	P	L	Missense	NA
+914	305	C	G	P	R	Missense	NA
+915	305	C	A	P	P	Synonymous	Likely benign
+915	305	C	T	P	P	Synonymous	Likely benign
+915	305	C	G	P	P	Synonymous	Likely benign
+916	306	G	A	A	T	Missense	NA
+916	306	G	C	A	P	Missense	NA
+916	306	G	T	A	S	Missense	NA
+917	306	C	A	A	D	Missense	NA
+917	306	C	T	A	V	Missense	NA
+917	306	C	G	A	G	Missense	NA
+918	306	C	A	A	A	Synonymous	NA
+918	306	C	T	A	A	Synonymous	Likely benign
+918	306	C	G	A	A	Synonymous	Likely benign
+919	307	T	A	Y	N	Missense	Pathogenic/Likely pathogenic
+919	307	T	C	Y	H	Missense	NA
+919	307	T	G	Y	D	Missense	NA
+920	307	A	C	Y	S	Missense	NA
+920	307	A	T	Y	F	Missense	NA
+920	307	A	G	Y	C	Missense	Uncertain significance
+921	307	C	A	Y	*	Nonsense	NA
+921	307	C	T	Y	Y	Synonymous	NA
+921	307	C	G	Y	*	Nonsense	NA
+922	308	C	A	L	I	Missense	NA
+922	308	C	T	L	F	Missense	NA
+922	308	C	G	L	V	Missense	NA
+923	308	T	A	L	H	Missense	NA
+923	308	T	C	L	P	Missense	NA
+923	308	T	G	L	R	Missense	NA
+924	308	C	A	L	L	Synonymous	NA
+924	308	C	T	L	L	Synonymous	NA
+924	308	C	G	L	L	Synonymous	NA
+925	309	T	A	Y	N	Missense	NA
+925	309	T	C	Y	H	Missense	NA
+925	309	T	G	Y	D	Missense	NA
+926	309	A	C	Y	S	Missense	NA
+926	309	A	T	Y	F	Missense	NA
+926	309	A	G	Y	C	Missense	Conflicting interpretations of pathogenicity
+927	309	C	A	Y	*	Nonsense	NA
+927	309	C	T	Y	Y	Synonymous	Likely benign
+927	309	C	G	Y	*	Nonsense	NA
+928	310	G	A	E	K	Missense	Uncertain significance
+928	310	G	C	E	Q	Missense	Uncertain significance
+928	310	G	T	E	*	Nonsense	Pathogenic/Likely pathogenic
+929	310	A	C	E	A	Missense	NA
+929	310	A	T	E	V	Missense	NA
+929	310	A	G	E	G	Missense	NA
+930	310	G	A	E	E	Synonymous	NA
+930	310	G	C	E	D	Missense	NA
+930	310	G	T	E	D	Missense	NA
+931	311	G	A	E	K	Missense	Uncertain significance
+931	311	G	C	E	Q	Missense	NA
+931	311	G	T	E	*	Nonsense	Likely pathogenic
+932	311	A	C	E	A	Missense	NA
+932	311	A	T	E	V	Missense	NA
+932	311	A	G	E	G	Missense	NA
+933	311	G	A	E	E	Synonymous	Likely benign
+933	311	G	C	E	D	Missense	Uncertain significance
+933	311	G	T	E	D	Missense	NA
+934	312	C	A	R	S	Missense	NA
+934	312	C	T	R	C	Missense	NA
+934	312	C	G	R	G	Missense	Uncertain significance
+935	312	G	A	R	H	Missense	Uncertain significance
+935	312	G	C	R	P	Missense	Uncertain significance
+935	312	G	T	R	L	Missense	Conflicting interpretations of pathogenicity
+936	312	C	A	R	R	Synonymous	NA
+936	312	C	T	R	R	Synonymous	NA
+936	312	C	G	R	R	Synonymous	Likely benign
+937	313	T	A	W	R	Missense	NA
+937	313	T	C	W	R	Missense	NA
+937	313	T	G	W	G	Missense	NA
+938	313	G	A	W	*	Nonsense	NA
+938	313	G	C	W	S	Missense	NA
+938	313	G	T	W	L	Missense	NA
+939	313	G	A	W	*	Nonsense	Pathogenic
+939	313	G	C	W	C	Missense	NA
+939	313	G	T	W	C	Missense	NA
+940	314	A	C	T	P	Missense	NA
+940	314	A	T	T	S	Missense	NA
+940	314	A	G	T	A	Missense	NA
+941	314	C	A	T	K	Missense	NA
+941	314	C	T	T	M	Missense	Pathogenic
+941	314	C	G	T	R	Missense	NA
+942	314	G	A	T	T	Synonymous	Likely benign
+942	314	G	C	T	T	Synonymous	NA
+942	314	G	T	T	T	Synonymous	NA
+943	315	C	A	P	T	Missense	NA
+943	315	C	T	P	S	Missense	NA
+943	315	C	G	P	A	Missense	Uncertain significance
+944	315	C	A	P	H	Missense	NA
+944	315	C	T	P	L	Missense	NA
+944	315	C	G	P	R	Missense	NA
+945	315	C	A	P	P	Synonymous	NA
+945	315	C	T	P	P	Synonymous	NA
+945	315	C	G	P	P	Synonymous	Likely benign
+946	316	C	A	P	T	Missense	Conflicting interpretations of pathogenicity
+946	316	C	T	P	S	Missense	Conflicting interpretations of pathogenicity
+946	316	C	G	P	A	Missense	Likely pathogenic
+947	316	C	A	P	H	Missense	NA
+947	316	C	T	P	L	Missense	NA
+947	316	C	G	P	R	Missense	Pathogenic/Likely pathogenic
+948	316	C	A	P	P	Synonymous	Likely benign
+948	316	C	T	P	P	Synonymous	Likely benign
+948	316	C	G	P	P	Synonymous	NA
+949	317	T	A	C	S	Missense	NA
+949	317	T	C	C	R	Missense	NA
+949	317	T	G	C	G	Missense	NA
+950	317	G	A	C	Y	Missense	NA
+950	317	G	C	C	S	Missense	NA
+950	317	G	T	C	F	Missense	NA
+951	317	C	A	C	*	Nonsense	NA
+951	317	C	T	C	C	Synonymous	Likely benign
+951	317	C	G	C	W	Missense	NA
+952	318	T	A	C	S	Missense	NA
+952	318	T	C	C	R	Missense	NA
+952	318	T	G	C	G	Missense	NA
+953	318	G	A	C	Y	Missense	Pathogenic
+953	318	G	C	C	S	Missense	NA
+953	318	G	T	C	F	Missense	NA
+954	318	C	A	C	*	Nonsense	NA
+954	318	C	T	C	C	Synonymous	Conflicting interpretations of pathogenicity
+954	318	C	G	C	W	Missense	NA
+955	319	C	A	L	M	Missense	NA
+955	319	C	T	L	L	Synonymous	Likely benign
+955	319	C	G	L	V	Missense	NA
+956	319	T	A	L	Q	Missense	NA
+956	319	T	C	L	P	Missense	NA
+956	319	T	G	L	R	Missense	NA
+957	319	G	A	L	L	Synonymous	NA
+957	319	G	C	L	L	Synonymous	NA
+957	319	G	T	L	L	Synonymous	NA
+958	320	C	A	R	S	Missense	NA
+958	320	C	T	R	C	Missense	Uncertain significance
+958	320	C	G	R	G	Missense	NA
+959	320	G	A	R	H	Missense	Uncertain significance
+959	320	G	C	R	P	Missense	NA
+959	320	G	T	R	L	Missense	NA
+960	320	C	A	R	R	Synonymous	NA
+960	320	C	T	R	R	Synonymous	Likely benign
+960	320	C	G	R	R	Synonymous	NA
+961	321	G	A	A	T	Missense	Uncertain significance
+961	321	G	C	A	P	Missense	NA
+961	321	G	T	A	S	Missense	NA
+962	321	C	A	A	E	Missense	Conflicting interpretations of pathogenicity
+962	321	C	T	A	V	Missense	NA
+962	321	C	G	A	G	Missense	NA
+963	321	G	A	A	A	Synonymous	Likely benign
+963	321	G	C	A	A	Synonymous	Likely benign
+963	321	G	T	A	A	Synonymous	NA
+964	322	C	A	L	M	Missense	NA
+964	322	C	T	L	L	Synonymous	NA
+964	322	C	G	L	V	Missense	Uncertain significance
+965	322	T	A	L	Q	Missense	NA
+965	322	T	C	L	P	Missense	NA
+965	322	T	G	L	R	Missense	NA
+966	322	G	A	L	L	Synonymous	NA
+966	322	G	C	L	L	Synonymous	NA
+966	322	G	T	L	L	Synonymous	NA
+967	323	C	A	R	S	Missense	NA
+967	323	C	T	R	C	Missense	NA
+967	323	C	G	R	G	Missense	NA
+968	323	G	A	R	H	Missense	Conflicting interpretations of pathogenicity
+968	323	G	C	R	P	Missense	NA
+968	323	G	T	R	L	Missense	NA
+969	323	C	A	R	R	Synonymous	Likely benign
+969	323	C	T	R	R	Synonymous	Conflicting interpretations of pathogenicity
+969	323	C	G	R	R	Synonymous	Likely benign
+970	324	G	A	E	K	Missense	NA
+970	324	G	C	E	Q	Missense	Uncertain significance
+970	324	G	T	E	*	Nonsense	Pathogenic/Likely pathogenic
+971	324	A	C	E	A	Missense	NA
+971	324	A	T	E	V	Missense	NA
+971	324	A	G	E	G	Missense	NA
+972	324	G	A	E	E	Synonymous	NA
+972	324	G	C	E	D	Missense	Uncertain significance
+972	324	G	T	E	D	Missense	NA
+973	325	A	C	T	P	Missense	NA
+973	325	A	T	T	S	Missense	NA
+973	325	A	G	T	A	Missense	NA
+974	325	C	A	T	N	Missense	NA
+974	325	C	T	T	I	Missense	NA
+974	325	C	G	T	S	Missense	NA
+975	325	C	A	T	T	Synonymous	NA
+975	325	C	T	T	T	Synonymous	Likely benign
+975	325	C	G	T	T	Synonymous	NA
+976	326	G	A	A	T	Missense	Uncertain significance
+976	326	G	C	A	P	Missense	NA
+976	326	G	T	A	S	Missense	Uncertain significance
+977	326	C	A	A	D	Missense	NA
+977	326	C	T	A	V	Missense	NA
+977	326	C	G	A	G	Missense	NA
+978	326	C	A	A	A	Synonymous	NA
+978	326	C	T	A	A	Synonymous	Likely benign
+978	326	C	G	A	A	Synonymous	NA
+979	327	C	A	R	S	Missense	NA
+979	327	C	T	R	C	Missense	Uncertain significance
+979	327	C	G	R	G	Missense	Uncertain significance
+980	327	G	A	R	H	Missense	Uncertain significance
+980	327	G	C	R	P	Missense	NA
+980	327	G	T	R	L	Missense	NA
+981	327	C	A	R	R	Synonymous	NA
+981	327	C	T	R	R	Synonymous	Likely benign
+981	327	C	G	R	R	Synonymous	NA
+982	328	T	A	Y	N	Missense	NA
+982	328	T	C	Y	H	Missense	NA
+982	328	T	G	Y	D	Missense	NA
+983	328	A	C	Y	S	Missense	NA
+983	328	A	T	Y	F	Missense	NA
+983	328	A	G	Y	C	Missense	NA
+984	328	T	A	Y	*	Nonsense	NA
+984	328	T	C	Y	Y	Synonymous	Likely benign
+984	328	T	G	Y	*	Nonsense	NA
+985	329	G	A	V	M	Missense	Uncertain significance
+985	329	G	C	V	L	Missense	NA
+985	329	G	T	V	L	Missense	NA
+986	329	T	A	V	E	Missense	NA
+986	329	T	C	V	A	Missense	NA
+986	329	T	G	V	G	Missense	NA
+987	329	G	A	V	V	Synonymous	NA
+987	329	G	C	V	V	Synonymous	NA
+987	329	G	T	V	V	Synonymous	Likely benign
+988	330	G	A	V	M	Missense	NA
+988	330	G	C	V	L	Missense	NA
+988	330	G	T	V	L	Missense	NA
+989	330	T	A	V	E	Missense	NA
+989	330	T	C	V	A	Missense	NA
+989	330	T	G	V	G	Missense	NA
+990	330	G	A	V	V	Synonymous	NA
+990	330	G	C	V	V	Synonymous	NA
+990	330	G	T	V	V	Synonymous	NA
+991	331	G	A	G	S	Missense	NA
+991	331	G	C	G	R	Missense	NA
+991	331	G	T	G	C	Missense	NA
+992	331	G	A	G	D	Missense	NA
+992	331	G	C	G	A	Missense	NA
+992	331	G	T	G	V	Missense	NA
+993	331	C	A	G	G	Synonymous	NA
+993	331	C	T	G	G	Synonymous	NA
+993	331	C	G	G	G	Synonymous	NA
+994	332	G	A	V	M	Missense	Uncertain significance
+994	332	G	C	V	L	Missense	NA
+994	332	G	T	V	L	Missense	NA
+995	332	T	A	V	E	Missense	NA
+995	332	T	C	V	A	Missense	NA
+995	332	T	G	V	G	Missense	NA
+996	332	G	A	V	V	Synonymous	NA
+996	332	G	C	V	V	Synonymous	NA
+996	332	G	T	V	V	Synonymous	NA
+997	333	C	A	L	M	Missense	NA
+997	333	C	T	L	L	Synonymous	NA
+997	333	C	G	L	V	Missense	NA
+998	333	T	A	L	Q	Missense	NA
+998	333	T	C	L	P	Missense	NA
+998	333	T	G	L	R	Missense	NA
+999	333	G	A	L	L	Synonymous	NA
+999	333	G	C	L	L	Synonymous	NA
+999	333	G	T	L	L	Synonymous	NA
+1000	334	G	A	E	K	Missense	Uncertain significance
+1000	334	G	C	E	Q	Missense	NA
+1000	334	G	T	E	*	Nonsense	NA
+1001	334	A	C	E	A	Missense	NA
+1001	334	A	T	E	V	Missense	NA
+1001	334	A	G	E	G	Missense	NA
+1002	334	G	A	E	E	Synonymous	NA
+1002	334	G	C	E	D	Missense	NA
+1002	334	G	T	E	D	Missense	NA
+1003	335	G	A	A	T	Missense	Uncertain significance
+1003	335	G	C	A	P	Missense	NA
+1003	335	G	T	A	S	Missense	NA
+1004	335	C	A	A	D	Missense	NA
+1004	335	C	T	A	V	Missense	NA
+1004	335	C	G	A	G	Missense	NA
+1005	335	T	A	A	A	Synonymous	NA
+1005	335	T	C	A	A	Synonymous	NA
+1005	335	T	G	A	A	Synonymous	NA
+1006	336	G	A	A	T	Missense	Uncertain significance
+1006	336	G	C	A	P	Missense	NA
+1006	336	G	T	A	S	Missense	NA
+1007	336	C	A	A	E	Missense	NA
+1007	336	C	T	A	V	Missense	Uncertain significance
+1007	336	C	G	A	G	Missense	NA
+1008	336	G	A	A	A	Synonymous	NA
+1008	336	G	C	A	A	Synonymous	Likely benign
+1008	336	G	T	A	A	Synonymous	Likely benign
+1009	337	G	A	G	S	Missense	NA
+1009	337	G	C	G	R	Missense	NA
+1009	337	G	T	G	C	Missense	NA
+1010	337	G	A	G	D	Missense	NA
+1010	337	G	C	G	A	Missense	NA
+1010	337	G	T	G	V	Missense	NA
+1011	337	C	A	G	G	Synonymous	Likely benign
+1011	337	C	T	G	G	Synonymous	NA
+1011	337	C	G	G	G	Synonymous	NA
+1012	338	G	A	V	M	Missense	NA
+1012	338	G	C	V	L	Missense	Likely pathogenic
+1012	338	G	T	V	L	Missense	Conflicting interpretations of pathogenicity
+1013	338	T	A	V	E	Missense	NA
+1013	338	T	C	V	A	Missense	NA
+1013	338	T	G	V	G	Missense	NA
+1014	338	G	A	V	V	Synonymous	NA
+1014	338	G	C	V	V	Synonymous	Likely benign
+1014	338	G	T	V	V	Synonymous	NA
+1015	339	C	A	R	S	Missense	Uncertain significance
+1015	339	C	T	R	C	Missense	NA
+1015	339	C	G	R	G	Missense	Uncertain significance
+1016	339	G	A	R	H	Missense	Conflicting interpretations of pathogenicity
+1016	339	G	C	R	P	Missense	NA
+1016	339	G	T	R	L	Missense	NA
+1017	339	C	A	R	R	Synonymous	NA
+1017	339	C	T	R	R	Synonymous	NA
+1017	339	C	G	R	R	Synonymous	NA
+1018	340	T	A	Y	N	Missense	NA
+1018	340	T	C	Y	H	Missense	NA
+1018	340	T	G	Y	D	Missense	NA
+1019	340	A	C	Y	S	Missense	NA
+1019	340	A	T	Y	F	Missense	Uncertain significance
+1019	340	A	G	Y	C	Missense	NA
+1020	340	C	A	Y	*	Nonsense	NA
+1020	340	C	T	Y	Y	Synonymous	Benign/Likely benign
+1020	340	C	G	Y	*	Nonsense	NA
+1021	341	T	A	W	R	Missense	NA
+1021	341	T	C	W	R	Missense	NA
+1021	341	T	G	W	G	Missense	NA
+1022	341	G	A	W	*	Nonsense	NA
+1022	341	G	C	W	S	Missense	NA
+1022	341	G	T	W	L	Missense	NA
+1023	341	G	A	W	*	Nonsense	NA
+1023	341	G	C	W	C	Missense	NA
+1023	341	G	T	W	C	Missense	NA
+1024	342	C	A	L	I	Missense	NA
+1024	342	C	T	L	F	Missense	NA
+1024	342	C	G	L	V	Missense	NA
+1025	342	T	A	L	H	Missense	NA
+1025	342	T	C	L	P	Missense	NA
+1025	342	T	G	L	R	Missense	NA
+1026	342	C	A	L	L	Synonymous	Likely benign
+1026	342	C	T	L	L	Synonymous	NA
+1026	342	C	G	L	L	Synonymous	NA
+1027	343	G	A	E	K	Missense	NA
+1027	343	G	C	E	Q	Missense	Conflicting interpretations of pathogenicity
+1027	343	G	T	E	*	Nonsense	Pathogenic/Likely pathogenic
+1028	343	A	C	E	A	Missense	NA
+1028	343	A	T	E	V	Missense	NA
+1028	343	A	G	E	G	Missense	NA
+1029	343	G	A	E	E	Synonymous	Likely benign
+1029	343	G	C	E	D	Missense	NA
+1029	343	G	T	E	D	Missense	NA
+1030	344	G	A	G	S	Missense	NA
+1030	344	G	C	G	R	Missense	NA
+1030	344	G	T	G	C	Missense	NA
+1031	344	G	A	G	D	Missense	NA
+1031	344	G	C	G	A	Missense	NA
+1031	344	G	T	G	V	Missense	NA
+1032	344	C	A	G	G	Synonymous	Likely benign
+1032	344	C	T	G	G	Synonymous	Likely benign
+1032	344	C	G	G	G	Synonymous	NA
+1033	345	G	A	G	S	Missense	NA
+1033	345	G	C	G	R	Missense	NA
+1033	345	G	T	G	C	Missense	NA
+1034	345	G	A	G	D	Missense	NA
+1034	345	G	C	G	A	Missense	Likely pathogenic
+1034	345	G	T	G	V	Missense	NA
+1035	345	C	A	G	G	Synonymous	NA
+1035	345	C	T	G	G	Synonymous	NA
+1035	345	C	G	G	G	Synonymous	NA
+1036	346	T	A	S	T	Missense	NA
+1036	346	T	C	S	P	Missense	Likely pathogenic
+1036	346	T	G	S	A	Missense	NA
+1037	346	C	A	S	*	Nonsense	NA
+1037	346	C	T	S	L	Missense	Uncertain significance
+1037	346	C	G	S	*	Nonsense	NA
+1038	346	A	C	S	S	Synonymous	NA
+1038	346	A	T	S	S	Synonymous	NA
+1038	346	A	G	S	S	Synonymous	Likely benign
+1039	347	C	A	L	M	Missense	NA
+1039	347	C	T	L	L	Synonymous	Likely benign
+1039	347	C	G	L	V	Missense	NA
+1040	347	T	A	L	Q	Missense	Uncertain significance
+1040	347	T	C	L	P	Missense	NA
+1040	347	T	G	L	R	Missense	NA
+1041	347	G	A	L	L	Synonymous	Likely benign
+1041	347	G	C	L	L	Synonymous	NA
+1041	347	G	T	L	L	Synonymous	NA
+1042	348	C	A	L	M	Missense	NA
+1042	348	C	T	L	L	Synonymous	NA
+1042	348	C	G	L	V	Missense	NA
+1043	348	T	A	L	Q	Missense	Uncertain significance
+1043	348	T	C	L	P	Missense	NA
+1043	348	T	G	L	R	Missense	NA
+1044	348	G	A	L	L	Synonymous	NA
+1044	348	G	C	L	L	Synonymous	NA
+1044	348	G	T	L	L	Synonymous	NA
+1045	349	G	A	G	R	Missense	NA
+1045	349	G	C	G	R	Missense	NA
+1045	349	G	T	G	W	Missense	Uncertain significance
+1046	349	G	A	G	E	Missense	NA
+1046	349	G	C	G	A	Missense	NA
+1046	349	G	T	G	V	Missense	NA
+1047	349	G	A	G	G	Synonymous	Likely benign
+1047	349	G	C	G	G	Synonymous	NA
+1047	349	G	T	G	G	Synonymous	NA
+1048	350	G	A	A	T	Missense	NA
+1048	350	G	C	A	P	Missense	NA
+1048	350	G	T	A	S	Missense	NA
+1049	350	C	A	A	D	Missense	NA
+1049	350	C	T	A	V	Missense	NA
+1049	350	C	G	A	G	Missense	NA
+1050	350	C	A	A	A	Synonymous	NA
+1050	350	C	T	A	A	Synonymous	Likely benign
+1050	350	C	G	A	A	Synonymous	NA
+1051	351	G	A	A	T	Missense	Uncertain significance
+1051	351	G	C	A	P	Missense	Uncertain significance
+1051	351	G	T	A	S	Missense	NA
+1052	351	C	A	A	D	Missense	NA
+1052	351	C	T	A	V	Missense	NA
+1052	351	C	G	A	G	Missense	NA
+1053	351	C	A	A	A	Synonymous	NA
+1053	351	C	T	A	A	Synonymous	NA
+1053	351	C	G	A	A	Synonymous	NA
+1054	352	C	A	R	S	Missense	NA
+1054	352	C	T	R	C	Missense	Uncertain significance
+1054	352	C	G	R	G	Missense	NA
+1055	352	G	A	R	H	Missense	NA
+1055	352	G	C	R	P	Missense	Uncertain significance
+1055	352	G	T	R	L	Missense	NA
+1056	352	C	A	R	R	Synonymous	NA
+1056	352	C	T	R	R	Synonymous	Likely benign
+1056	352	C	G	R	R	Synonymous	NA
+1057	353	C	A	H	N	Missense	NA
+1057	353	C	T	H	Y	Missense	Uncertain significance
+1057	353	C	G	H	D	Missense	NA
+1058	353	A	C	H	P	Missense	NA
+1058	353	A	T	H	L	Missense	NA
+1058	353	A	G	H	R	Missense	NA
+1059	353	C	A	H	Q	Missense	Uncertain significance
+1059	353	C	T	H	H	Synonymous	Likely benign
+1059	353	C	G	H	Q	Missense	NA
+1060	354	G	A	G	R	Missense	Uncertain significance
+1060	354	G	C	G	R	Missense	Uncertain significance
+1060	354	G	T	G	W	Missense	NA
+1061	354	G	A	G	E	Missense	Uncertain significance
+1061	354	G	C	G	A	Missense	NA
+1061	354	G	T	G	V	Missense	NA
+1062	354	G	A	G	G	Synonymous	Likely benign
+1062	354	G	C	G	G	Synonymous	NA
+1062	354	G	T	G	G	Synonymous	NA
+1063	355	G	A	D	N	Missense	NA
+1063	355	G	C	D	H	Missense	NA
+1063	355	G	T	D	Y	Missense	NA
+1064	355	A	C	D	A	Missense	NA
+1064	355	A	T	D	V	Missense	NA
+1064	355	A	G	D	G	Missense	NA
+1065	355	C	A	D	E	Missense	NA
+1065	355	C	T	D	D	Synonymous	Likely benign
+1065	355	C	G	D	E	Missense	NA
+1066	356	A	C	I	L	Missense	NA
+1066	356	A	T	I	F	Missense	NA
+1066	356	A	G	I	V	Missense	NA
+1067	356	T	A	I	N	Missense	NA
+1067	356	T	C	I	T	Missense	NA
+1067	356	T	G	I	S	Missense	NA
+1068	356	C	A	I	I	Synonymous	NA
+1068	356	C	T	I	I	Synonymous	NA
+1068	356	C	G	I	M	Missense	NA
+1069	357	A	C	I	L	Missense	NA
+1069	357	A	T	I	F	Missense	NA
+1069	357	A	G	I	V	Missense	NA
+1070	357	T	A	I	N	Missense	NA
+1070	357	T	C	I	T	Missense	NA
+1070	357	T	G	I	S	Missense	NA
+1071	357	C	A	I	I	Synonymous	NA
+1071	357	C	T	I	I	Synonymous	NA
+1071	357	C	G	I	M	Missense	NA
+1072	358	C	A	P	T	Missense	NA
+1072	358	C	T	P	S	Missense	NA
+1072	358	C	G	P	A	Missense	NA
+1073	358	C	A	P	Q	Missense	NA
+1073	358	C	T	P	L	Missense	Conflicting interpretations of pathogenicity
+1073	358	C	G	P	R	Missense	NA
+1074	358	A	C	P	P	Synonymous	NA
+1074	358	A	T	P	P	Synonymous	NA
+1074	358	A	G	P	P	Synonymous	NA
+1075	359	T	A	W	R	Missense	NA
+1075	359	T	C	W	R	Missense	Uncertain significance
+1075	359	T	G	W	G	Missense	NA
+1076	359	G	A	W	*	Nonsense	NA
+1076	359	G	C	W	S	Missense	NA
+1076	359	G	T	W	L	Missense	NA
+1077	359	G	A	W	*	Nonsense	NA
+1077	359	G	C	W	C	Missense	NA
+1077	359	G	T	W	C	Missense	NA
+1078	360	G	A	D	N	Missense	NA
+1078	360	G	C	D	H	Missense	Uncertain significance
+1078	360	G	T	D	Y	Missense	NA
+1079	360	A	C	D	A	Missense	NA
+1079	360	A	T	D	V	Missense	NA
+1079	360	A	G	D	G	Missense	NA
+1080	360	C	A	D	E	Missense	NA
+1080	360	C	T	D	D	Synonymous	NA
+1080	360	C	G	D	E	Missense	NA
+1081	361	T	A	Y	N	Missense	NA
+1081	361	T	C	Y	H	Missense	NA
+1081	361	T	G	Y	D	Missense	NA
+1082	361	A	C	Y	S	Missense	Uncertain significance
+1082	361	A	T	Y	F	Missense	NA
+1082	361	A	G	Y	C	Missense	NA
+1083	361	C	A	Y	*	Nonsense	Pathogenic
+1083	361	C	T	Y	Y	Synonymous	Likely benign
+1083	361	C	G	Y	*	Nonsense	Pathogenic/Likely pathogenic
+1084	362	G	A	D	N	Missense	NA
+1084	362	G	C	D	H	Missense	NA
+1084	362	G	T	D	Y	Missense	NA
+1085	362	A	C	D	A	Missense	NA
+1085	362	A	T	D	V	Missense	NA
+1085	362	A	G	D	G	Missense	NA
+1086	362	C	A	D	E	Missense	Uncertain significance
+1086	362	C	T	D	D	Synonymous	Likely benign
+1086	362	C	G	D	E	Missense	NA
+1087	363	G	A	V	M	Missense	NA
+1087	363	G	C	V	L	Missense	NA
+1087	363	G	T	V	L	Missense	Uncertain significance
+1088	363	T	A	V	E	Missense	NA
+1088	363	T	C	V	A	Missense	Uncertain significance
+1088	363	T	G	V	G	Missense	NA
+1089	363	G	A	V	V	Synonymous	NA
+1089	363	G	C	V	V	Synonymous	NA
+1089	363	G	T	V	V	Synonymous	NA
+1090	364	G	A	D	N	Missense	NA
+1090	364	G	C	D	H	Missense	NA
+1090	364	G	T	D	Y	Missense	NA
+1091	364	A	C	D	A	Missense	NA
+1091	364	A	T	D	V	Missense	NA
+1091	364	A	G	D	G	Missense	NA
+1092	364	C	A	D	E	Missense	NA
+1092	364	C	T	D	D	Synonymous	NA
+1092	364	C	G	D	E	Missense	NA
+1093	365	C	A	L	M	Missense	NA
+1093	365	C	T	L	L	Synonymous	NA
+1093	365	C	G	L	V	Missense	NA
+1094	365	T	A	L	Q	Missense	NA
+1094	365	T	C	L	P	Missense	NA
+1094	365	T	G	L	R	Missense	NA
+1095	365	G	A	L	L	Synonymous	NA
+1095	365	G	C	L	L	Synonymous	NA
+1095	365	G	T	L	L	Synonymous	NA
+1096	366	G	A	G	S	Missense	NA
+1096	366	G	C	G	R	Missense	NA
+1096	366	G	T	G	C	Missense	NA
+1097	366	G	A	G	D	Missense	NA
+1097	366	G	C	G	A	Missense	NA
+1097	366	G	T	G	V	Missense	NA
+1098	366	C	A	G	G	Synonymous	NA
+1098	366	C	T	G	G	Synonymous	Likely benign
+1098	366	C	G	G	G	Synonymous	NA
+1099	367	A	C	I	L	Missense	NA
+1099	367	A	T	I	F	Missense	NA
+1099	367	A	G	I	V	Missense	NA
+1100	367	T	A	I	N	Missense	Pathogenic
+1100	367	T	C	I	T	Missense	Pathogenic
+1100	367	T	G	I	S	Missense	NA
+1101	367	C	A	I	I	Synonymous	NA
+1101	367	C	T	I	I	Synonymous	Likely benign
+1101	367	C	G	I	M	Missense	NA
+1102	368	T	A	Y	N	Missense	NA
+1102	368	T	C	Y	H	Missense	NA
+1102	368	T	G	Y	D	Missense	NA
+1103	368	A	C	Y	S	Missense	NA
+1103	368	A	T	Y	F	Missense	NA
+1103	368	A	G	Y	C	Missense	NA
+1104	368	C	A	Y	*	Nonsense	NA
+1104	368	C	T	Y	Y	Synonymous	NA
+1104	368	C	G	Y	*	Nonsense	NA
+1105	369	T	A	L	M	Missense	NA
+1105	369	T	C	L	L	Synonymous	NA
+1105	369	T	G	L	V	Missense	NA
+1106	369	T	A	L	*	Nonsense	NA
+1106	369	T	C	L	S	Missense	NA
+1106	369	T	G	L	W	Missense	NA
+1107	369	G	A	L	L	Synonymous	NA
+1107	369	G	C	L	F	Missense	NA
+1107	369	G	T	L	F	Missense	NA
+1108	370	G	A	E	K	Missense	NA
+1108	370	G	C	E	Q	Missense	NA
+1108	370	G	T	E	*	Nonsense	NA
+1109	370	A	C	E	A	Missense	NA
+1109	370	A	T	E	V	Missense	NA
+1109	370	A	G	E	G	Missense	NA
+1110	370	G	A	E	E	Synonymous	NA
+1110	370	G	C	E	D	Missense	NA
+1110	370	G	T	E	D	Missense	NA
+1111	371	G	A	D	N	Missense	NA
+1111	371	G	C	D	H	Missense	NA
+1111	371	G	T	D	Y	Missense	NA
+1112	371	A	C	D	A	Missense	NA
+1112	371	A	T	D	V	Missense	NA
+1112	371	A	G	D	G	Missense	NA
+1113	371	C	A	D	E	Missense	Uncertain significance
+1113	371	C	T	D	D	Synonymous	NA
+1113	371	C	G	D	E	Missense	NA
+1114	372	G	A	V	M	Missense	NA
+1114	372	G	C	V	L	Missense	NA
+1114	372	G	T	V	L	Missense	NA
+1115	372	T	A	V	E	Missense	NA
+1115	372	T	C	V	A	Missense	NA
+1115	372	T	G	V	G	Missense	Uncertain significance
+1116	372	G	A	V	V	Synonymous	NA
+1116	372	G	C	V	V	Synonymous	NA
+1116	372	G	T	V	V	Synonymous	NA
+1117	373	G	A	G	S	Missense	Uncertain significance
+1117	373	G	C	G	R	Missense	NA
+1117	373	G	T	G	C	Missense	NA
+1118	373	G	A	G	D	Missense	Uncertain significance
+1118	373	G	C	G	A	Missense	NA
+1118	373	G	T	G	V	Missense	NA
+1119	373	C	A	G	G	Synonymous	Likely benign
+1119	373	C	T	G	G	Synonymous	Likely benign
+1119	373	C	G	G	G	Synonymous	NA
+1120	374	A	C	N	H	Missense	NA
+1120	374	A	T	N	Y	Missense	NA
+1120	374	A	G	N	D	Missense	NA
+1121	374	A	C	N	T	Missense	NA
+1121	374	A	T	N	I	Missense	NA
+1121	374	A	G	N	S	Missense	NA
+1122	374	C	A	N	K	Missense	NA
+1122	374	C	T	N	N	Synonymous	NA
+1122	374	C	G	N	K	Missense	NA
+1123	375	T	A	C	S	Missense	Uncertain significance
+1123	375	T	C	C	R	Missense	NA
+1123	375	T	G	C	G	Missense	NA
+1124	375	G	A	C	Y	Missense	NA
+1124	375	G	C	C	S	Missense	NA
+1124	375	G	T	C	F	Missense	NA
+1125	375	C	A	C	*	Nonsense	NA
+1125	375	C	T	C	C	Synonymous	NA
+1125	375	C	G	C	W	Missense	NA
+1126	376	G	A	E	K	Missense	NA
+1126	376	G	C	E	Q	Missense	NA
+1126	376	G	T	E	*	Nonsense	NA
+1127	376	A	C	E	A	Missense	NA
+1127	376	A	T	E	V	Missense	NA
+1127	376	A	G	E	G	Missense	NA
+1128	376	G	A	E	E	Synonymous	NA
+1128	376	G	C	E	D	Missense	NA
+1128	376	G	T	E	D	Missense	NA
+1129	377	C	A	Q	K	Missense	NA
+1129	377	C	T	Q	*	Nonsense	NA
+1129	377	C	G	Q	E	Missense	NA
+1130	377	A	C	Q	P	Missense	NA
+1130	377	A	T	Q	L	Missense	NA
+1130	377	A	G	Q	R	Missense	Uncertain significance
+1131	377	G	A	Q	Q	Synonymous	Likely benign
+1131	377	G	C	Q	H	Missense	NA
+1131	377	G	T	Q	H	Missense	NA
+1132	378	C	A	L	M	Missense	NA
+1132	378	C	T	L	L	Synonymous	Likely benign
+1132	378	C	G	L	V	Missense	NA
+1133	378	T	A	L	Q	Missense	NA
+1133	378	T	C	L	P	Missense	NA
+1133	378	T	G	L	R	Missense	NA
+1134	378	G	A	L	L	Synonymous	Likely benign
+1134	378	G	C	L	L	Synonymous	NA
+1134	378	G	T	L	L	Synonymous	NA
+1135	379	C	A	R	R	Synonymous	NA
+1135	379	C	T	R	W	Missense	NA
+1135	379	C	G	R	G	Missense	NA
+1136	379	G	A	R	Q	Missense	Uncertain significance
+1136	379	G	C	R	P	Missense	Uncertain significance
+1136	379	G	T	R	L	Missense	NA
+1137	379	G	A	R	R	Synonymous	NA
+1137	379	G	C	R	R	Synonymous	NA
+1137	379	G	T	R	R	Synonymous	Conflicting interpretations of pathogenicity
+1138	380	G	A	G	R	Missense	NA
+1138	380	G	C	G	R	Missense	NA
+1138	380	G	T	G	W	Missense	NA
+1139	380	G	A	G	E	Missense	Uncertain significance
+1139	380	G	C	G	A	Missense	NA
+1139	380	G	T	G	V	Missense	NA
+1140	380	G	A	G	G	Synonymous	Conflicting interpretations of pathogenicity
+1140	380	G	C	G	G	Synonymous	Likely benign
+1140	380	G	T	G	G	Synonymous	Likely benign
+1141	381	G	A	A	T	Missense	Uncertain significance
+1141	381	G	C	A	P	Missense	Uncertain significance
+1141	381	G	T	A	S	Missense	Uncertain significance
+1142	381	C	A	A	E	Missense	NA
+1142	381	C	T	A	V	Missense	Uncertain significance
+1142	381	C	G	A	G	Missense	NA
+1143	381	A	C	A	A	Synonymous	Likely benign
+1143	381	A	T	A	A	Synonymous	NA
+1143	381	A	G	A	A	Synonymous	NA
+1144	382	G	A	E	K	Missense	NA
+1144	382	G	C	E	Q	Missense	NA
+1144	382	G	T	E	*	Nonsense	NA
+1145	382	A	C	E	A	Missense	NA
+1145	382	A	T	E	V	Missense	Uncertain significance
+1145	382	A	G	E	G	Missense	NA
+1146	382	G	A	E	E	Synonymous	Likely benign
+1146	382	G	C	E	D	Missense	NA
+1146	382	G	T	E	D	Missense	NA
+1147	383	G	A	A	T	Missense	NA
+1147	383	G	C	A	P	Missense	NA
+1147	383	G	T	A	S	Missense	NA
+1148	383	C	A	A	D	Missense	NA
+1148	383	C	T	A	V	Missense	NA
+1148	383	C	G	A	G	Missense	NA
+1149	383	C	A	A	A	Synonymous	NA
+1149	383	C	T	A	A	Synonymous	Likely benign
+1149	383	C	G	A	A	Synonymous	NA
+1150	384	G	A	G	S	Missense	NA
+1150	384	G	C	G	R	Missense	NA
+1150	384	G	T	G	C	Missense	NA
+1151	384	G	A	G	D	Missense	NA
+1151	384	G	C	G	A	Missense	Uncertain significance
+1151	384	G	T	G	V	Missense	NA
+1152	384	C	A	G	G	Synonymous	NA
+1152	384	C	T	G	G	Synonymous	NA
+1152	384	C	G	G	G	Synonymous	NA
+1153	385	T	A	S	T	Missense	NA
+1153	385	T	C	S	P	Missense	NA
+1153	385	T	G	S	A	Missense	NA
+1154	385	C	A	S	*	Nonsense	Pathogenic
+1154	385	C	T	S	L	Missense	Conflicting interpretations of pathogenicity
+1154	385	C	G	S	W	Missense	NA
+1155	385	G	A	S	S	Synonymous	Likely benign
+1155	385	G	C	S	S	Synonymous	NA
+1155	385	G	T	S	S	Synonymous	NA
+1156	386	G	A	V	M	Missense	NA
+1156	386	G	C	V	L	Missense	NA
+1156	386	G	T	V	L	Missense	NA
+1157	386	T	A	V	E	Missense	NA
+1157	386	T	C	V	A	Missense	NA
+1157	386	T	G	V	G	Missense	NA
+1158	386	G	A	V	V	Synonymous	NA
+1158	386	G	C	V	V	Synonymous	Likely benign
+1158	386	G	T	V	V	Synonymous	Likely benign
+1159	387	G	A	V	M	Missense	NA
+1159	387	G	C	V	L	Missense	NA
+1159	387	G	T	V	L	Missense	NA
+1160	387	T	A	V	E	Missense	NA
+1160	387	T	C	V	A	Missense	Uncertain significance
+1160	387	T	G	V	G	Missense	NA
+1161	387	G	A	V	V	Synonymous	NA
+1161	387	G	C	V	V	Synonymous	NA
+1161	387	G	T	V	V	Synonymous	NA
+1162	388	G	A	D	N	Missense	NA
+1162	388	G	C	D	H	Missense	NA
+1162	388	G	T	D	Y	Missense	NA
+1163	388	A	C	D	A	Missense	NA
+1163	388	A	T	D	V	Missense	NA
+1163	388	A	G	D	G	Missense	NA
+1164	388	T	A	D	E	Missense	NA
+1164	388	T	C	D	D	Synonymous	Likely benign
+1164	388	T	G	D	E	Missense	NA
+1165	389	G	A	E	K	Missense	NA
+1165	389	G	C	E	Q	Missense	NA
+1165	389	G	T	E	*	Nonsense	NA
+1166	389	A	C	E	A	Missense	NA
+1166	389	A	T	E	V	Missense	NA
+1166	389	A	G	E	G	Missense	NA
+1167	389	G	A	E	E	Synonymous	Likely benign
+1167	389	G	C	E	D	Missense	NA
+1167	389	G	T	E	D	Missense	NA
+1168	390	C	A	R	S	Missense	NA
+1168	390	C	T	R	C	Missense	NA
+1168	390	C	G	R	G	Missense	Uncertain significance
+1169	390	G	A	R	H	Missense	NA
+1169	390	G	C	R	P	Missense	NA
+1169	390	G	T	R	L	Missense	NA
+1170	390	C	A	R	R	Synonymous	NA
+1170	390	C	T	R	R	Synonymous	Likely benign
+1170	390	C	G	R	R	Synonymous	NA
+1171	391	G	A	G	S	Missense	Uncertain significance
+1171	391	G	C	G	R	Missense	Uncertain significance
+1171	391	G	T	G	C	Missense	NA
+1172	391	G	A	G	D	Missense	NA
+1172	391	G	C	G	A	Missense	NA
+1172	391	G	T	G	V	Missense	NA
+1173	391	C	A	G	G	Synonymous	NA
+1173	391	C	T	G	G	Synonymous	Likely benign
+1173	391	C	G	G	G	Synonymous	NA
+1174	392	T	A	F	I	Missense	Uncertain significance
+1174	392	T	C	F	L	Missense	NA
+1174	392	T	G	F	V	Missense	NA
+1175	392	T	A	F	Y	Missense	NA
+1175	392	T	C	F	S	Missense	NA
+1175	392	T	G	F	C	Missense	NA
+1176	392	C	A	F	L	Missense	NA
+1176	392	C	T	F	F	Synonymous	Likely benign
+1176	392	C	G	F	L	Missense	NA
+1177	393	G	A	V	I	Missense	Conflicting interpretations of pathogenicity
+1177	393	G	C	V	L	Missense	Uncertain significance
+1177	393	G	T	V	L	Missense	Uncertain significance
+1178	393	T	A	V	E	Missense	NA
+1178	393	T	C	V	A	Missense	NA
+1178	393	T	G	V	G	Missense	NA
+1179	393	A	C	V	V	Synonymous	NA
+1179	393	A	T	V	V	Synonymous	NA
+1179	393	A	G	V	V	Synonymous	Benign/Likely benign
+1180	394	T	A	W	R	Missense	NA
+1180	394	T	C	W	R	Missense	NA
+1180	394	T	G	W	G	Missense	NA
+1181	394	G	A	W	*	Nonsense	NA
+1181	394	G	C	W	S	Missense	NA
+1181	394	G	T	W	L	Missense	Uncertain significance
+1182	394	G	A	W	*	Nonsense	NA
+1182	394	G	C	W	C	Missense	NA
+1182	394	G	T	W	C	Missense	NA
+1183	395	G	A	E	K	Missense	Uncertain significance
+1183	395	G	C	E	Q	Missense	Uncertain significance
+1183	395	G	T	E	*	Nonsense	NA
+1184	395	A	C	E	A	Missense	NA
+1184	395	A	T	E	V	Missense	NA
+1184	395	A	G	E	G	Missense	NA
+1185	395	G	A	E	E	Synonymous	NA
+1185	395	G	C	E	D	Missense	NA
+1185	395	G	T	E	D	Missense	NA
+1186	396	A	C	K	Q	Missense	NA
+1186	396	A	T	K	*	Nonsense	NA
+1186	396	A	G	K	E	Missense	NA
+1187	396	A	C	K	T	Missense	Uncertain significance
+1187	396	A	T	K	M	Missense	NA
+1187	396	A	G	K	R	Missense	NA
+1188	396	G	A	K	K	Synonymous	NA
+1188	396	G	C	K	N	Missense	NA
+1188	396	G	T	K	N	Missense	NA
+1189	397	G	A	A	T	Missense	NA
+1189	397	G	C	A	P	Missense	NA
+1189	397	G	T	A	S	Missense	NA
+1190	397	C	A	A	E	Missense	NA
+1190	397	C	T	A	V	Missense	Uncertain significance
+1190	397	C	G	A	G	Missense	NA
+1191	397	G	A	A	A	Synonymous	Likely benign
+1191	397	G	C	A	A	Synonymous	Likely benign
+1191	397	G	T	A	A	Synonymous	Likely benign
+1192	398	G	A	V	I	Missense	Uncertain significance
+1192	398	G	C	V	L	Missense	NA
+1192	398	G	T	V	F	Missense	NA
+1193	398	T	A	V	D	Missense	NA
+1193	398	T	C	V	A	Missense	NA
+1193	398	T	G	V	G	Missense	NA
+1194	398	C	A	V	V	Synonymous	NA
+1194	398	C	T	V	V	Synonymous	NA
+1194	398	C	G	V	V	Synonymous	NA
+1195	399	G	A	E	K	Missense	Uncertain significance
+1195	399	G	C	E	Q	Missense	NA
+1195	399	G	T	E	*	Nonsense	NA
+1196	399	A	C	E	A	Missense	NA
+1196	399	A	T	E	V	Missense	NA
+1196	399	A	G	E	G	Missense	NA
+1197	399	G	A	E	E	Synonymous	Likely benign
+1197	399	G	C	E	D	Missense	NA
+1197	399	G	T	E	D	Missense	NA
+1198	400	G	A	G	S	Missense	NA
+1198	400	G	C	G	R	Missense	NA
+1198	400	G	T	G	C	Missense	NA
+1199	400	G	A	G	D	Missense	NA
+1199	400	G	C	G	A	Missense	NA
+1199	400	G	T	G	V	Missense	NA
+1200	400	C	A	G	G	Synonymous	NA
+1200	400	C	T	G	G	Synonymous	NA
+1200	400	C	G	G	G	Synonymous	NA
+1201	401	G	A	D	N	Missense	Uncertain significance
+1201	401	G	C	D	H	Missense	NA
+1201	401	G	T	D	Y	Missense	NA
+1202	401	A	C	D	A	Missense	NA
+1202	401	A	T	D	V	Missense	NA
+1202	401	A	G	D	G	Missense	NA
+1203	401	C	A	D	E	Missense	NA
+1203	401	C	T	D	D	Synonymous	Likely benign
+1203	401	C	G	D	E	Missense	NA
+1204	402	T	A	F	I	Missense	NA
+1204	402	T	C	F	L	Missense	NA
+1204	402	T	G	F	V	Missense	NA
+1205	402	T	A	F	Y	Missense	NA
+1205	402	T	C	F	S	Missense	NA
+1205	402	T	G	F	C	Missense	NA
+1206	402	T	A	F	L	Missense	NA
+1206	402	T	C	F	F	Synonymous	NA
+1206	402	T	G	F	L	Missense	NA
+1207	403	T	A	F	I	Missense	NA
+1207	403	T	C	F	L	Missense	NA
+1207	403	T	G	F	V	Missense	NA
+1208	403	T	A	F	Y	Missense	NA
+1208	403	T	C	F	S	Missense	NA
+1208	403	T	G	F	C	Missense	NA
+1209	403	C	A	F	L	Missense	NA
+1209	403	C	T	F	F	Synonymous	NA
+1209	403	C	G	F	L	Missense	NA
+1210	404	C	A	R	S	Missense	NA
+1210	404	C	T	R	C	Missense	NA
+1210	404	C	G	R	G	Missense	NA
+1211	404	G	A	R	H	Missense	Uncertain significance
+1211	404	G	C	R	P	Missense	NA
+1211	404	G	T	R	L	Missense	NA
+1212	404	C	A	R	R	Synonymous	NA
+1212	404	C	T	R	R	Synonymous	NA
+1212	404	C	G	R	R	Synonymous	NA
+1213	405	G	A	V	M	Missense	NA
+1213	405	G	C	V	L	Missense	NA
+1213	405	G	T	V	L	Missense	Pathogenic
+1214	405	T	A	V	E	Missense	NA
+1214	405	T	C	V	A	Missense	NA
+1214	405	T	G	V	G	Missense	NA
+1215	405	G	A	V	V	Synonymous	NA
+1215	405	G	C	V	V	Synonymous	NA
+1215	405	G	T	V	V	Synonymous	NA
+1216	406	C	A	Q	K	Missense	NA
+1216	406	C	T	Q	*	Nonsense	NA
+1216	406	C	G	Q	E	Missense	NA
+1217	406	A	C	Q	P	Missense	Uncertain significance
+1217	406	A	T	Q	L	Missense	NA
+1217	406	A	G	Q	R	Missense	NA
+1218	406	G	A	Q	Q	Synonymous	Likely benign
+1218	406	G	C	Q	H	Missense	NA
+1218	406	G	T	Q	H	Missense	NA
+1219	407	T	A	Y	N	Missense	NA
+1219	407	T	C	Y	H	Missense	NA
+1219	407	T	G	Y	D	Missense	NA
+1220	407	A	C	Y	S	Missense	NA
+1220	407	A	T	Y	F	Missense	NA
+1220	407	A	G	Y	C	Missense	NA
+1221	407	C	A	Y	*	Nonsense	NA
+1221	407	C	T	Y	Y	Synonymous	NA
+1221	407	C	G	Y	*	Nonsense	Pathogenic
+1222	408	A	C	S	R	Missense	NA
+1222	408	A	T	S	C	Missense	NA
+1222	408	A	G	S	G	Missense	NA
+1223	408	G	A	S	N	Missense	NA
+1223	408	G	C	S	T	Missense	NA
+1223	408	G	T	S	I	Missense	NA
+1224	408	C	A	S	R	Missense	NA
+1224	408	C	T	S	S	Synonymous	Likely benign
+1224	408	C	G	S	R	Missense	NA
+1225	409	G	A	E	K	Missense	NA
+1225	409	G	C	E	Q	Missense	NA
+1225	409	G	T	E	*	Nonsense	NA
+1226	409	A	C	E	A	Missense	NA
+1226	409	A	T	E	V	Missense	NA
+1226	409	A	G	E	G	Missense	NA
+1227	409	A	C	E	D	Missense	NA
+1227	409	A	T	E	D	Missense	NA
+1227	409	A	G	E	E	Synonymous	NA
+1228	410	A	C	S	R	Missense	NA
+1228	410	A	T	S	C	Missense	NA
+1228	410	A	G	S	G	Missense	NA
+1229	410	G	A	S	N	Missense	NA
+1229	410	G	C	S	T	Missense	NA
+1229	410	G	T	S	I	Missense	NA
+1230	410	C	A	S	R	Missense	NA
+1230	410	C	T	S	S	Synonymous	NA
+1230	410	C	G	S	R	Missense	NA
+1231	411	A	C	N	H	Missense	NA
+1231	411	A	T	N	Y	Missense	NA
+1231	411	A	G	N	D	Missense	NA
+1232	411	A	C	N	T	Missense	NA
+1232	411	A	T	N	I	Missense	NA
+1232	411	A	G	N	S	Missense	NA
+1233	411	C	A	N	K	Missense	NA
+1233	411	C	T	N	N	Synonymous	Likely benign
+1233	411	C	G	N	K	Missense	NA
+1234	412	C	A	H	N	Missense	NA
+1234	412	C	T	H	Y	Missense	NA
+1234	412	C	G	H	D	Missense	NA
+1235	412	A	C	H	P	Missense	NA
+1235	412	A	T	H	L	Missense	NA
+1235	412	A	G	H	R	Missense	NA
+1236	412	C	A	H	Q	Missense	NA
+1236	412	C	T	H	H	Synonymous	Conflicting interpretations of pathogenicity
+1236	412	C	G	H	Q	Missense	Uncertain significance
+1237	413	T	A	L	M	Missense	NA
+1237	413	T	C	L	L	Synonymous	NA
+1237	413	T	G	L	V	Missense	NA
+1238	413	T	A	L	*	Nonsense	NA
+1238	413	T	C	L	S	Missense	NA
+1238	413	T	G	L	W	Missense	NA
+1239	413	G	A	L	L	Synonymous	NA
+1239	413	G	C	L	F	Missense	NA
+1239	413	G	T	L	F	Missense	NA
+1240	414	C	A	H	N	Missense	Uncertain significance
+1240	414	C	T	H	Y	Missense	NA
+1240	414	C	G	H	D	Missense	NA
+1241	414	A	C	H	P	Missense	NA
+1241	414	A	T	H	L	Missense	NA
+1241	414	A	G	H	R	Missense	NA
+1242	414	C	A	H	Q	Missense	NA
+1242	414	C	T	H	H	Synonymous	Likely benign
+1242	414	C	G	H	Q	Missense	NA
+1243	415	G	A	V	M	Missense	NA
+1243	415	G	C	V	L	Missense	NA
+1243	415	G	T	V	L	Missense	NA
+1244	415	T	A	V	E	Missense	NA
+1244	415	T	C	V	A	Missense	NA
+1244	415	T	G	V	G	Missense	NA
+1245	415	G	A	V	V	Synonymous	NA
+1245	415	G	C	V	V	Synonymous	NA
+1245	415	G	T	V	V	Synonymous	NA
+1246	416	G	A	D	N	Missense	NA
+1246	416	G	C	D	H	Missense	NA
+1246	416	G	T	D	Y	Missense	NA
+1247	416	A	C	D	A	Missense	NA
+1247	416	A	T	D	V	Missense	NA
+1247	416	A	G	D	G	Missense	NA
+1248	416	C	A	D	E	Missense	NA
+1248	416	C	T	D	D	Synonymous	NA
+1248	416	C	G	D	E	Missense	NA
+1249	417	C	A	L	M	Missense	NA
+1249	417	C	T	L	L	Synonymous	Likely benign
+1249	417	C	G	L	V	Missense	NA
+1250	417	T	A	L	Q	Missense	NA
+1250	417	T	C	L	P	Missense	NA
+1250	417	T	G	L	R	Missense	NA
+1251	417	G	A	L	L	Synonymous	NA
+1251	417	G	C	L	L	Synonymous	NA
+1251	417	G	T	L	L	Synonymous	NA
+1252	418	T	A	W	R	Missense	NA
+1252	418	T	C	W	R	Missense	NA
+1252	418	T	G	W	G	Missense	NA
+1253	418	G	A	W	*	Nonsense	Pathogenic
+1253	418	G	C	W	S	Missense	NA
+1253	418	G	T	W	L	Missense	NA
+1254	418	G	A	W	*	Nonsense	NA
+1254	418	G	C	W	C	Missense	NA
+1254	418	G	T	W	C	Missense	NA
+1255	419	C	A	P	T	Missense	NA
+1255	419	C	T	P	S	Missense	NA
+1255	419	C	G	P	A	Missense	NA
+1256	419	C	A	P	H	Missense	NA
+1256	419	C	T	P	L	Missense	NA
+1256	419	C	G	P	R	Missense	NA
+1257	419	C	A	P	P	Synonymous	NA
+1257	419	C	T	P	P	Synonymous	Likely benign
+1257	419	C	G	P	P	Synonymous	NA
+1258	420	T	A	F	I	Missense	NA
+1258	420	T	C	F	L	Missense	NA
+1258	420	T	G	F	V	Missense	NA
+1259	420	T	A	F	Y	Missense	NA
+1259	420	T	C	F	S	Missense	NA
+1259	420	T	G	F	C	Missense	NA
+1260	420	C	A	F	L	Missense	NA
+1260	420	C	T	F	F	Synonymous	NA
+1260	420	C	G	F	L	Missense	NA
+1261	421	T	A	Y	N	Missense	NA
+1261	421	T	C	Y	H	Missense	Uncertain significance
+1261	421	T	G	Y	D	Missense	NA
+1262	421	A	C	Y	S	Missense	NA
+1262	421	A	T	Y	F	Missense	NA
+1262	421	A	G	Y	C	Missense	NA
+1263	421	C	A	Y	*	Nonsense	NA
+1263	421	C	T	Y	Y	Synonymous	Likely benign
+1263	421	C	G	Y	*	Nonsense	NA
+1264	422	C	A	P	T	Missense	NA
+1264	422	C	T	P	S	Missense	NA
+1264	422	C	G	P	A	Missense	NA
+1265	422	C	A	P	H	Missense	NA
+1265	422	C	T	P	L	Missense	NA
+1265	422	C	G	P	R	Missense	NA
+1266	422	C	A	P	P	Synonymous	NA
+1266	422	C	T	P	P	Synonymous	NA
+1266	422	C	G	P	P	Synonymous	Likely benign
+1267	423	C	A	R	S	Missense	NA
+1267	423	C	T	R	C	Missense	NA
+1267	423	C	G	R	G	Missense	NA
+1268	423	G	A	R	H	Missense	NA
+1268	423	G	C	R	P	Missense	Uncertain significance
+1268	423	G	T	R	L	Missense	NA
+1269	423	C	A	R	R	Synonymous	Likely benign
+1269	423	C	T	R	R	Synonymous	NA
+1269	423	C	G	R	R	Synonymous	NA
+1270	424	A	C	N	H	Missense	Uncertain significance
+1270	424	A	T	N	Y	Missense	NA
+1270	424	A	G	N	D	Missense	NA
+1271	424	A	C	N	T	Missense	NA
+1271	424	A	T	N	I	Missense	NA
+1271	424	A	G	N	S	Missense	Uncertain significance
+1272	424	T	A	N	K	Missense	NA
+1272	424	T	C	N	N	Synonymous	Likely benign
+1272	424	T	G	N	K	Missense	NA
+1273	425	G	A	G	S	Missense	NA
+1273	425	G	C	G	R	Missense	NA
+1273	425	G	T	G	C	Missense	NA
+1274	425	G	A	G	D	Missense	NA
+1274	425	G	C	G	A	Missense	NA
+1274	425	G	T	G	V	Missense	NA
+1275	425	C	A	G	G	Synonymous	NA
+1275	425	C	T	G	G	Synonymous	NA
+1275	425	C	G	G	G	Synonymous	NA
+1276	426	G	A	V	I	Missense	NA
+1276	426	G	C	V	L	Missense	NA
+1276	426	G	T	V	F	Missense	NA
+1277	426	T	A	V	D	Missense	NA
+1277	426	T	C	V	A	Missense	NA
+1277	426	T	G	V	G	Missense	NA
+1278	426	C	A	V	V	Synonymous	NA
+1278	426	C	T	V	V	Synonymous	NA
+1278	426	C	G	V	V	Synonymous	NA
+1279	427	A	C	M	L	Missense	NA
+1279	427	A	T	M	L	Missense	NA
+1279	427	A	G	M	V	Missense	NA
+1280	427	T	A	M	K	Missense	NA
+1280	427	T	C	M	T	Missense	NA
+1280	427	T	G	M	R	Missense	NA
+1281	427	G	A	M	I	Missense	NA
+1281	427	G	C	M	I	Missense	NA
+1281	427	G	T	M	I	Missense	NA
+1282	428	A	C	T	P	Missense	NA
+1282	428	A	T	T	S	Missense	NA
+1282	428	A	G	T	A	Missense	Uncertain significance
+1283	428	C	A	T	N	Missense	NA
+1283	428	C	T	T	I	Missense	NA
+1283	428	C	G	T	S	Missense	NA
+1284	428	C	A	T	T	Synonymous	NA
+1284	428	C	T	T	T	Synonymous	NA
+1284	428	C	G	T	T	Synonymous	NA
+1285	429	A	C	K	Q	Missense	NA
+1285	429	A	T	K	*	Nonsense	NA
+1285	429	A	G	K	E	Missense	NA
+1286	429	A	C	K	T	Missense	NA
+1286	429	A	T	K	M	Missense	NA
+1286	429	A	G	K	R	Missense	NA
+1287	429	G	A	K	K	Synonymous	Likely benign
+1287	429	G	C	K	N	Missense	NA
+1287	429	G	T	K	N	Missense	NA
+1288	430	G	A	D	N	Missense	NA
+1288	430	G	C	D	H	Missense	NA
+1288	430	G	T	D	Y	Missense	NA
+1289	430	A	C	D	A	Missense	NA
+1289	430	A	T	D	V	Missense	NA
+1289	430	A	G	D	G	Missense	NA
+1290	430	C	A	D	E	Missense	NA
+1290	430	C	T	D	D	Synonymous	NA
+1290	430	C	G	D	E	Missense	NA
+1291	431	A	C	T	P	Missense	NA
+1291	431	A	T	T	S	Missense	NA
+1291	431	A	G	T	A	Missense	Uncertain significance
+1292	431	C	A	T	K	Missense	NA
+1292	431	C	T	T	M	Missense	NA
+1292	431	C	G	T	R	Missense	NA
+1293	431	G	A	T	T	Synonymous	NA
+1293	431	G	C	T	T	Synonymous	NA
+1293	431	G	T	T	T	Synonymous	NA
+1294	432	T	A	W	R	Missense	NA
+1294	432	T	C	W	R	Missense	NA
+1294	432	T	G	W	G	Missense	NA
+1295	432	G	A	W	*	Nonsense	NA
+1295	432	G	C	W	S	Missense	NA
+1295	432	G	T	W	L	Missense	NA
+1296	432	G	A	W	*	Nonsense	Likely pathogenic
+1296	432	G	C	W	C	Missense	NA
+1296	432	G	T	W	C	Missense	NA
+1297	433	C	A	L	M	Missense	NA
+1297	433	C	T	L	L	Synonymous	NA
+1297	433	C	G	L	V	Missense	NA
+1298	433	T	A	L	Q	Missense	NA
+1298	433	T	C	L	P	Missense	NA
+1298	433	T	G	L	R	Missense	NA
+1299	433	G	A	L	L	Synonymous	NA
+1299	433	G	C	L	L	Synonymous	Likely benign
+1299	433	G	T	L	L	Synonymous	NA
+1300	434	G	A	D	N	Missense	NA
+1300	434	G	C	D	H	Missense	NA
+1300	434	G	T	D	Y	Missense	NA
+1301	434	A	C	D	A	Missense	NA
+1301	434	A	T	D	V	Missense	NA
+1301	434	A	G	D	G	Missense	Uncertain significance
+1302	434	C	A	D	E	Missense	NA
+1302	434	C	T	D	D	Synonymous	NA
+1302	434	C	G	D	E	Missense	NA
+1303	435	C	A	H	N	Missense	NA
+1303	435	C	T	H	Y	Missense	NA
+1303	435	C	G	H	D	Missense	NA
+1304	435	A	C	H	P	Missense	NA
+1304	435	A	T	H	L	Missense	NA
+1304	435	A	G	H	R	Missense	NA
+1305	435	C	A	H	Q	Missense	NA
+1305	435	C	T	H	H	Synonymous	Likely benign
+1305	435	C	G	H	Q	Missense	NA
+1306	436	C	A	R	R	Synonymous	NA
+1306	436	C	T	R	W	Missense	Uncertain significance
+1306	436	C	G	R	G	Missense	NA
+1307	436	G	A	R	Q	Missense	Uncertain significance
+1307	436	G	C	R	P	Missense	NA
+1307	436	G	T	R	L	Missense	NA
+1308	436	G	A	R	R	Synonymous	NA
+1308	436	G	C	R	R	Synonymous	NA
+1308	436	G	T	R	R	Synonymous	NA
+1309	437	C	A	Q	K	Missense	Uncertain significance
+1309	437	C	T	Q	*	Nonsense	NA
+1309	437	C	G	Q	E	Missense	NA
+1310	437	A	C	Q	P	Missense	NA
+1310	437	A	T	Q	L	Missense	NA
+1310	437	A	G	Q	R	Missense	Uncertain significance
+1311	437	G	A	Q	Q	Synonymous	NA
+1311	437	G	C	Q	H	Missense	NA
+1311	437	G	T	Q	H	Missense	NA
+1312	438	G	A	D	N	Missense	NA
+1312	438	G	C	D	H	Missense	NA
+1312	438	G	T	D	Y	Missense	NA
+1313	438	A	C	D	A	Missense	NA
+1313	438	A	T	D	V	Missense	NA
+1313	438	A	G	D	G	Missense	NA
+1314	438	T	A	D	E	Missense	NA
+1314	438	T	C	D	D	Synonymous	Likely benign
+1314	438	T	G	D	E	Missense	NA
+1315	439	G	A	V	M	Missense	Uncertain significance
+1315	439	G	C	V	L	Missense	NA
+1315	439	G	T	V	L	Missense	NA
+1316	439	T	A	V	E	Missense	Uncertain significance
+1316	439	T	C	V	A	Missense	NA
+1316	439	T	G	V	G	Missense	NA
+1317	439	G	A	V	V	Synonymous	Likely benign
+1317	439	G	C	V	V	Synonymous	NA
+1317	439	G	T	V	V	Synonymous	NA
+1318	440	G	A	E	K	Missense	NA
+1318	440	G	C	E	Q	Missense	NA
+1318	440	G	T	E	*	Nonsense	NA
+1319	440	A	C	E	A	Missense	NA
+1319	440	A	T	E	V	Missense	NA
+1319	440	A	G	E	G	Missense	NA
+1320	440	G	A	E	E	Synonymous	Likely benign
+1320	440	G	C	E	D	Missense	NA
+1320	440	G	T	E	D	Missense	NA
+1321	441	T	A	F	I	Missense	NA
+1321	441	T	C	F	L	Missense	NA
+1321	441	T	G	F	V	Missense	NA
+1322	441	T	A	F	Y	Missense	NA
+1322	441	T	C	F	S	Missense	NA
+1322	441	T	G	F	C	Missense	NA
+1323	441	T	A	F	L	Missense	NA
+1323	441	T	C	F	F	Synonymous	NA
+1323	441	T	G	F	L	Missense	Uncertain significance
+1324	442	C	A	P	T	Missense	NA
+1324	442	C	T	P	S	Missense	NA
+1324	442	C	G	P	A	Missense	NA
+1325	442	C	A	P	H	Missense	NA
+1325	442	C	T	P	L	Missense	NA
+1325	442	C	G	P	R	Missense	NA
+1326	442	C	A	P	P	Synonymous	NA
+1326	442	C	T	P	P	Synonymous	Likely benign
+1326	442	C	G	P	P	Synonymous	NA
+1327	443	G	A	E	K	Missense	Likely pathogenic
+1327	443	G	C	E	Q	Missense	NA
+1327	443	G	T	E	*	Nonsense	NA
+1328	443	A	C	E	A	Missense	NA
+1328	443	A	T	E	V	Missense	NA
+1328	443	A	G	E	G	Missense	Uncertain significance
+1329	443	G	A	E	E	Synonymous	NA
+1329	443	G	C	E	D	Missense	NA
+1329	443	G	T	E	D	Missense	NA
+1330	444	C	A	H	N	Missense	NA
+1330	444	C	T	H	Y	Missense	NA
+1330	444	C	G	H	D	Missense	NA
+1331	444	A	C	H	P	Missense	NA
+1331	444	A	T	H	L	Missense	NA
+1331	444	A	G	H	R	Missense	NA
+1332	444	C	A	H	Q	Missense	NA
+1332	444	C	T	H	H	Synonymous	Likely benign
+1332	444	C	G	H	Q	Missense	NA
+1333	445	T	A	F	I	Missense	NA
+1333	445	T	C	F	L	Missense	NA
+1333	445	T	G	F	V	Missense	NA
+1334	445	T	A	F	Y	Missense	NA
+1334	445	T	C	F	S	Missense	NA
+1334	445	T	G	F	C	Missense	NA
+1335	445	C	A	F	L	Missense	NA
+1335	445	C	T	F	F	Synonymous	NA
+1335	445	C	G	F	L	Missense	NA
+1336	446	C	A	L	M	Missense	NA
+1336	446	C	T	L	L	Synonymous	Likely benign
+1336	446	C	G	L	V	Missense	NA
+1337	446	T	A	L	Q	Missense	NA
+1337	446	T	C	L	P	Missense	NA
+1337	446	T	G	L	R	Missense	NA
+1338	446	G	A	L	L	Synonymous	Likely benign
+1338	446	G	C	L	L	Synonymous	NA
+1338	446	G	T	L	L	Synonymous	NA
+1339	447	C	A	Q	K	Missense	NA
+1339	447	C	T	Q	*	Nonsense	NA
+1339	447	C	G	Q	E	Missense	NA
+1340	447	A	C	Q	P	Missense	NA
+1340	447	A	T	Q	L	Missense	NA
+1340	447	A	G	Q	R	Missense	NA
+1341	447	G	A	Q	Q	Synonymous	NA
+1341	447	G	C	Q	H	Missense	NA
+1341	447	G	T	Q	H	Missense	NA
+1342	448	C	A	P	T	Missense	NA
+1342	448	C	T	P	S	Missense	NA
+1342	448	C	G	P	A	Missense	NA
+1343	448	C	A	P	Q	Missense	NA
+1343	448	C	T	P	L	Missense	Pathogenic/Likely pathogenic
+1343	448	C	G	P	R	Missense	NA
+1344	448	G	A	P	P	Synonymous	Likely benign
+1344	448	G	C	P	P	Synonymous	Likely benign
+1344	448	G	T	P	P	Synonymous	Likely benign
+1345	449	C	A	L	M	Missense	NA
+1345	449	C	T	L	L	Synonymous	Likely benign
+1345	449	C	G	L	V	Missense	NA
+1346	449	T	A	L	Q	Missense	NA
+1346	449	T	C	L	P	Missense	Uncertain significance
+1346	449	T	G	L	R	Missense	NA
+1347	449	G	A	L	L	Synonymous	NA
+1347	449	G	C	L	L	Synonymous	NA
+1347	449	G	T	L	L	Synonymous	NA
+1348	450	G	A	V	M	Missense	NA
+1348	450	G	C	V	L	Missense	NA
+1348	450	G	T	V	L	Missense	NA
+1349	450	T	A	V	E	Missense	NA
+1349	450	T	C	V	A	Missense	Uncertain significance
+1349	450	T	G	V	G	Missense	NA
+1350	450	G	A	V	V	Synonymous	NA
+1350	450	G	C	V	V	Synonymous	NA
+1350	450	G	T	V	V	Synonymous	NA
+1351	451	C	A	P	T	Missense	NA
+1351	451	C	T	P	S	Missense	NA
+1351	451	C	G	P	A	Missense	NA
+1352	451	C	A	P	H	Missense	NA
+1352	451	C	T	P	L	Missense	Uncertain significance
+1352	451	C	G	P	R	Missense	NA
+1353	451	C	A	P	P	Synonymous	NA
+1353	451	C	T	P	P	Synonymous	Likely benign
+1353	451	C	G	P	P	Synonymous	NA
+1354	452	C	A	L	M	Missense	NA
+1354	452	C	T	L	L	Synonymous	NA
+1354	452	C	G	L	V	Missense	NA
+1355	452	T	A	L	Q	Missense	NA
+1355	452	T	C	L	P	Missense	NA
+1355	452	T	G	L	R	Missense	NA
+1356	452	G	A	L	L	Synonymous	NA
+1356	452	G	C	L	L	Synonymous	NA
+1356	452	G	T	L	L	Synonymous	NA
+1357	453	C	A	P	T	Missense	NA
+1357	453	C	T	P	S	Missense	NA
+1357	453	C	G	P	A	Missense	NA
+1358	453	C	A	P	H	Missense	NA
+1358	453	C	T	P	L	Missense	Uncertain significance
+1358	453	C	G	P	R	Missense	NA
+1359	453	C	A	P	P	Synonymous	NA
+1359	453	C	T	P	P	Synonymous	NA
+1359	453	C	G	P	P	Synonymous	NA
+1360	454	T	A	F	I	Missense	NA
+1360	454	T	C	F	L	Missense	Uncertain significance
+1360	454	T	G	F	V	Missense	NA
+1361	454	T	A	F	Y	Missense	NA
+1361	454	T	C	F	S	Missense	NA
+1361	454	T	G	F	C	Missense	NA
+1362	454	T	A	F	L	Missense	NA
+1362	454	T	C	F	F	Synonymous	Likely benign
+1362	454	T	G	F	L	Missense	NA
+1363	455	G	A	A	T	Missense	Conflicting interpretations of pathogenicity
+1363	455	G	C	A	P	Missense	NA
+1363	455	G	T	A	S	Missense	Uncertain significance
+1364	455	C	A	A	D	Missense	Pathogenic
+1364	455	C	T	A	V	Missense	Likely pathogenic
+1364	455	C	G	A	G	Missense	NA
+1365	455	C	A	A	A	Synonymous	NA
+1365	455	C	T	A	A	Synonymous	Likely benign
+1365	455	C	G	A	A	Synonymous	Likely benign
+1366	456	G	A	G	S	Missense	Uncertain significance
+1366	456	G	C	G	R	Missense	NA
+1366	456	G	T	G	C	Missense	NA
+1367	456	G	A	G	D	Missense	NA
+1367	456	G	C	G	A	Missense	NA
+1367	456	G	T	G	V	Missense	NA
+1368	456	C	A	G	G	Synonymous	NA
+1368	456	C	T	G	G	Synonymous	Likely benign
+1368	456	C	G	G	G	Synonymous	NA
+1369	457	T	A	F	I	Missense	NA
+1369	457	T	C	F	L	Missense	NA
+1369	457	T	G	F	V	Missense	NA
+1370	457	T	A	F	Y	Missense	NA
+1370	457	T	C	F	S	Missense	NA
+1370	457	T	G	F	C	Missense	NA
+1371	457	C	A	F	L	Missense	NA
+1371	457	C	T	F	F	Synonymous	NA
+1371	457	C	G	F	L	Missense	Uncertain significance
+1372	458	G	A	V	M	Missense	NA
+1372	458	G	C	V	L	Missense	NA
+1372	458	G	T	V	L	Missense	NA
+1373	458	T	A	V	E	Missense	NA
+1373	458	T	C	V	A	Missense	NA
+1373	458	T	G	V	G	Missense	NA
+1374	458	G	A	V	V	Synonymous	NA
+1374	458	G	C	V	V	Synonymous	NA
+1374	458	G	T	V	V	Synonymous	NA
+1375	459	G	A	A	T	Missense	NA
+1375	459	G	C	A	P	Missense	NA
+1375	459	G	T	A	S	Missense	NA
+1376	459	C	A	A	E	Missense	NA
+1376	459	C	T	A	V	Missense	Uncertain significance
+1376	459	C	G	A	G	Missense	NA
+1377	459	G	A	A	A	Synonymous	NA
+1377	459	G	C	A	A	Synonymous	Likely benign
+1377	459	G	T	A	A	Synonymous	Likely benign
+1378	460	C	A	Q	K	Missense	NA
+1378	460	C	T	Q	*	Nonsense	Likely pathogenic
+1378	460	C	G	Q	E	Missense	NA
+1379	460	A	C	Q	P	Missense	NA
+1379	460	A	T	Q	L	Missense	NA
+1379	460	A	G	Q	R	Missense	Uncertain significance
+1380	460	G	A	Q	Q	Synonymous	NA
+1380	460	G	C	Q	H	Missense	NA
+1380	460	G	T	Q	H	Missense	NA
+1381	461	G	A	A	T	Missense	NA
+1381	461	G	C	A	P	Missense	NA
+1381	461	G	T	A	S	Missense	NA
+1382	461	C	A	A	E	Missense	NA
+1382	461	C	T	A	V	Missense	NA
+1382	461	C	G	A	G	Missense	Uncertain significance
+1383	461	G	A	A	A	Synonymous	Likely benign
+1383	461	G	C	A	A	Synonymous	Likely benign
+1383	461	G	T	A	A	Synonymous	Conflicting interpretations of pathogenicity
+1384	462	C	A	P	T	Missense	NA
+1384	462	C	T	P	S	Missense	Pathogenic/Likely pathogenic
+1384	462	C	G	P	A	Missense	NA
+1385	462	C	A	P	H	Missense	NA
+1385	462	C	T	P	L	Missense	Likely pathogenic
+1385	462	C	G	P	R	Missense	NA
+1386	462	T	A	P	P	Synonymous	NA
+1386	462	T	C	P	P	Synonymous	Likely benign
+1386	462	T	G	P	P	Synonymous	Likely benign
+1387	463	A	C	N	H	Missense	NA
+1387	463	A	T	N	Y	Missense	NA
+1387	463	A	G	N	D	Missense	Pathogenic/Likely pathogenic
+1388	463	A	C	N	T	Missense	NA
+1388	463	A	T	N	I	Missense	Conflicting interpretations of pathogenicity
+1388	463	A	G	N	S	Missense	Likely pathogenic
+1389	463	C	A	N	K	Missense	Likely pathogenic
+1389	463	C	T	N	N	Synonymous	Likely benign
+1389	463	C	G	N	K	Missense	NA
+1390	464	A	C	N	H	Missense	NA
+1390	464	A	T	N	Y	Missense	NA
+1390	464	A	G	N	D	Missense	NA
+1391	464	A	C	N	T	Missense	NA
+1391	464	A	T	N	I	Missense	NA
+1391	464	A	G	N	S	Missense	NA
+1392	464	C	A	N	K	Missense	NA
+1392	464	C	T	N	N	Synonymous	NA
+1392	464	C	G	N	K	Missense	NA
+1393	465	T	A	Y	N	Missense	NA
+1393	465	T	C	Y	H	Missense	NA
+1393	465	T	G	Y	D	Missense	NA
+1394	465	A	C	Y	S	Missense	Pathogenic
+1394	465	A	T	Y	F	Missense	NA
+1394	465	A	G	Y	C	Missense	NA
+1395	465	C	A	Y	*	Nonsense	NA
+1395	465	C	T	Y	Y	Synonymous	NA
+1395	465	C	G	Y	*	Nonsense	NA
+1396	466	C	A	R	S	Missense	NA
+1396	466	C	T	R	C	Missense	NA
+1396	466	C	G	R	G	Missense	NA
+1397	466	G	A	R	H	Missense	Uncertain significance
+1397	466	G	C	R	P	Missense	NA
+1397	466	G	T	R	L	Missense	NA
+1398	466	C	A	R	R	Synonymous	NA
+1398	466	C	T	R	R	Synonymous	NA
+1398	466	C	G	R	R	Synonymous	NA
+1399	467	C	A	R	S	Missense	NA
+1399	467	C	T	R	C	Missense	NA
+1399	467	C	G	R	G	Missense	NA
+1400	467	G	A	R	H	Missense	Uncertain significance
+1400	467	G	C	R	P	Missense	NA
+1400	467	G	T	R	L	Missense	NA
+1401	467	C	A	R	R	Synonymous	NA
+1401	467	C	T	R	R	Synonymous	NA
+1401	467	C	G	R	R	Synonymous	NA
+1402	468	T	A	F	I	Missense	NA
+1402	468	T	C	F	L	Missense	NA
+1402	468	T	G	F	V	Missense	NA
+1403	468	T	A	F	Y	Missense	NA
+1403	468	T	C	F	S	Missense	NA
+1403	468	T	G	F	C	Missense	NA
+1404	468	C	A	F	L	Missense	NA
+1404	468	C	T	F	F	Synonymous	Likely benign
+1404	468	C	G	F	L	Missense	NA
+1405	469	C	A	L	M	Missense	NA
+1405	469	C	T	L	L	Synonymous	Conflicting interpretations of pathogenicity
+1405	469	C	G	L	V	Missense	NA
+1406	469	T	A	L	Q	Missense	NA
+1406	469	T	C	L	P	Missense	NA
+1406	469	T	G	L	R	Missense	NA
+1407	469	G	A	L	L	Synonymous	Likely benign
+1407	469	G	C	L	L	Synonymous	NA
+1407	469	G	T	L	L	Synonymous	NA
+1408	470	G	A	E	K	Missense	NA
+1408	470	G	C	E	Q	Missense	NA
+1408	470	G	T	E	*	Nonsense	NA
+1409	470	A	C	E	A	Missense	NA
+1409	470	A	T	E	V	Missense	NA
+1409	470	A	G	E	G	Missense	NA
+1410	470	G	A	E	E	Synonymous	NA
+1410	470	G	C	E	D	Missense	NA
+1410	470	G	T	E	D	Missense	NA
+1411	471	C	A	L	I	Missense	NA
+1411	471	C	T	L	F	Missense	NA
+1411	471	C	G	L	V	Missense	Uncertain significance
+1412	471	T	A	L	H	Missense	NA
+1412	471	T	C	L	P	Missense	NA
+1412	471	T	G	L	R	Missense	NA
+1413	471	C	A	L	L	Synonymous	Likely benign
+1413	471	C	T	L	L	Synonymous	NA
+1413	471	C	G	L	L	Synonymous	NA
+1414	472	A	C	K	Q	Missense	NA
+1414	472	A	T	K	*	Nonsense	NA
+1414	472	A	G	K	E	Missense	NA
+1415	472	A	C	K	T	Missense	NA
+1415	472	A	T	K	M	Missense	NA
+1415	472	A	G	K	R	Missense	NA
+1416	472	G	A	K	K	Synonymous	Likely benign
+1416	472	G	C	K	N	Missense	NA
+1416	472	G	T	K	N	Missense	Uncertain significance
+1417	473	T	A	F	I	Missense	NA
+1417	473	T	C	F	L	Missense	NA
+1417	473	T	G	F	V	Missense	NA
+1418	473	T	A	F	Y	Missense	NA
+1418	473	T	C	F	S	Missense	NA
+1418	473	T	G	F	C	Missense	Uncertain significance
+1419	473	C	A	F	L	Missense	NA
+1419	473	C	T	F	F	Synonymous	Likely benign
+1419	473	C	G	F	L	Missense	NA
+1420	474	G	A	G	R	Missense	NA
+1420	474	G	C	G	R	Missense	NA
+1420	474	G	T	G	W	Missense	NA
+1421	474	G	A	G	E	Missense	NA
+1421	474	G	C	G	A	Missense	NA
+1421	474	G	T	G	V	Missense	NA
+1422	474	G	A	G	G	Synonymous	Likely benign
+1422	474	G	C	G	G	Synonymous	NA
+1422	474	G	T	G	G	Synonymous	NA
+1423	475	C	A	P	T	Missense	NA
+1423	475	C	T	P	S	Missense	NA
+1423	475	C	G	P	A	Missense	NA
+1424	475	C	A	P	H	Missense	NA
+1424	475	C	T	P	L	Missense	Uncertain significance
+1424	475	C	G	P	R	Missense	NA
+1425	475	C	A	P	P	Synonymous	NA
+1425	475	C	T	P	P	Synonymous	NA
+1425	475	C	G	P	P	Synonymous	NA
+1426	476	G	A	G	R	Missense	Uncertain significance
+1426	476	G	C	G	R	Missense	NA
+1426	476	G	T	G	W	Missense	NA
+1427	476	G	A	G	E	Missense	Uncertain significance
+1427	476	G	C	G	A	Missense	NA
+1427	476	G	T	G	V	Missense	NA
+1428	476	G	A	G	G	Synonymous	NA
+1428	476	G	C	G	G	Synonymous	NA
+1428	476	G	T	G	G	Synonymous	NA
+1429	477	G	A	V	I	Missense	Uncertain significance
+1429	477	G	C	V	L	Missense	NA
+1429	477	G	T	V	F	Missense	NA
+1430	477	T	A	V	D	Missense	NA
+1430	477	T	C	V	A	Missense	NA
+1430	477	T	G	V	G	Missense	NA
+1431	477	C	A	V	V	Synonymous	NA
+1431	477	C	T	V	V	Synonymous	NA
+1431	477	C	G	V	V	Synonymous	NA
+1432	478	A	C	I	L	Missense	NA
+1432	478	A	T	I	F	Missense	NA
+1432	478	A	G	I	V	Missense	Likely pathogenic
+1433	478	T	A	I	N	Missense	NA
+1433	478	T	C	I	T	Missense	Pathogenic/Likely pathogenic
+1433	478	T	G	I	S	Missense	NA
+1434	478	C	A	I	I	Synonymous	NA
+1434	478	C	T	I	I	Synonymous	NA
+1434	478	C	G	I	M	Missense	NA
+1435	479	G	A	E	K	Missense	Uncertain significance
+1435	479	G	C	E	Q	Missense	NA
+1435	479	G	T	E	*	Nonsense	NA
+1436	479	A	C	E	A	Missense	NA
+1436	479	A	T	E	V	Missense	NA
+1436	479	A	G	E	G	Missense	Uncertain significance
+1437	479	G	A	E	E	Synonymous	NA
+1437	479	G	C	E	D	Missense	NA
+1437	479	G	T	E	D	Missense	NA
+1438	480	A	C	N	H	Missense	NA
+1438	480	A	T	N	Y	Missense	NA
+1438	480	A	G	N	D	Missense	NA
+1439	480	A	C	N	T	Missense	NA
+1439	480	A	T	N	I	Missense	Uncertain significance
+1439	480	A	G	N	S	Missense	NA
+1440	480	C	A	N	K	Missense	NA
+1440	480	C	T	N	N	Synonymous	Benign/Likely benign
+1440	480	C	G	N	K	Missense	Uncertain significance
+1441	481	C	A	P	T	Missense	NA
+1441	481	C	T	P	S	Missense	NA
+1441	481	C	G	P	A	Missense	Conflicting interpretations of pathogenicity
+1442	481	C	A	P	H	Missense	Uncertain significance
+1442	481	C	T	P	L	Missense	NA
+1442	481	C	G	P	R	Missense	NA
+1443	481	C	A	P	P	Synonymous	NA
+1443	481	C	T	P	P	Synonymous	Likely benign
+1443	481	C	G	P	P	Synonymous	NA
+1444	482	C	A	Q	K	Missense	NA
+1444	482	C	T	Q	*	Nonsense	Uncertain significance
+1444	482	C	G	Q	E	Missense	NA
+1445	482	A	C	Q	P	Missense	NA
+1445	482	A	T	Q	L	Missense	NA
+1445	482	A	G	Q	R	Missense	NA
+1446	482	G	A	Q	Q	Synonymous	NA
+1446	482	G	C	Q	H	Missense	NA
+1446	482	G	T	Q	H	Missense	NA
+1447	483	T	A	Y	N	Missense	NA
+1447	483	T	C	Y	H	Missense	NA
+1447	483	T	G	Y	D	Missense	NA
+1448	483	A	C	Y	S	Missense	NA
+1448	483	A	T	Y	F	Missense	NA
+1448	483	A	G	Y	C	Missense	NA
+1449	483	C	A	Y	*	Nonsense	NA
+1449	483	C	T	Y	Y	Synonymous	Likely benign
+1449	483	C	G	Y	*	Nonsense	NA
+1450	484	C	A	P	T	Missense	NA
+1450	484	C	T	P	S	Missense	NA
+1450	484	C	G	P	A	Missense	NA
+1451	484	C	A	P	H	Missense	NA
+1451	484	C	T	P	L	Missense	NA
+1451	484	C	G	P	R	Missense	NA
+1452	484	C	A	P	P	Synonymous	NA
+1452	484	C	T	P	P	Synonymous	NA
+1452	484	C	G	P	P	Synonymous	NA
+1453	485	A	C	N	H	Missense	NA
+1453	485	A	T	N	Y	Missense	NA
+1453	485	A	G	N	D	Missense	NA
+1454	485	A	C	N	T	Missense	NA
+1454	485	A	T	N	I	Missense	NA
+1454	485	A	G	N	S	Missense	NA
+1455	485	C	A	N	K	Missense	NA
+1455	485	C	T	N	N	Synonymous	Likely benign
+1455	485	C	G	N	K	Missense	NA
+1456	486	C	A	P	T	Missense	NA
+1456	486	C	T	P	S	Missense	NA
+1456	486	C	G	P	A	Missense	NA
+1457	486	C	A	P	Q	Missense	NA
+1457	486	C	T	P	L	Missense	Uncertain significance
+1457	486	C	G	P	R	Missense	NA
+1458	486	G	A	P	P	Synonymous	Likely benign
+1458	486	G	C	P	P	Synonymous	Likely benign
+1458	486	G	T	P	P	Synonymous	NA
+1459	487	G	A	A	T	Missense	NA
+1459	487	G	C	A	P	Missense	NA
+1459	487	G	T	A	S	Missense	NA
+1460	487	C	A	A	E	Missense	NA
+1460	487	C	T	A	V	Missense	NA
+1460	487	C	G	A	G	Missense	NA
+1461	487	A	C	A	A	Synonymous	NA
+1461	487	A	T	A	A	Synonymous	NA
+1461	487	A	G	A	A	Synonymous	Likely benign
+1462	488	C	A	L	M	Missense	NA
+1462	488	C	T	L	L	Synonymous	NA
+1462	488	C	G	L	V	Missense	NA
+1463	488	T	A	L	Q	Missense	NA
+1463	488	T	C	L	P	Missense	NA
+1463	488	T	G	L	R	Missense	NA
+1464	488	G	A	L	L	Synonymous	NA
+1464	488	G	C	L	L	Synonymous	NA
+1464	488	G	T	L	L	Synonymous	NA
+1465	489	C	A	L	M	Missense	NA
+1465	489	C	T	L	L	Synonymous	Likely benign
+1465	489	C	G	L	V	Missense	NA
+1466	489	T	A	L	Q	Missense	NA
+1466	489	T	C	L	P	Missense	NA
+1466	489	T	G	L	R	Missense	Uncertain significance
+1467	489	G	A	L	L	Synonymous	NA
+1467	489	G	C	L	L	Synonymous	NA
+1467	489	G	T	L	L	Synonymous	NA
+1468	490	A	C	S	R	Missense	NA
+1468	490	A	T	S	C	Missense	NA
+1468	490	A	G	S	G	Missense	Uncertain significance
+1469	490	G	A	S	N	Missense	NA
+1469	490	G	C	S	T	Missense	NA
+1469	490	G	T	S	I	Missense	NA
+1470	490	T	A	S	R	Missense	NA
+1470	490	T	C	S	S	Synonymous	NA
+1470	490	T	G	S	R	Missense	NA
+1471	491	C	A	L	M	Missense	NA
+1471	491	C	T	L	L	Synonymous	NA
+1471	491	C	G	L	V	Missense	NA
+1472	491	T	A	L	Q	Missense	NA
+1472	491	T	C	L	P	Missense	NA
+1472	491	T	G	L	R	Missense	NA
+1473	491	G	A	L	L	Synonymous	NA
+1473	491	G	C	L	L	Synonymous	NA
+1473	491	G	T	L	L	Synonymous	NA
+1474	492	A	C	T	P	Missense	NA
+1474	492	A	T	T	S	Missense	NA
+1474	492	A	G	T	A	Missense	NA
+1475	492	C	A	T	K	Missense	NA
+1475	492	C	T	T	M	Missense	Uncertain significance
+1475	492	C	G	T	R	Missense	NA
+1476	492	G	A	T	T	Synonymous	NA
+1476	492	G	C	T	T	Synonymous	NA
+1476	492	G	T	T	T	Synonymous	NA
+1477	493	G	A	G	R	Missense	Uncertain significance
+1477	493	G	C	G	R	Missense	NA
+1477	493	G	T	G	*	Nonsense	NA
+1478	493	G	A	G	E	Missense	NA
+1478	493	G	C	G	A	Missense	NA
+1478	493	G	T	G	V	Missense	NA
+1479	493	A	C	G	G	Synonymous	NA
+1479	493	A	T	G	G	Synonymous	NA
+1479	493	A	G	G	G	Synonymous	NA
+1480	494	A	C	S	R	Missense	NA
+1480	494	A	T	S	C	Missense	NA
+1480	494	A	G	S	G	Missense	NA
+1481	494	G	A	S	N	Missense	NA
+1481	494	G	C	S	T	Missense	NA
+1481	494	G	T	S	I	Missense	NA
+1482	494	C	A	S	R	Missense	Uncertain significance
+1482	494	C	T	S	S	Synonymous	Likely benign
+1482	494	C	G	S	R	Missense	NA
+1483	495	G	A	G	S	Missense	NA
+1483	495	G	C	G	R	Missense	NA
+1483	495	G	T	G	C	Missense	NA
+1484	495	G	A	G	D	Missense	NA
+1484	495	G	C	G	A	Missense	NA
+1484	495	G	T	G	V	Missense	NA
+1485	495	C	A	G	G	Synonymous	NA
+1485	495	C	T	G	G	Synonymous	NA
+1485	495	C	G	G	G	Synonymous	NA
