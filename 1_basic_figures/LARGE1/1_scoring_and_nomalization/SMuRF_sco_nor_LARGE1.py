@@ -1,3 +1,5 @@
+#last updated:09212023
+
 #run this script using the following commands
 #python SMuRF_sco_nor_LARGE1.py all_possible_SNVs_with_clinvar_LARGE1_04202023 LARGE1_high1_variant_counts.tsv LARGE1_low1_variant_counts.tsv large1_1to2268.fasta high1_wt_blocks.tsv low1_wt_blocks.tsv normalized_LARGE1_block1_func 1 LARGE1_GRCh38_mapping.tsv
 #python SMuRF_sco_nor_LARGE1.py all_possible_SNVs_with_clinvar_LARGE1_04202023 LARGE1_high2_variant_counts.tsv LARGE1_low2_variant_counts.tsv large1_1to2268.fasta high2_wt_blocks.tsv low2_wt_blocks.tsv normalized_LARGE1_block2_func 2 LARGE1_GRCh38_mapping.tsv
@@ -139,10 +141,10 @@ for i in range (1,len(inseqouthighlines)):
         codon=lookuptl[1]
         WT_nt=lookuptl[2]
         Variant_nt=lookuptl[3]
-        WT_AA="NA"
+        Variant_AA="NA"
         if codon!="1":
-            WT_AA=lookuptl[4]
-        Variant_AA=lookuptl[5]
+            Variant_AA=lookuptl[5]
+        WT_AA=lookuptl[4]
         classification=lookuptl[6]
         Clinvar_clinical_significance=lookuptl[7]
 

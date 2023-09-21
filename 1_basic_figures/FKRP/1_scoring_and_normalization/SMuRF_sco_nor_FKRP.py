@@ -1,3 +1,5 @@
+#last updated 09212023
+
 #run this script using the following commands
 # python SMuRF_sco_nor_FKRP.py all_possible_SNVs_with_clinvar_FKRP_04202023 FKRP_high1_variant_counts.tsv FKRP_low1_variant_counts.tsv fkrp_1to1485.fasta high1_wt_blocks.tsv low1_wt_blocks.tsv normalized_FKRP_block1_func 1
 # python SMuRF_sco_nor_FKRP.py all_possible_SNVs_with_clinvar_FKRP_04202023 FKRP_high2_variant_counts.tsv FKRP_low2_variant_counts.tsv fkrp_1to1485.fasta high2_wt_blocks.tsv low2_wt_blocks.tsv normalized_FKRP_block2_func 2
@@ -133,10 +135,10 @@ for i in range (1,len(inseqouthighlines)):
         codon=lookuptl[1]
         WT_nt=lookuptl[2]
         Variant_nt=lookuptl[3]
-        WT_AA="NA"
+        Variant_AA="NA"
         if codon!="1":
-            WT_AA=lookuptl[4]
-        Variant_AA=lookuptl[5]
+            Variant_AA=lookuptl[5]
+        WT_AA=lookuptl[4]
         classification=lookuptl[6]
         Clinvar_clinical_significance=lookuptl[7]
 
