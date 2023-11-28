@@ -3,9 +3,9 @@
 
 This workflow involves a 2-way extension PCR-based saturation mutagenesis and high-throughput functional assays that can be evaluated with short-read Next-generation sequencing. We have organized scripts used for SMuRF across three repositories:    
 
-Balthazar repository is used to create the oligo library needed for the saturation mutagenesis as well as perform QC for the resulting construct.    
-Gagarmel repository is used to process the raw data from NGS to quantify the enrichment of the variants.    
-Azrael repository (this repository) is used to generate and analyze the functional scores, and plot the results.    
+**Balthazar repository** is used to create the oligo library needed for the saturation mutagenesis as well as perform QC for the resulting construct.    
+**Gagarmel repository** is used to process the raw data from NGS to quantify the enrichment of the variants.    
+**Azrael repository (this repository)** is used to generate and analyze the functional scores, and plot the results.    
 
 **Requirements:**    
 Python (tested on v2.7.16)    
