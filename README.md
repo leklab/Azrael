@@ -46,37 +46,39 @@ This directory contains the scripts that were used to compare results from diffe
 
 **1. Basic figures:**    
 This directory contains the scripts that can be used to generate the following figures:     
-1.1 Variant types-SMuRF    
-1.2 ClinVar classification-SMuRF    
-1.3 Enzymatic domains-SMuRF    
+1.1 Variant types-SMuRF (**Fig. 3a,b** in BioRxiv_v3)    
+1.2 ClinVar classification-SMuRF (**Fig. 4a,b** in BioRxiv_v3)    
+1.3 Enzymatic domains-SMuRF (**Fig. 5a-d and Supplementary Fig. 14** in BioRxiv_v3)    
 
 **2. Additional analyses:**    
 This directory contains the scripts that can be used to generate the following figures:     
-2.1 gnomAD-SMuRF    
-2.2 ROC of computational predictors and SMuRF    
-2.3 computational predictor score-SMuRF    
+2.1 gnomAD-SMuRF (**Fig. 3c,d** in BioRxiv_v3; see **7.5** bloew)     
+2.2 ROC of computational predictors and SMuRF (**Fig. 4e,f** in BioRxiv_v3)     
+2.3 computational predictor score-SMuRF (**Fig. 4g-i** in BioRxiv_v3)     
 
 **3. Patient reports:**    
 This directory contains the scripts that can be used to generate the following figures:     
-3.1 Disease severity-SMuRF    
-3.2 Onset-SMuRF    
-3.3 CK values-SMuRF    
+3.1 Disease severity-SMuRF (**Fig. 4c** in BioRxiv_v3)     
+3.2 Onset-SMuRF (**Fig. 4d** in BioRxiv_v3)     
+3.3 CK values-SMuRF (**Supplementary Fig. 4** in BioRxiv_v3)    
 
 **4. Potential novel discoveries:**    
 This directory contains the scripts that can be used to generate the following figures:     
-4.1 SynVep scores-SMuRF    
-4.2 Phylop-SMuRF    
+4.1 SynVep scores-SMuRF (**Supplementary Fig. 12** in BioRxiv_v3)     
+4.2 Phylop-SMuRF (**Supplementary Fig. 2** in BioRxiv_v3)     
 
 **5. Reclassification:**     
 This directory contains the scripts that can be used to classify and/or reclassify variants based on the SMuRF functional scores and confidence scores.    
+(**Supplementary Fig. 9,10** in BioRxiv_v3)     
 
 **6. ppVSV enrichment:**     
 ppVSV enrichment was evaluated with nanopore sequencing provided by Plasmidusaurus. This directory contains scripts to calculate the functional score based on the nanopore sequencing results.   
+(**Fig. 6c,d** in BioRxiv_v3)      
 
 **7. updates:**    
 This directory contains the scripts that can be used for following jobs:    
 7.1 Adding scores from a new computational tool to the spreadsheet.    
-7.2 LoGoFunc-SMuRF    
-7.3 Heatmap for comparing predictors    
-7.4 Enzymatic domains-computational scores & ClinVar-computational scores    
-7.5 gnomAD was updated to v4; we generated the gnomADv4-SMuRF figures.    
+7.2 LoGoFunc-SMuRF (**Supplementary Fig. 13** in BioRxiv_v3)    
+7.3 Heatmap for comparing predictors (**Supplementary Fig. 16a,b** in BioRxiv_v3)     
+7.4 Enzymatic domains-computational scores & ClinVar-computational scores (**Supplementary Fig. 16c-f** in BioRxiv_v3)       
+7.5 gnomAD was updated to v4; we generated the gnomADv4-SMuRF figures. (**Fig. 3c,d** in BioRxiv_v3)       
