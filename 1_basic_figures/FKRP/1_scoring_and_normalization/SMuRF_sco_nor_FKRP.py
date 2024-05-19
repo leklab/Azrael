@@ -27,10 +27,9 @@ block=int(sys.argv[8])
 
 #
 
-if block!="6":
-    block_size=250
-else:
-    block_size=235
+
+block_size=250
+
 
 
 
