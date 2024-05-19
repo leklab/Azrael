@@ -32,10 +32,9 @@ hg38sitefile=open(sys.argv[9],'rt')
 
 #
 
-if block!="10":
-    block_size=227
-else:
-    block_size=225
+
+block_size=227
+
 
 
 
