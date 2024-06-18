@@ -1,0 +1,9 @@
+Clinvar_clinical_significance	SMuRF_reclassification	confidence	Counts
+P/LP	SMuRF Benign	High	0
+P/LP	SMuRF Pathogenic	High	8
+VUS	SMuRF Benign	High	224
+VUS	SMuRF Pathogenic	High	24
+B/LB	SMuRF Benign	High	156
+B/LB	SMuRF Pathogenic	High	0
+Unclassified	SMuRF Benign	High	4747
+Unclassified	SMuRF Pathogenic	High	1314

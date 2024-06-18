@@ -1,0 +1,7 @@
+sample_name	experiment_replicate	selection_id	selection_replicate	technical_replicate	pair1	pair2
+large1low	1	0		1		
+large1SH1low	2	0		2		
+large1SH2low	3	0		3		
+large1high	1	1	1	1		
+large1SH1high	2	1	1	2		
+large1SH2high	3	1	1	3		

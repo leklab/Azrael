@@ -1,0 +1,9 @@
+chr	hg38_site	site	codon	WT_nt	Variant_nt	WT_AA	Variant_AA	classification	fitness_normalized	Clinvar_clinical_significance	Clinvar_conditions
+22	33274609	2089	697	G	T	V	L	Missense	-1.71377643047309	Pathogenic	Retinitis pigmentosa
+22	33304434	1525	509	G	A	E	K	Missense	-1.95405878019903	Pathogenic	Muscular dystrophy-dystroglycanopathy type B6
+22	33304476	1483	495	T	C	W	R	Missense	-2.11855141125828	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6
+22	33381948	1102	368	C	T	Q	*	Nonsense	-2.45042471568825	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6
+22	33384205	992	331	C	T	S	F	Missense	-2.57523459937671	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6
+22	33650441	334	112	G	T	E	*	Nonsense	-2.18008950033304	Pathogenic	Muscular dystrophy-dystroglycanopathy type B6
+22	33650492	283	95	C	T	R	*	Nonsense	-3.02617234193342	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6
+22	33650510	265	89	C	T	R	*	Nonsense	-2.49904367782612	Pathogenic	Muscular dystrophy-dystroglycanopathy type B6

@@ -1,0 +1,5 @@
+sample_name	experiment_replicate	selection_id	selection_replicate	technical_replicate	pair1	pair2
+fkrp1low	1	0		1		
+fkrp2low	2	0		2		
+fkrp1high	1	1	1	1		
+fkrp2high	2	1	1	2		

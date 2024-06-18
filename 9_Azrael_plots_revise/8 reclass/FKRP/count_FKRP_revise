@@ -1,0 +1,17 @@
+Clinvar_clinical_significance	SMuRF_reclassification	confidence	Counts
+P/LP	SMuRF Benign	High	3
+P/LP	SMuRF Mild	High	12
+P/LP	SMuRF Intermediate	High	21
+P/LP	SMuRF Severe	High	26
+VUS	SMuRF Benign	High	285
+VUS	SMuRF Mild	High	68
+VUS	SMuRF Intermediate	High	39
+VUS	SMuRF Severe	High	31
+B/LB	SMuRF Benign	High	275
+B/LB	SMuRF Mild	High	13
+B/LB	SMuRF Intermediate	High	0
+B/LB	SMuRF Severe	High	1
+Unclassified	SMuRF Benign	High	2328
+Unclassified	SMuRF Mild	High	436
+Unclassified	SMuRF Intermediate	High	360
+Unclassified	SMuRF Severe	High	427
