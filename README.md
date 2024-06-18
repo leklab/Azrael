@@ -98,7 +98,7 @@ This directory contains the scripts that can be used for following jobs:
 **8. SMuRF score generation:**  
 This directory contains the scripts to process the output from DiMSum to generate SMuRF scores:  
 8.1 Parsing variant count output from the Gargamel pipeline.  
-8.2 Splitting the variant count into respective blocks.  
+8.2 Splitting the variant count into respective gene blocks.  
 8.3 Replacing sites with no variant counts with the wild-type value  
 8.4 Running DiMSum to combine scores from multiple replicates  
 8.5 Formatting the output from DiMSum, perform confidence classification and normalization  
