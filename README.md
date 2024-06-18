@@ -95,31 +95,30 @@ This directory contains the scripts that can be used for following jobs:
 7.4 Enzymatic domains-computational scores & ClinVar-computational scores (**Supplementary Fig. 16c-f** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))       
 7.5 gnomAD was updated to v4; we generated the gnomADv4-SMuRF figures. (**Fig. 3c,d** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 
-**8. SMuRF score generation:**    
-This directory contains the scripts to process the output from DiMSum to generate SMuRF scores:    
-8.1 Parsing variant count output from the Gargamel pipeline.    
-8.2 Splitting the variant count into respective blocks.   
-8.3 Replacing sites with no variant counts with the wild-type value     
-8.4 Running DiMSum to combine scores from multiple replicates      
-8.5 Formatting the output from DiMSum, perform confidence classification and normalization   
+**8. SMuRF score generation:**  
+This directory contains the scripts to process the output from DiMSum to generate SMuRF scores:  
+8.1 Parsing variant count output from the Gargamel pipeline.  
+8.2 Splitting the variant count into respective blocks.  
+8.3 Replacing sites with no variant counts with the wild-type value  
+8.4 Running DiMSum to combine scores from multiple replicates  
+8.5 Formatting the output from DiMSum, perform confidence classification and normalization  
 
 **9. Azrael plots (revised):**  
-This directory contains the revised scripts that can be used to generate the following figures:    
-
-9.1 Pair-wise replicate comparison (**Revised Figure S2H**).
-9.2.1 Variant types-SMuRF (**Revised Figures 2A and 2B**).
-9.2.2 ClinVar classification-SMuRF (**Revised Figures 3A, 3B, S3G, and S3H**).
-9.2.3 Enzymatic domains-SMuRF (**Revised Figures 5A-D and S7H**).
-9.3 gnomAD-SMuRF (**Revised Figures 2C, 2D, S3C, and S3D**).
-9.4.1 ROC of computational predictors and SMuRF (**Revised Figures 4A and 4B**).
-9.4.2 computational predictor score-SMuRF (**Revised Figures 4D, 4E, and S4B**).
-9.5 Phylop-SMuRF (**Revised Figures S3E and S3F**).
-9.6.1 Disease severity-SMuRF (**Revised Figures 3C and S3I**).
-9.6.2 Onset-SMuRF(**Revised Figure 3D**).
-9.6.3 CK values-SMuRF(**Revised Figures S3L**).
-9.6.4 ClinVar Disease annotation & the GRASP LGMD consortium  figures (**Revised Figures S3J and S3K**).
-9.6.5 Cox proportional hazard test for SMuRF score vs age of onset.
-9.7 SMuRF & computational predictors pair-wise correlation heatmap (**Revised Figure S4A**).
-9.8 A potential SMuRF labeling of variants (**Revised Table 1**).
-9.9 SynVep-SMuRF (**Revised Figure S7F**).
-9.9 LoGoFunc-SMuRF (**Revised Figure S7G**).
+This directory contains the revised scripts that can be used to generate the following figures:  
+9.1 Pair-wise replicate comparison (**Revised Figure S2H**).  
+9.2.1 Variant types-SMuRF (**Revised Figures 2A and 2B**).  
+9.2.2 ClinVar classification-SMuRF (**Revised Figures 3A, 3B, S3G, and S3H**).  
+9.2.3 Enzymatic domains-SMuRF (**Revised Figures 5A-D and S7H**).  
+9.3 gnomAD-SMuRF (**Revised Figures 2C, 2D, S3C, and S3D**).  
+9.4.1 ROC of computational predictors and SMuRF (**Revised Figures 4A and 4B**).  
+9.4.2 computational predictor score-SMuRF (**Revised Figures 4D, 4E, and S4B**).  
+9.5 Phylop-SMuRF (**Revised Figures S3E and S3F**).  
+9.6.1 Disease severity-SMuRF (**Revised Figures 3C and S3I**).  
+9.6.2 Onset-SMuRF (**Revised Figure 3D**).  
+9.6.3 CK values-SMuRF (**Revised Figures S3L**).  
+9.6.4 ClinVar Disease annotation & the GRASP LGMD consortium figures (**Revised Figures S3J and S3K**).  
+9.6.5 Cox proportional hazard test for SMuRF score vs age of onset.  
+9.7 SMuRF & computational predictors pair-wise correlation heatmap (**Revised Figure S4A**).  
+9.8 A potential SMuRF labeling of variants (**Revised Table 1**).  
+9.9 SynVep-SMuRF (**Revised Figure S7F**).  
+9.10 LoGoFunc-SMuRF (**Revised Figure S7G**).
