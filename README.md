@@ -53,41 +53,41 @@ Following the DiMSum pipeline for variant score combination and error modeling, 
 
 
 ## Function score analysis and Figures
-**0. Test pipeline improvements:**    
+**0. Test pipeline improvements (version 1):**    
 This directory contains the scripts that were used to compare results from different pipelines during development.    
 
-**1. Basic figures:**    
+**1. Basic figures (version 1):**    
 This directory contains the scripts that can be used to generate the following figures:     
 1.1 Variant types-SMuRF (**Fig. 3a,b** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 1.2 ClinVar classification-SMuRF (**Fig. 4a,b** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 1.3 Enzymatic domains-SMuRF (**Fig. 5a-d and Supplementary Fig. 14** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 
-**2. Additional analyses:**    
+**2. Additional analyses (version 1):**    
 This directory contains the scripts that can be used to generate the following figures:     
 2.1 gnomAD-SMuRF (**Fig. 3c,d** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3); see **7.5** bloew)     
 2.2 ROC of computational predictors and SMuRF (**Fig. 4e,f** [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 2.3 computational predictor score-SMuRF (**Fig. 4g-i** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 
-**3. Patient reports:**    
+**3. Patient reports (version 1):**    
 This directory contains the scripts that can be used to generate the following figures:     
 3.1 Disease severity-SMuRF (**Fig. 4c** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 3.2 Onset-SMuRF (**Fig. 4d** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 3.3 CK values-SMuRF (**Supplementary Fig. 4** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 
-**4. Potential novel discoveries:**    
+**4. Potential novel discoveries (version 1):**    
 This directory contains the scripts that can be used to generate the following figures:     
 4.1 SynVep scores-SMuRF (**Supplementary Fig. 12** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 4.2 Phylop-SMuRF (**Supplementary Fig. 2** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 
-**5. Reclassification:**     
+**5. Reclassification (version 1):**     
 This directory contains the scripts that can be used to classify and/or reclassify variants based on the SMuRF functional scores and confidence scores.    
 (**Supplementary Fig. 9,10** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))     
 
-**6. ppVSV enrichment:**     
+**6. ppVSV enrichment (version 1):**     
 ppVSV enrichment was evaluated with nanopore sequencing provided by Plasmidusaurus. This directory contains scripts to calculate the functional score based on the nanopore sequencing results.   
 (**Fig. 6c,d** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))      
 
-**7. updates:**    
+**7. updates (version 1):**    
 This directory contains the scripts that can be used for following jobs:    
 7.1 Adding scores from a new computational tool to the spreadsheet.    
 7.2 LoGoFunc-SMuRF (**Supplementary Fig. 13** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
@@ -95,7 +95,7 @@ This directory contains the scripts that can be used for following jobs:
 7.4 Enzymatic domains-computational scores & ClinVar-computational scores (**Supplementary Fig. 16c-f** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))       
 7.5 gnomAD was updated to v4; we generated the gnomADv4-SMuRF figures. (**Fig. 3c,d** in [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.12.548370v3))    
 
-**8. SMuRF score generation:**  
+**8. SMuRF score generation (revised):**  
 This directory contains the scripts to process the output from DiMSum to generate SMuRF scores:  
 8.1 Parsing variant count output from the Gargamel pipeline.  
 8.2 Splitting the variant count into respective gene blocks.  
