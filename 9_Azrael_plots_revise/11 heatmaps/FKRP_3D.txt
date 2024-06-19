@@ -1,0 +1,49 @@
+# create a figure for FKRP
+# open chimeraX and paste in commands
+
+open 6kam
+preset ribbon 
+set bgColor #d3d3d3
+
+# hide all other ligands
+select :BA,CDP,MAN,NAG,NGA,PO4,RB0,ZN
+transparency sel 100 target abcsp
+~select :BA,CDP,MAN,NAG,NGA,PO4,RB0,ZN
+
+# only view one 
+select /B,C,D
+transparency sel 100 target abcsp
+~select /B,C,D
+
+# color domains, numbering per https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8657196/ 
+# stem 45-287; zfl 288-318; 319-495 catalytic
+color /A:45-287 #ffffe0
+color /A:288-318 #00B2EE
+color /A:319-495 #9370db
+
+# manually zoom and reposition
+
+# label residues 88,221,276,318 and 473
+select /A:88,221,276,318,473; show sel atoms; style sel stick; ~select /A:88,221,276,318,473
+label /A:88,221,276,318,473 residues height 2 
+
+# manually move arrows
+2dlabels arrow start 0.5,0.6 end 0.55,0.65 weight 0.1
+2dlabels arrow start 0.6,0.7 end 0.65,0.75 weight 0.1
+2dlabels arrow start 0.6,0.7 end 0.65,0.75 weight 0.1
+2dlabels arrow start 0.6,0.7 end 0.65,0.75 weight 0.1
+2dlabels arrow start 0.6,0.7 end 0.65,0.75 weight 0.1
+
+# save
+save FKRP_domain.png supersample 3
+
+
+# smurf score gradient
+open mean_score_fkrp_v3.defattr
+
+# adjust so the same scale can be used for both FKRP and LARGE1
+color byattribute mean_smurf palette -2,#B30000:0,#9dfa96:2,#006400
+
+# save
+save FKRP_mean_score_HIGH.png supersample 3
+
