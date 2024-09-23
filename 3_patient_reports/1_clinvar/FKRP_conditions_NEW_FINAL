@@ -1,0 +1,57 @@
+chr	hg38_site	site	codon	WT_nt	Variant_nt	WT_AA	Variant_AA	classification	fitness_normalized	Clinvar_clinical_significance	Clinvar_conditions
+19	46755451	1	1	A	C	M	NA	Start-loss	-3.191713697	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755451	1	1	A	G	M	NA	Start-loss	-3.287171294	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755469	19	7	C	T	Q	*	Nonsense	-2.872916568	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy
+19	46755601	151	51	G	T	V	F	Missense	-1.733482676	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755610	160	54	C	G	R	G	Missense	-0.977451902	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755611	161	54	G	A	R	Q	Missense	-1.332141718	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755619	169	57	G	T	E	*	Nonsense	-1.981408393	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755664	214	72	C	T	Q	*	Nonsense	-1.684058328	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46755714	264	88	C	A	Y	*	Nonsense	-3.489721934	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46755714	264	88	C	G	Y	*	Nonsense	-3.524776332	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46755953	503	168	G	A	C	Y	Missense	-3.262251965	Likely pathogenic	Muscular dystrophy-dystroglycanopathy type B5
+19	46755953	503	168	G	A	C	Y	Missense	-3.262251965	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46755953	503	168	G	A	C	Y	Missense	-3.262251965	Likely pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A5
+19	46755976	526	176	C	G	R	G	Missense	-1.600353669	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46755995	545	182	A	G	Y	C	Missense	-1.215361627	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46755995	545	182	A	G	Y	C	Missense	-1.215361627	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A1
+19	46755995	545	182	A	G	Y	C	Missense	-1.215361627	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A5
+19	46755995	545	182	A	G	Y	C	Missense	-1.215361627	Pathogenic	Muscular dystrophy-dystroglycanopathy type B5
+19	46755995	545	182	A	G	Y	C	Missense	-1.215361627	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756113	663	221	C	A	S	R	Missense	-2.216540486	Pathogenic	Muscular dystrophy-dystroglycanopathy type B5
+19	46756142	692	231	G	A	W	*	Nonsense	-1.836326067	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756214	764	255	G	A	W	*	Nonsense	-3.197804351	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756333	883	295	C	G	R	G	Missense	-2.273125953	Likely pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A5
+19	46756342	892	298	G	T	G	*	Nonsense	-2.221357371	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756381	931	311	G	T	E	*	Nonsense	-2.292927702	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756389	939	313	G	A	W	*	Nonsense	-2.300984627	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756391	941	314	C	T	T	M	Missense	-1.584900944	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756391	941	314	C	T	T	M	Missense	-1.584900944	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756396	946	316	C	G	P	A	Missense	-0.810151697	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756403	953	318	G	A	C	Y	Missense	-2.227782948	Pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A5
+19	46756462	1012	338	G	C	V	L	Missense	-1.572086347	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756462	1012	338	G	C	V	L	Missense	-1.572086347	Likely pathogenic	Abnormality of the musculature
+19	46756484	1034	345	G	C	G	A	Missense	-3.113629874	Likely pathogenic	Abnormality of the musculature
+19	46756486	1036	346	T	C	S	P	Missense	-1.528378919	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756533	1083	361	C	A	Y	*	Nonsense	-2.449631145	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756550	1100	367	T	A	I	N	Missense	-2.910374357	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756550	1100	367	T	C	I	T	Missense	-2.060983098	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756604	1154	385	C	A	S	*	Nonsense	-1.760492991	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756663	1213	405	G	T	V	L	Missense	-1.799310852	Pathogenic	Muscular dystrophy-dystroglycanopathy type B5
+19	46756671	1221	407	C	G	Y	*	Nonsense	-2.143610844	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756703	1253	418	G	A	W	*	Nonsense	-1.645496259	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756746	1296	432	G	A	W	*	Nonsense	-2.877005988	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756746	1296	432	G	A	W	*	Nonsense	-2.877005988	Likely pathogenic	Muscular dystrophy-dystroglycanopathy type B5
+19	46756746	1296	432	G	A	W	*	Nonsense	-2.877005988	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756746	1296	432	G	A	W	*	Nonsense	-2.877005988	Likely pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A5
+19	46756746	1296	432	G	A	W	*	Nonsense	-2.877005988	Likely pathogenic	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A1
+19	46756777	1327	443	G	A	E	K	Missense	-1.801451755	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756814	1364	455	C	A	A	D	Missense	-2.709595025	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756814	1364	455	C	A	A	D	Missense	-2.709595025	Pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756814	1364	455	C	T	A	V	Missense	-1.021387073	Likely pathogenic	Autosomal recessive limb-girdle muscular dystrophy type 2I
+19	46756828	1378	460	C	T	Q	*	Nonsense	-2.232376928	Likely pathogenic	Cardiovascular phenotype
+19	46756835	1385	462	C	T	P	L	Missense	-2.547579735	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756838	1388	463	A	G	N	S	Missense	-1.127998334	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756839	1389	463	C	A	N	K	Missense	-0.978141714	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756844	1394	465	A	C	Y	S	Missense	-2.095269878	Pathogenic	Walker-Warburg congenital muscular dystrophy
+19	46756882	1432	478	A	G	I	V	Missense	0.062306759	Likely pathogenic	Walker-Warburg congenital muscular dystrophy
