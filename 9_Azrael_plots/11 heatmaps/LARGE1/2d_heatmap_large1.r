@@ -13,7 +13,7 @@ library(argparse)
 parse_args <- function() {
   parser <- ArgumentParser(description = 'Generate 2D heatmap from SMuRF variant count file.')
   parser$add_argument('-i', '--input', required = TRUE, help = 'Input SMuRF variant count file')
-  parser$add_argument('-c', '--codon_segment', type = "integer", required = TRUE, help = 'Size of codon segment per row in heatmap')
+  parser$add_argument('-c', '--codon_segment', type = "integer", default = 160, help = 'Size of codon segment per row in heatmap (default: 160)')
   parser$add_argument('-o', '--output', required = TRUE, help = 'Output file prefix for the PNG and SVG')
   return(parser$parse_args())
 }
@@ -53,10 +53,21 @@ summary_df <- df_high_conf %>%
   group_by(codon, AA_Group) %>%
   summarise(mean_fitness = mean(fitness_normalized, na.rm = TRUE))
 
+# Add in a row for codon 155 (no passing variants)
+summary_df$codon <- as.character(summary_df$codon)
+codon_155_rows <- data.frame(
+  codon = rep("155", 5),  # Note: codon is now a character string
+  AA_Group = c("Negatively charged", "Positively charged", "Polar, uncharged", "Nonpolar, aromatic", "Nonpolar, aliphatic"),
+  mean_fitness = rep(NA, 5)
+)
+summary_df <- rbind(summary_df, codon_155_rows)
+summary_df$codon <- factor(summary_df$codon, levels = sort(unique(as.numeric(summary_df$codon))))
+
+
 summary_df <- summary_df %>%
   mutate(mean_fitness = pmax(pmin(mean_fitness, 2), -2))
 
-wt_df <- df_high_conf %>%
+wt_df <- df %>%
   distinct(codon, WT_AA) %>%
   mutate(AA_Group_wt = case_when(
     WT_AA %in% nonpolar_aliphatic ~ 'Nonpolar, aliphatic',
